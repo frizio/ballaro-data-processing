@@ -1,0 +1,1572 @@
+,ITTER107,Territorio,TIPO_DATO5,Tipo variabile,AGRI_MADRE,Tipo di coltivazione,TIME,Seleziona periodo,Value
+12,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,RADIINGRE,radicchio in serra,2018,2018,1692
+30,ITC3,Liguria,HP_Q_EXT,produzione raccolta - quintali ,RADIINGRE,radicchio in serra,2018,2018,600
+42,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,RADIINGRE,radicchio in serra,2018,2018,19280
+78,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,RADIINGRE,radicchio in serra,2018,2018,15805
+114,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,RADIINGRE,radicchio in serra,2018,2018,1870
+147,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,RADIINGRE,radicchio in serra,2018,2018,1011
+177,ITE2,Umbria,HP_Q_EXT,produzione raccolta - quintali ,RADIINGRE,radicchio in serra,2018,2018,70
+189,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,RADIINGRE,radicchio in serra,2018,2018,32
+207,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,RADIINGRE,radicchio in serra,2018,2018,9200
+234,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,RADIINGRE,radicchio in serra,2018,2018,16900
+258,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,RADIINGRE,radicchio in serra,2018,2018,470
+276,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,RADIINGRE,radicchio in serra,2018,2018,600
+288,ITG2,Sardegna,HP_Q_EXT,produzione raccolta - quintali ,RADIINGRE,radicchio in serra,2018,2018,4000
+344,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,CELEOPENF,sedano in piena aria,2018,2018,26490
+380,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,CELEOPENF,sedano in piena aria,2018,2018,3300
+398,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,CELEOPENF,sedano in piena aria,2018,2018,10500
+431,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,CELEOPENF,sedano in piena aria,2018,2018,111340
+467,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,CELEOPENF,sedano in piena aria,2018,2018,2830
+506,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,CELEOPENF,sedano in piena aria,2018,2018,5169
+530,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,CELEOPENF,sedano in piena aria,2018,2018,4830
+560,ITF1,Abruzzo,HP_Q_EXT,produzione raccolta - quintali ,CELEOPENF,sedano in piena aria,2018,2018,39400
+578,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,CELEOPENF,sedano in piena aria,2018,2018,18500
+590,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,CELEOPENF,sedano in piena aria,2018,2018,523425
+626,ITF5,Basilicata,HP_Q_EXT,produzione raccolta - quintali ,CELEOPENF,sedano in piena aria,2018,2018,59947
+644,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,CELEOPENF,sedano in piena aria,2018,2018,2120
+662,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,CELEOPENF,sedano in piena aria,2018,2018,12885
+698,ITG2,Sardegna,HP_Q_EXT,produzione raccolta - quintali ,CELEOPENF,sedano in piena aria,2018,2018,102420
+725,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,CABBNOPEN,cavolo cappuccio in piena aria,2018,2018,4648
+749,ITC3,Liguria,HP_Q_EXT,produzione raccolta - quintali ,CABBNOPEN,cavolo cappuccio in piena aria,2018,2018,3640
+773,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,CABBNOPEN,cavolo cappuccio in piena aria,2018,2018,160000
+821,ITD4,Friuli-Venezia Giulia,HP_Q_EXT,produzione raccolta - quintali ,CABBNOPEN,cavolo cappuccio in piena aria,2018,2018,4574
+851,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,CABBNOPEN,cavolo cappuccio in piena aria,2018,2018,17310
+878,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,CABBNOPEN,cavolo cappuccio in piena aria,2018,2018,17783
+929,ITE2,Umbria,HP_Q_EXT,produzione raccolta - quintali ,CABBNOPEN,cavolo cappuccio in piena aria,2018,2018,5375
+947,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,CABBNOPEN,cavolo cappuccio in piena aria,2018,2018,22085
+977,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,CABBNOPEN,cavolo cappuccio in piena aria,2018,2018,43295
+1010,ITF1,Abruzzo,HP_Q_EXT,produzione raccolta - quintali ,CABBNOPEN,cavolo cappuccio in piena aria,2018,2018,34680
+1040,ITF2,Molise,HP_Q_EXT,produzione raccolta - quintali ,CABBNOPEN,cavolo cappuccio in piena aria,2018,2018,7500
+1058,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,CABBNOPEN,cavolo cappuccio in piena aria,2018,2018,54693
+1094,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,CABBNOPEN,cavolo cappuccio in piena aria,2018,2018,249800
+1130,ITF5,Basilicata,HP_Q_EXT,produzione raccolta - quintali ,CABBNOPEN,cavolo cappuccio in piena aria,2018,2018,43407
+1148,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,CABBNOPEN,cavolo cappuccio in piena aria,2018,2018,63912
+1178,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,CABBNOPEN,cavolo cappuccio in piena aria,2018,2018,30750
+1214,ITG2,Sardegna,HP_Q_EXT,produzione raccolta - quintali ,CABBNOPEN,cavolo cappuccio in piena aria,2018,2018,167980
+1253,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,BRUSSPROUTS,cavolo di bruxelles in piena aria,2018,2018,2090
+1271,ITC3,Liguria,HP_Q_EXT,produzione raccolta - quintali ,BRUSSPROUTS,cavolo di bruxelles in piena aria,2018,2018,11680
+1292,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,BRUSSPROUTS,cavolo di bruxelles in piena aria,2018,2018,2425
+1322,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,BRUSSPROUTS,cavolo di bruxelles in piena aria,2018,2018,459
+1334,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,BRUSSPROUTS,cavolo di bruxelles in piena aria,2018,2018,960
+1349,ITF2,Molise,HP_Q_EXT,produzione raccolta - quintali ,BRUSSPROUTS,cavolo di bruxelles in piena aria,2018,2018,2250
+1361,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,BRUSSPROUTS,cavolo di bruxelles in piena aria,2018,2018,8000
+1373,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,BRUSSPROUTS,cavolo di bruxelles in piena aria,2018,2018,3800
+1385,ITF5,Basilicata,HP_Q_EXT,produzione raccolta - quintali ,BRUSSPROUTS,cavolo di bruxelles in piena aria,2018,2018,6250
+1397,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,BRUSSPROUTS,cavolo di bruxelles in piena aria,2018,2018,12195
+1430,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,SAVOBAGEIN,cavolo verza in piena aria,2018,2018,86899
+1478,ITC3,Liguria,HP_Q_EXT,produzione raccolta - quintali ,SAVOBAGEIN,cavolo verza in piena aria,2018,2018,3060
+1496,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,SAVOBAGEIN,cavolo verza in piena aria,2018,2018,62834
+1550,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,SAVOBAGEIN,cavolo verza in piena aria,2018,2018,15876
+1595,ITD4,Friuli-Venezia Giulia,HP_Q_EXT,produzione raccolta - quintali ,SAVOBAGEIN,cavolo verza in piena aria,2018,2018,1250
+1625,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,SAVOBAGEIN,cavolo verza in piena aria,2018,2018,15670
+1658,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,SAVOBAGEIN,cavolo verza in piena aria,2018,2018,54560
+1715,ITE2,Umbria,HP_Q_EXT,produzione raccolta - quintali ,SAVOBAGEIN,cavolo verza in piena aria,2018,2018,8720
+1733,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,SAVOBAGEIN,cavolo verza in piena aria,2018,2018,93878
+1763,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,SAVOBAGEIN,cavolo verza in piena aria,2018,2018,45090
+1802,ITF1,Abruzzo,HP_Q_EXT,produzione raccolta - quintali ,SAVOBAGEIN,cavolo verza in piena aria,2018,2018,131940
+1832,ITF2,Molise,HP_Q_EXT,produzione raccolta - quintali ,SAVOBAGEIN,cavolo verza in piena aria,2018,2018,7200
+1850,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,SAVOBAGEIN,cavolo verza in piena aria,2018,2018,69498
+1886,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,SAVOBAGEIN,cavolo verza in piena aria,2018,2018,279510
+1922,ITF5,Basilicata,HP_Q_EXT,produzione raccolta - quintali ,SAVOBAGEIN,cavolo verza in piena aria,2018,2018,37241
+1940,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,SAVOBAGEIN,cavolo verza in piena aria,2018,2018,65342
+1964,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,SAVOBAGEIN,cavolo verza in piena aria,2018,2018,20300
+1994,ITG2,Sardegna,HP_Q_EXT,produzione raccolta - quintali ,SAVOBAGEIN,cavolo verza in piena aria,2018,2018,7463
+2034,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,REDRINGR,peperone in serra,2018,2018,66875
+2076,ITC3,Liguria,HP_Q_EXT,produzione raccolta - quintali ,REDRINGR,peperone in serra,2018,2018,440
+2094,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,REDRINGR,peperone in serra,2018,2018,6040
+2142,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,REDRINGR,peperone in serra,2018,2018,140530
+2184,ITD4,Friuli-Venezia Giulia,HP_Q_EXT,produzione raccolta - quintali ,REDRINGR,peperone in serra,2018,2018,310
+2196,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,REDRINGR,peperone in serra,2018,2018,5460
+2244,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,REDRINGR,peperone in serra,2018,2018,1545
+2286,ITE2,Umbria,HP_Q_EXT,produzione raccolta - quintali ,REDRINGR,peperone in serra,2018,2018,7800
+2298,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,REDRINGR,peperone in serra,2018,2018,2583
+2328,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,REDRINGR,peperone in serra,2018,2018,72900
+2358,ITF1,Abruzzo,HP_Q_EXT,produzione raccolta - quintali ,REDRINGR,peperone in serra,2018,2018,1088
+2382,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,REDRINGR,peperone in serra,2018,2018,221968
+2406,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,REDRINGR,peperone in serra,2018,2018,17610
+2430,ITF5,Basilicata,HP_Q_EXT,produzione raccolta - quintali ,REDRINGR,peperone in serra,2018,2018,480
+2442,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,REDRINGR,peperone in serra,2018,2018,14036
+2478,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,REDRINGR,peperone in serra,2018,2018,193270
+2532,ITG2,Sardegna,HP_Q_EXT,produzione raccolta - quintali ,REDRINGR,peperone in serra,2018,2018,10471
+2588,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,CUCUINOPE,cetriolo da mensa in piena aria,2018,2018,1750
+2600,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,CUCUINOPE,cetriolo da mensa in piena aria,2018,2018,2051
+2624,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,CUCUINOPE,cetriolo da mensa in piena aria,2018,2018,1892
+2645,ITD4,Friuli-Venezia Giulia,HP_Q_EXT,produzione raccolta - quintali ,CUCUINOPE,cetriolo da mensa in piena aria,2018,2018,983
+2663,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,CUCUINOPE,cetriolo da mensa in piena aria,2018,2018,10640
+2690,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,CUCUINOPE,cetriolo da mensa in piena aria,2018,2018,4033
+2735,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,CUCUINOPE,cetriolo da mensa in piena aria,2018,2018,2556
+2753,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,CUCUINOPE,cetriolo da mensa in piena aria,2018,2018,10000
+2783,ITF1,Abruzzo,HP_Q_EXT,produzione raccolta - quintali ,CUCUINOPE,cetriolo da mensa in piena aria,2018,2018,3680
+2795,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,CUCUINOPE,cetriolo da mensa in piena aria,2018,2018,7000
+2807,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,CUCUINOPE,cetriolo da mensa in piena aria,2018,2018,74250
+2831,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,CUCUINOPE,cetriolo da mensa in piena aria,2018,2018,40160
+2855,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,CUCUINOPE,cetriolo da mensa in piena aria,2018,2018,19750
+2885,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,GHERINOPEN,cetriolo da sottaceti in piena aria,2018,2018,280
+2898,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,GHERINOPEN,cetriolo da sottaceti in piena aria,2018,2018,415
+2918,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,GHERINOPEN,cetriolo da sottaceti in piena aria,2018,2018,115
+2940,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,MELOGREENHO,popone o melone in serra,2018,2018,450
+2958,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,MELOGREENHO,popone o melone in serra,2018,2018,136788
+2988,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,MELOGREENHO,popone o melone in serra,2018,2018,229385
+3027,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,MELOGREENHO,popone o melone in serra,2018,2018,56570
+3081,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,MELOGREENHO,popone o melone in serra,2018,2018,9024
+3117,ITE2,Umbria,HP_Q_EXT,produzione raccolta - quintali ,MELOGREENHO,popone o melone in serra,2018,2018,6000
+3129,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,MELOGREENHO,popone o melone in serra,2018,2018,225
+3153,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,MELOGREENHO,popone o melone in serra,2018,2018,125550
+3180,ITF1,Abruzzo,HP_Q_EXT,produzione raccolta - quintali ,MELOGREENHO,popone o melone in serra,2018,2018,1000
+3192,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,MELOGREENHO,popone o melone in serra,2018,2018,164092
+3216,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,MELOGREENHO,popone o melone in serra,2018,2018,9750
+3240,ITF5,Basilicata,HP_Q_EXT,produzione raccolta - quintali ,MELOGREENHO,popone o melone in serra,2018,2018,73100
+3252,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,MELOGREENHO,popone o melone in serra,2018,2018,6489
+3276,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,MELOGREENHO,popone o melone in serra,2018,2018,102565
+3324,ITG2,Sardegna,HP_Q_EXT,produzione raccolta - quintali ,MELOGREENHO,popone o melone in serra,2018,2018,23920
+3380,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,MELOOPENFI,popone o melone in piena aria,2018,2018,85508
+3404,ITC3,Liguria,HP_Q_EXT,produzione raccolta - quintali ,MELOOPENFI,popone o melone in piena aria,2018,2018,440
+3422,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,MELOOPENFI,popone o melone in piena aria,2018,2018,932510
+3464,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,MELOOPENFI,popone o melone in piena aria,2018,2018,160010
+3506,ITD4,Friuli-Venezia Giulia,HP_Q_EXT,produzione raccolta - quintali ,MELOOPENFI,popone o melone in piena aria,2018,2018,3300
+3530,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,MELOOPENFI,popone o melone in piena aria,2018,2018,396346
+3596,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,MELOOPENFI,popone o melone in piena aria,2018,2018,136038
+3650,ITE2,Umbria,HP_Q_EXT,produzione raccolta - quintali ,MELOOPENFI,popone o melone in piena aria,2018,2018,122400
+3668,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,MELOOPENFI,popone o melone in piena aria,2018,2018,36151
+3698,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,MELOOPENFI,popone o melone in piena aria,2018,2018,250000
+3728,ITF1,Abruzzo,HP_Q_EXT,produzione raccolta - quintali ,MELOOPENFI,popone o melone in piena aria,2018,2018,157535
+3758,ITF2,Molise,HP_Q_EXT,produzione raccolta - quintali ,MELOOPENFI,popone o melone in piena aria,2018,2018,6000
+3770,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,MELOOPENFI,popone o melone in piena aria,2018,2018,261527
+3800,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,MELOOPENFI,popone o melone in piena aria,2018,2018,523980
+3836,ITF5,Basilicata,HP_Q_EXT,produzione raccolta - quintali ,MELOOPENFI,popone o melone in piena aria,2018,2018,142223
+3854,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,MELOOPENFI,popone o melone in piena aria,2018,2018,197370
+3884,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,MELOOPENFI,popone o melone in piena aria,2018,2018,1470650
+3938,ITG2,Sardegna,HP_Q_EXT,produzione raccolta - quintali ,MELOOPENFI,popone o melone in piena aria,2018,2018,252804
+3990,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,COURINGRE,zucchina in serra,2018,2018,35510
+4032,ITC3,Liguria,HP_Q_EXT,produzione raccolta - quintali ,COURINGRE,zucchina in serra,2018,2018,7220
+4062,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,COURINGRE,zucchina in serra,2018,2018,27248
+4104,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,COURINGRE,zucchina in serra,2018,2018,98381
+4146,ITD4,Friuli-Venezia Giulia,HP_Q_EXT,produzione raccolta - quintali ,COURINGRE,zucchina in serra,2018,2018,7164
+4164,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,COURINGRE,zucchina in serra,2018,2018,28897
+4224,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,COURINGRE,zucchina in serra,2018,2018,11733
+4284,ITE2,Umbria,HP_Q_EXT,produzione raccolta - quintali ,COURINGRE,zucchina in serra,2018,2018,2000
+4296,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,COURINGRE,zucchina in serra,2018,2018,464
+4326,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,COURINGRE,zucchina in serra,2018,2018,1115200
+4356,ITF1,Abruzzo,HP_Q_EXT,produzione raccolta - quintali ,COURINGRE,zucchina in serra,2018,2018,6667
+4380,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,COURINGRE,zucchina in serra,2018,2018,120077
+4410,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,COURINGRE,zucchina in serra,2018,2018,279865
+4440,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,COURINGRE,zucchina in serra,2018,2018,56202
+4476,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,COURINGRE,zucchina in serra,2018,2018,339848
+4536,ITG2,Sardegna,HP_Q_EXT,produzione raccolta - quintali ,COURINGRE,zucchina in serra,2018,2018,12018
+4592,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,COURINOPE,zucchina in piena aria,2018,2018,241012
+4640,ITC3,Liguria,HP_Q_EXT,produzione raccolta - quintali ,COURINOPE,zucchina in piena aria,2018,2018,19900
+4664,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,COURINOPE,zucchina in piena aria,2018,2018,290950
+4730,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,COURINOPE,zucchina in piena aria,2018,2018,273545
+4778,ITD4,Friuli-Venezia Giulia,HP_Q_EXT,produzione raccolta - quintali ,COURINOPE,zucchina in piena aria,2018,2018,8566
+4808,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,COURINOPE,zucchina in piena aria,2018,2018,514928
+4874,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,COURINOPE,zucchina in piena aria,2018,2018,94888
+4940,ITE2,Umbria,HP_Q_EXT,produzione raccolta - quintali ,COURINOPE,zucchina in piena aria,2018,2018,14840
+4958,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,COURINOPE,zucchina in piena aria,2018,2018,22798
+4988,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,COURINOPE,zucchina in piena aria,2018,2018,386600
+5030,ITF1,Abruzzo,HP_Q_EXT,produzione raccolta - quintali ,COURINOPE,zucchina in piena aria,2018,2018,83900
+5060,ITF2,Molise,HP_Q_EXT,produzione raccolta - quintali ,COURINOPE,zucchina in piena aria,2018,2018,2400
+5072,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,COURINOPE,zucchina in piena aria,2018,2018,175928
+5108,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,COURINOPE,zucchina in piena aria,2018,2018,553500
+5144,ITF5,Basilicata,HP_Q_EXT,produzione raccolta - quintali ,COURINOPE,zucchina in piena aria,2018,2018,21656
+5162,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,COURINOPE,zucchina in piena aria,2018,2018,318085
+5198,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,COURINOPE,zucchina in piena aria,2018,2018,382750
+5255,ITG2,Sardegna,HP_Q_EXT,produzione raccolta - quintali ,COURINOPE,zucchina in piena aria,2018,2018,45736
+5309,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,WATENINOP,cocomero in piena aria,2018,2018,33296
+5327,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,WATENINOP,cocomero in piena aria,2018,2018,739930
+5369,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,WATENINOP,cocomero in piena aria,2018,2018,167060
+5411,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,WATENINOP,cocomero in piena aria,2018,2018,475560
+5465,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,WATENINOP,cocomero in piena aria,2018,2018,64685
+5519,ITE2,Umbria,HP_Q_EXT,produzione raccolta - quintali ,WATENINOP,cocomero in piena aria,2018,2018,13000
+5531,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,WATENINOP,cocomero in piena aria,2018,2018,8634
+5561,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,WATENINOP,cocomero in piena aria,2018,2018,930000
+5591,ITF1,Abruzzo,HP_Q_EXT,produzione raccolta - quintali ,WATENINOP,cocomero in piena aria,2018,2018,46800
+5609,ITF2,Molise,HP_Q_EXT,produzione raccolta - quintali ,WATENINOP,cocomero in piena aria,2018,2018,12500
+5619,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,WATENINOP,cocomero in piena aria,2018,2018,728488
+5639,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,WATENINOP,cocomero in piena aria,2018,2018,701130
+5671,ITF5,Basilicata,HP_Q_EXT,produzione raccolta - quintali ,WATENINOP,cocomero in piena aria,2018,2018,87150
+5683,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,WATENINOP,cocomero in piena aria,2018,2018,27800
+5705,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,WATENINOP,cocomero in piena aria,2018,2018,303500
+5737,ITG2,Sardegna,HP_Q_EXT,produzione raccolta - quintali ,WATENINOP,cocomero in piena aria,2018,2018,483551
+5770,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,FENNGREENH,finocchio in serra,2018,2018,3306
+5802,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,FENNGREENH,finocchio in serra,2018,2018,392
+5826,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,FENNGREENH,finocchio in serra,2018,2018,5150
+5841,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,FENNGREENH,finocchio in serra,2018,2018,268
+5865,ITE2,Umbria,HP_Q_EXT,produzione raccolta - quintali ,FENNGREENH,finocchio in serra,2018,2018,50
+5877,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,FENNGREENH,finocchio in serra,2018,2018,27
+5895,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,FENNGREENH,finocchio in serra,2018,2018,2950
+5916,ITF5,Basilicata,HP_Q_EXT,produzione raccolta - quintali ,FENNGREENH,finocchio in serra,2018,2018,2750
+5928,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,FENNGREENH,finocchio in serra,2018,2018,2379
+5952,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,FENNGREENH,finocchio in serra,2018,2018,99
+5964,ITG2,Sardegna,HP_Q_EXT,produzione raccolta - quintali ,FENNGREENH,finocchio in serra,2018,2018,13594
+6015,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,ENDIGREENH,indivia in serra,2018,2018,1984
+6033,ITC3,Liguria,HP_Q_EXT,produzione raccolta - quintali ,ENDIGREENH,indivia in serra,2018,2018,600
+6045,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,ENDIGREENH,indivia in serra,2018,2018,12060
+6075,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,ENDIGREENH,indivia in serra,2018,2018,9982
+6105,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,ENDIGREENH,indivia in serra,2018,2018,9640
+6138,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,ENDIGREENH,indivia in serra,2018,2018,2049
+6174,ITE2,Umbria,HP_Q_EXT,produzione raccolta - quintali ,ENDIGREENH,indivia in serra,2018,2018,120
+6186,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,ENDIGREENH,indivia in serra,2018,2018,99
+6204,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,ENDIGREENH,indivia in serra,2018,2018,12900
+6225,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,ENDIGREENH,indivia in serra,2018,2018,23697
+6249,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,ENDIGREENH,indivia in serra,2018,2018,2085
+6279,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,ENDIGREENH,indivia in serra,2018,2018,1130
+6291,ITG2,Sardegna,HP_Q_EXT,produzione raccolta - quintali ,ENDIGREENH,indivia in serra,2018,2018,2470
+6342,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,PARSNGREEN,prezzemolo in serra,2018,2018,332
+6354,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,PARSNGREEN,prezzemolo in serra,2018,2018,2804
+6393,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,PARSNGREEN,prezzemolo in serra,2018,2018,2101
+6420,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,PARSNGREEN,prezzemolo in serra,2018,2018,5580
+6456,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,PARSNGREEN,prezzemolo in serra,2018,2018,1434
+6498,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,PARSNGREEN,prezzemolo in serra,2018,2018,73
+6522,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,PARSNGREEN,prezzemolo in serra,2018,2018,550
+6549,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,PARSNGREEN,prezzemolo in serra,2018,2018,7695
+6567,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,PARSNGREEN,prezzemolo in serra,2018,2018,1235
+6579,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,PARSNGREEN,prezzemolo in serra,2018,2018,7
+6591,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,PARSNGREEN,prezzemolo in serra,2018,2018,80
+6617,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,RADIOPEN,ravanello in piena aria,2018,2018,1662
+6635,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,RADIOPEN,ravanello in piena aria,2018,2018,2715
+6659,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,RADIOPEN,ravanello in piena aria,2018,2018,282
+6674,ITD4,Friuli-Venezia Giulia,HP_Q_EXT,produzione raccolta - quintali ,RADIOPEN,ravanello in piena aria,2018,2018,148
+6686,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,RADIOPEN,ravanello in piena aria,2018,2018,696
+6710,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,RADIOPEN,ravanello in piena aria,2018,2018,5375
+6752,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,RADIOPEN,ravanello in piena aria,2018,2018,72720
+6776,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,RADIOPEN,ravanello in piena aria,2018,2018,2400
+6788,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,RADIOPEN,ravanello in piena aria,2018,2018,32505
+6812,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,RADIOPEN,ravanello in piena aria,2018,2018,2570
+6830,ITG2,Sardegna,HP_Q_EXT,produzione raccolta - quintali ,RADIOPEN,ravanello in piena aria,2018,2018,14283
+6872,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,SPINNOPEN,spinacio in piena aria,2018,2018,31021
+6914,ITC3,Liguria,HP_Q_EXT,produzione raccolta - quintali ,SPINNOPEN,spinacio in piena aria,2018,2018,520
+6926,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,SPINNOPEN,spinacio in piena aria,2018,2018,29220
+6980,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,SPINNOPEN,spinacio in piena aria,2018,2018,11878
+7025,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,SPINNOPEN,spinacio in piena aria,2018,2018,281684
+7117,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,SPINNOPEN,spinacio in piena aria,2018,2018,82696
+7149,ITF1,Abruzzo,HP_Q_EXT,produzione raccolta - quintali ,SPINNOPEN,spinacio in piena aria,2018,2018,76537
+7177,ITF2,Molise,HP_Q_EXT,produzione raccolta - quintali ,SPINNOPEN,spinacio in piena aria,2018,2018,23300
+7195,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,SPINNOPEN,spinacio in piena aria,2018,2018,54070
+7225,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,SPINNOPEN,spinacio in piena aria,2018,2018,114150
+7261,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,SPINNOPEN,spinacio in piena aria,2018,2018,4350
+7288,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,SPINNOPEN,spinacio in piena aria,2018,2018,12875
+7333,ITC3,Liguria,HP_Q_EXT,produzione raccolta - quintali ,OTHESSICAS,altri cavoli in piena aria,2018,2018,11665
+7357,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,OTHESSICAS,altri cavoli in piena aria,2018,2018,300
+7387,ITD4,Friuli-Venezia Giulia,HP_Q_EXT,produzione raccolta - quintali ,OTHESSICAS,altri cavoli in piena aria,2018,2018,1820
+7417,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,OTHESSICAS,altri cavoli in piena aria,2018,2018,3525
+7438,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,OTHESSICAS,altri cavoli in piena aria,2018,2018,26597
+7498,ITE2,Umbria,HP_Q_EXT,produzione raccolta - quintali ,OTHESSICAS,altri cavoli in piena aria,2018,2018,990
+7510,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,OTHESSICAS,altri cavoli in piena aria,2018,2018,7819
+7540,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,OTHESSICAS,altri cavoli in piena aria,2018,2018,203300
+7567,ITF1,Abruzzo,HP_Q_EXT,produzione raccolta - quintali ,OTHESSICAS,altri cavoli in piena aria,2018,2018,18100
+7585,ITF2,Molise,HP_Q_EXT,produzione raccolta - quintali ,OTHESSICAS,altri cavoli in piena aria,2018,2018,3900
+7603,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,OTHESSICAS,altri cavoli in piena aria,2018,2018,28812
+7627,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,OTHESSICAS,altri cavoli in piena aria,2018,2018,408600
+7657,ITF5,Basilicata,HP_Q_EXT,produzione raccolta - quintali ,OTHESSICAS,altri cavoli in piena aria,2018,2018,44904
+7675,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,OTHESSICAS,altri cavoli in piena aria,2018,2018,43477
+7705,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,OTHESSICAS,altri cavoli in piena aria,2018,2018,127190
+7759,ITG2,Sardegna,HP_Q_EXT,produzione raccolta - quintali ,OTHESSICAS,altri cavoli in piena aria,2018,2018,30648
+7798,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,CAULERAND,cavolfiore e cavolo broccolo in piena aria,2018,2018,60505
+7846,ITC3,Liguria,HP_Q_EXT,produzione raccolta - quintali ,CAULERAND,cavolfiore e cavolo broccolo in piena aria,2018,2018,3000
+7858,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,CAULERAND,cavolfiore e cavolo broccolo in piena aria,2018,2018,4690
+7912,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,CAULERAND,cavolfiore e cavolo broccolo in piena aria,2018,2018,49450
+7954,ITD4,Friuli-Venezia Giulia,HP_Q_EXT,produzione raccolta - quintali ,CAULERAND,cavolfiore e cavolo broccolo in piena aria,2018,2018,3220
+7984,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,CAULERAND,cavolfiore e cavolo broccolo in piena aria,2018,2018,48170
+8023,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,CAULERAND,cavolfiore e cavolo broccolo in piena aria,2018,2018,20115
+8077,ITE2,Umbria,HP_Q_EXT,produzione raccolta - quintali ,CAULERAND,cavolfiore e cavolo broccolo in piena aria,2018,2018,35990
+8095,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,CAULERAND,cavolfiore e cavolo broccolo in piena aria,2018,2018,107397
+8125,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,CAULERAND,cavolfiore e cavolo broccolo in piena aria,2018,2018,181880
+8164,ITF1,Abruzzo,HP_Q_EXT,produzione raccolta - quintali ,CAULERAND,cavolfiore e cavolo broccolo in piena aria,2018,2018,643700
+8194,ITF2,Molise,HP_Q_EXT,produzione raccolta - quintali ,CAULERAND,cavolfiore e cavolo broccolo in piena aria,2018,2018,23625
+8212,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,CAULERAND,cavolfiore e cavolo broccolo in piena aria,2018,2018,699815
+8248,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,CAULERAND,cavolfiore e cavolo broccolo in piena aria,2018,2018,796580
+8284,ITF5,Basilicata,HP_Q_EXT,produzione raccolta - quintali ,CAULERAND,cavolfiore e cavolo broccolo in piena aria,2018,2018,221416
+8302,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,CAULERAND,cavolfiore e cavolo broccolo in piena aria,2018,2018,230081
+8338,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,CAULERAND,cavolfiore e cavolo broccolo in piena aria,2018,2018,399530
+8398,ITG2,Sardegna,HP_Q_EXT,produzione raccolta - quintali ,CAULERAND,cavolfiore e cavolo broccolo in piena aria,2018,2018,116660
+8440,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,COMMEAT,frumento tenero,2018,2018,3375407
+8494,ITC2,Valle d'Aosta / Vallée d'Aoste,HP_Q_EXT,produzione raccolta - quintali ,COMMEAT,frumento tenero,2018,2018,220
+8506,ITC3,Liguria,HP_Q_EXT,produzione raccolta - quintali ,COMMEAT,frumento tenero,2018,2018,4430
+8530,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,COMMEAT,frumento tenero,2018,2018,3205559
+8608,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,COMMEAT,frumento tenero,2018,2018,6001182
+8656,ITD4,Friuli-Venezia Giulia,HP_Q_EXT,produzione raccolta - quintali ,COMMEAT,frumento tenero,2018,2018,594917
+8686,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,COMMEAT,frumento tenero,2018,2018,8560105
+8752,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,COMMEAT,frumento tenero,2018,2018,1059055
+8818,ITE2,Umbria,HP_Q_EXT,produzione raccolta - quintali ,COMMEAT,frumento tenero,2018,2018,1433200
+8836,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,COMMEAT,frumento tenero,2018,2018,660476
+8866,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,COMMEAT,frumento tenero,2018,2018,551100
+8908,ITF1,Abruzzo,HP_Q_EXT,produzione raccolta - quintali ,COMMEAT,frumento tenero,2018,2018,863020
+8938,ITF2,Molise,HP_Q_EXT,produzione raccolta - quintali ,COMMEAT,frumento tenero,2018,2018,134600
+8956,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,COMMEAT,frumento tenero,2018,2018,597062
+8986,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,COMMEAT,frumento tenero,2018,2018,357250
+9016,ITF5,Basilicata,HP_Q_EXT,produzione raccolta - quintali ,COMMEAT,frumento tenero,2018,2018,183042
+9034,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,COMMEAT,frumento tenero,2018,2018,288589
+9070,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,COMMEAT,frumento tenero,2018,2018,9700
+9088,ITG2,Sardegna,HP_Q_EXT,produzione raccolta - quintali ,COMMEAT,frumento tenero,2018,2018,2373
+9126,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,RYE,segale,2018,2018,12203
+9168,ITC2,Valle d'Aosta / Vallée d'Aoste,HP_Q_EXT,produzione raccolta - quintali ,RYE,segale,2018,2018,220
+9176,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,RYE,segale,2018,2018,10369
+9234,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,RYE,segale,2018,2018,2510
+9260,ITD4,Friuli-Venezia Giulia,HP_Q_EXT,produzione raccolta - quintali ,RYE,segale,2018,2018,2345
+9272,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,RYE,segale,2018,2018,11508
+9300,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,RYE,segale,2018,2018,3034
+9334,ITE2,Umbria,HP_Q_EXT,produzione raccolta - quintali ,RYE,segale,2018,2018,4500
+9344,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,RYE,segale,2018,2018,5520
+9364,ITF1,Abruzzo,HP_Q_EXT,produzione raccolta - quintali ,RYE,segale,2018,2018,5900
+9375,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,RYE,segale,2018,2018,2300
+9385,ITF5,Basilicata,HP_Q_EXT,produzione raccolta - quintali ,RYE,segale,2018,2018,5418
+9403,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,RYE,segale,2018,2018,37908
+9433,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,RYE,segale,2018,2018,250
+9457,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,BARLEY,orzo,2018,2018,927695
+9508,ITC2,Valle d'Aosta / Vallée d'Aoste,HP_Q_EXT,produzione raccolta - quintali ,BARLEY,orzo,2018,2018,30
+9520,ITC3,Liguria,HP_Q_EXT,produzione raccolta - quintali ,BARLEY,orzo,2018,2018,1837
+9538,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,BARLEY,orzo,2018,2018,1210093
+9616,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,BARLEY,orzo,2018,2018,986392
+9664,ITD4,Friuli-Venezia Giulia,HP_Q_EXT,produzione raccolta - quintali ,BARLEY,orzo,2018,2018,292556
+9694,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,BARLEY,orzo,2018,2018,1077925
+9758,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,BARLEY,orzo,2018,2018,611157
+9816,ITE2,Umbria,HP_Q_EXT,produzione raccolta - quintali ,BARLEY,orzo,2018,2018,912000
+9830,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,BARLEY,orzo,2018,2018,731731
+9888,ITF1,Abruzzo,HP_Q_EXT,produzione raccolta - quintali ,BARLEY,orzo,2018,2018,665100
+9908,ITF2,Molise,HP_Q_EXT,produzione raccolta - quintali ,BARLEY,orzo,2018,2018,68700
+9922,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,BARLEY,orzo,2018,2018,464429
+9940,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,BARLEY,orzo,2018,2018,532795
+9958,ITF5,Basilicata,HP_Q_EXT,produzione raccolta - quintali ,BARLEY,orzo,2018,2018,410805
+9964,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,BARLEY,orzo,2018,2018,200937
+9978,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,BARLEY,orzo,2018,2018,133030
+9998,ITG2,Sardegna,HP_Q_EXT,produzione raccolta - quintali ,BARLEY,orzo,2018,2018,309382
+10057,ITC3,Liguria,HP_Q_EXT,produzione raccolta - quintali ,OATS,avena,2018,2018,20
+10097,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,OATS,avena,2018,2018,7799
+10173,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,OATS,avena,2018,2018,521435
+10205,ITF5,Basilicata,HP_Q_EXT,produzione raccolta - quintali ,OATS,avena,2018,2018,332325
+10251,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,OATS,avena,2018,2018,125400
+10289,ITG2,Sardegna,HP_Q_EXT,produzione raccolta - quintali ,OATS,avena,2018,2018,182334
+10338,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,PEAEENHOUS,pisello in serra,2018,2018,24
+10348,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,PEAEENHOUS,pisello in serra,2018,2018,6427
+10358,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,PEAEENHOUS,pisello in serra,2018,2018,560
+10373,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,PEAEENHOUS,pisello in serra,2018,2018,955
+10389,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,PEAEENHOUS,pisello in serra,2018,2018,67
+10416,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,PEAEENHOUS,pisello in serra,2018,2018,269
+10444,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,CHICS,cece ,2018,2018,290
+10456,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,CHICS,cece ,2018,2018,38283
+10491,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,CHICS,cece ,2018,2018,8181
+10519,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,CHICS,cece ,2018,2018,117980
+10596,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,PEAS,pisello da granella ,2018,2018,20499
+10638,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,PEAS,pisello da granella ,2018,2018,83555
+10672,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,PEAS,pisello da granella ,2018,2018,3508
+10711,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,PEAS,pisello da granella ,2018,2018,8111
+10725,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,PEAS,pisello da granella ,2018,2018,92
+10741,ITF1,Abruzzo,HP_Q_EXT,produzione raccolta - quintali ,PEAS,pisello da granella ,2018,2018,5800
+10749,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,PEAS,pisello da granella ,2018,2018,620
+10753,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,PEAS,pisello da granella ,2018,2018,8560
+10791,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,ONIOOPENF,cipolla in piena aria,2018,2018,102270
+10832,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,CARRNDPARS,carota e pastinaca in piena aria,2018,2018,1087250
+10884,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,CARRNDPARS,carota e pastinaca in piena aria,2018,2018,2019
+10912,ITF1,Abruzzo,HP_Q_EXT,produzione raccolta - quintali ,CARRNDPARS,carota e pastinaca in piena aria,2018,2018,1200000
+10920,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,CARRNDPARS,carota e pastinaca in piena aria,2018,2018,317850
+10930,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,CHICS,cece ,2018,2018,74790
+11092,ITF5,Basilicata,HP_Q_EXT,produzione raccolta - quintali ,TURNNOPEN,rapa in piena aria,2018,2018,33573
+11133,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,ONIOOPENF,cipolla in piena aria,2018,2018,57144
+11153,ITC3,Liguria,HP_Q_EXT,produzione raccolta - quintali ,CARRNDPARS,carota e pastinaca in piena aria,2018,2018,330
+11165,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,TURNNOPEN,rapa in piena aria,2018,2018,22000
+11191,ITF2,Molise,HP_Q_EXT,produzione raccolta - quintali ,OATS,avena,2018,2018,38000
+11230,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,TOMAGRENNH,pomodoro in serra,2018,2018,97999
+11246,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,CHICS,cece ,2018,2018,25170
+11300,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,LEEKOPENFI,porro in piena aria,2018,2018,34980
+11394,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,ONIOOPENF,cipolla in piena aria,2018,2018,20690
+11436,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,ONIOOPENF,cipolla in piena aria,2018,2018,304500
+11516,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,LEEKOPENFI,porro in piena aria,2018,2018,14570
+11518,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,CHICS,cece ,2018,2018,11078
+11587,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,LENTIL,lenticchia ,2018,2018,10143
+11703,ITD4,Friuli-Venezia Giulia,HP_Q_EXT,produzione raccolta - quintali ,CARRNDPARS,carota e pastinaca in piena aria,2018,2018,500
+11733,ITG2,Sardegna,HP_Q_EXT,produzione raccolta - quintali ,CARRNDPARS,carota e pastinaca in piena aria,2018,2018,260051
+11758,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,OATS,avena,2018,2018,15591
+11829,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,LENTIL,lenticchia ,2018,2018,70
+12241,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,LENTIL,lenticchia ,2018,2018,2643
+12312,ITE2,Umbria,HP_Q_EXT,produzione raccolta - quintali ,OATS,avena,2018,2018,51340
+12409,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,TOMAGRENNH,pomodoro in serra,2018,2018,251800
+12462,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,LENTIL,lenticchia ,2018,2018,1275
+12495,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,TURNNOPEN,rapa in piena aria,2018,2018,4742
+12564,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,LENTIL,lenticchia ,2018,2018,10516
+12606,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,TURNPE,ravizzone,2018,2018,66
+12635,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,GHERINOPEN,cetriolo da sottaceti in piena aria,2018,2018,4000
+12793,ITD4,Friuli-Venezia Giulia,HP_Q_EXT,produzione raccolta - quintali ,SOYA,soia,2018,2018,2699828
+12795,ITC3,Liguria,HP_Q_EXT,produzione raccolta - quintali ,TOMAGRENNH,pomodoro in serra,2018,2018,9240
+13024,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,LENTIL,lenticchia ,2018,2018,905
+13030,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,LEEKOPENFI,porro in piena aria,2018,2018,13286
+13039,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,SOYA,soia,2018,2018,1600259
+13157,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,ONIOOPENF,cipolla in piena aria,2018,2018,359475
+13193,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,LEEKOPENFI,porro in piena aria,2018,2018,530
+13195,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,SOYA,soia,2018,2018,1412374
+13292,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,CHICS,cece ,2018,2018,5304
+13364,ITD4,Friuli-Venezia Giulia,HP_Q_EXT,produzione raccolta - quintali ,TOMAGRENNH,pomodoro in serra,2018,2018,2874
+13384,ITG2,Sardegna,HP_Q_EXT,produzione raccolta - quintali ,TOMAGRENNH,pomodoro in serra,2018,2018,239916
+13386,ITF1,Abruzzo,HP_Q_EXT,produzione raccolta - quintali ,SOYA,soia,2018,2018,2672
+13422,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,TOMAGRENNH,pomodoro in serra,2018,2018,206620
+13447,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,CARRNDPARS,carota e pastinaca in piena aria,2018,2018,601300
+13638,ITF2,Molise,HP_Q_EXT,produzione raccolta - quintali ,TURNNOPEN,rapa in piena aria,2018,2018,3000
+13650,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,OATS,avena,2018,2018,8559
+13761,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,WINEES,uva da vino,2018,2018,1956167
+13802,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,CARRNDPARS,carota e pastinaca in piena aria,2018,2018,11016
+13870,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,SOYA,soia,2018,2018,15470
+14078,ITE2,Umbria,HP_Q_EXT,produzione raccolta - quintali ,LENTIL,lenticchia ,2018,2018,11300
+14122,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,PEAS,pisello da granella ,2018,2018,4164
+14152,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,TURNNOPEN,rapa in piena aria,2018,2018,24822
+14201,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,LENTIL,lenticchia ,2018,2018,452
+14294,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,SOYA,soia,2018,2018,5188116
+14444,ITF5,Basilicata,HP_Q_EXT,produzione raccolta - quintali ,ONIOOPENF,cipolla in piena aria,2018,2018,2628
+14450,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,LEEKOPENFI,porro in piena aria,2018,2018,17280
+14480,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,CARRNDPARS,carota e pastinaca in piena aria,2018,2018,791100
+14497,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,TOMAGRENNH,pomodoro in serra,2018,2018,6693
+14503,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,CHICS,cece ,2018,2018,5289
+14554,ITF5,Basilicata,HP_Q_EXT,produzione raccolta - quintali ,CHICS,cece ,2018,2018,14496
+14665,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,ONIOOPENF,cipolla in piena aria,2018,2018,332570
+14669,ITD4,Friuli-Venezia Giulia,HP_Q_EXT,produzione raccolta - quintali ,OATS,avena,2018,2018,867
+14803,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,TOMAGRENNH,pomodoro in serra,2018,2018,27346
+14885,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,SOYA,soia,2018,2018,925
+15129,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,TOMAGRENNH,pomodoro in serra,2018,2018,1607380
+15186,ITF1,Abruzzo,HP_Q_EXT,produzione raccolta - quintali ,OATS,avena,2018,2018,67500
+15202,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,CARRNDPARS,carota e pastinaca in piena aria,2018,2018,3115
+15280,ITE2,Umbria,HP_Q_EXT,produzione raccolta - quintali ,PEAS,pisello da granella ,2018,2018,6000
+15347,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,TOMAGRENNH,pomodoro in serra,2018,2018,1203200
+15353,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,SOYA,soia,2018,2018,15250
+15364,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,OATS,avena,2018,2018,11306
+15504,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,SOYA,soia,2018,2018,1080
+15547,ITF5,Basilicata,HP_Q_EXT,produzione raccolta - quintali ,LENTIL,lenticchia ,2018,2018,125
+15697,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,CHICS,cece ,2018,2018,54009
+15733,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,ONIOOPENF,cipolla in piena aria,2018,2018,295220
+15772,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,PEAEENHOUS,pisello in serra,2018,2018,930
+15864,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,ONIOOPENF,cipolla in piena aria,2018,2018,8347
+16063,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,PEAS,pisello da granella ,2018,2018,42916
+16069,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,SPINNOPEN,spinacio in piena aria,2018,2018,54240
+16119,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,OATS,avena,2018,2018,299290
+16163,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,TURNNOPEN,rapa in piena aria,2018,2018,405710
+16332,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,OATS,avena,2018,2018,378563
+16441,ITE2,Umbria,HP_Q_EXT,produzione raccolta - quintali ,SOYA,soia,2018,2018,1500
+16446,ITG2,Sardegna,HP_Q_EXT,produzione raccolta - quintali ,TURNNOPEN,rapa in piena aria,2018,2018,600
+16452,ITG2,Sardegna,HP_Q_EXT,produzione raccolta - quintali ,PEAS,pisello da granella ,2018,2018,6326
+16492,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,LEEKOPENFI,porro in piena aria,2018,2018,7842
+16518,ITF1,Abruzzo,HP_Q_EXT,produzione raccolta - quintali ,LENTIL,lenticchia ,2018,2018,170
+16576,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,CARRNDPARS,carota e pastinaca in piena aria,2018,2018,39700
+16662,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,TOMAGRENNH,pomodoro in serra,2018,2018,64052
+16723,ITF1,Abruzzo,HP_Q_EXT,produzione raccolta - quintali ,LEEKOPENFI,porro in piena aria,2018,2018,6650
+16781,ITF2,Molise,HP_Q_EXT,produzione raccolta - quintali ,LENTIL,lenticchia ,2018,2018,420
+16835,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,OATS,avena,2018,2018,45750
+16893,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,SOYA,soia,2018,2018,150
+17023,ITE2,Umbria,HP_Q_EXT,produzione raccolta - quintali ,TOMAGRENNH,pomodoro in serra,2018,2018,4000
+17031,ITF2,Molise,HP_Q_EXT,produzione raccolta - quintali ,CHICS,cece ,2018,2018,45080
+17086,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,TURNPE,ravizzone,2018,2018,118
+17196,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,LEEKOPENFI,porro in piena aria,2018,2018,1160
+17256,ITF2,Molise,HP_Q_EXT,produzione raccolta - quintali ,ONIOOPENF,cipolla in piena aria,2018,2018,20100
+17502,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,TOMAGRENNH,pomodoro in serra,2018,2018,740743
+17554,ITF5,Basilicata,HP_Q_EXT,produzione raccolta - quintali ,TOMAGRENNH,pomodoro in serra,2018,2018,16400
+17557,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,LENTIL,lenticchia ,2018,2018,7
+17693,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,GHERINOPEN,cetriolo da sottaceti in piena aria,2018,2018,26000
+17754,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,ONIOOPENF,cipolla in piena aria,2018,2018,582458
+17810,ITF5,Basilicata,HP_Q_EXT,produzione raccolta - quintali ,CARRNDPARS,carota e pastinaca in piena aria,2018,2018,45100
+17828,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,PEAEENHOUS,pisello in serra,2018,2018,4093
+17874,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,CARRNDPARS,carota e pastinaca in piena aria,2018,2018,289710
+17987,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,SPINNOPEN,spinacio in piena aria,2018,2018,95780
+18108,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,TURNPE,ravizzone,2018,2018,539
+18288,ITE2,Umbria,HP_Q_EXT,produzione raccolta - quintali ,CHICS,cece ,2018,2018,20340
+18383,ITF1,Abruzzo,HP_Q_EXT,produzione raccolta - quintali ,TURNNOPEN,rapa in piena aria,2018,2018,1400
+18409,ITE2,Umbria,HP_Q_EXT,produzione raccolta - quintali ,ONIOOPENF,cipolla in piena aria,2018,2018,15200
+18417,ITC3,Liguria,HP_Q_EXT,produzione raccolta - quintali ,FENNGREENH,finocchio in serra,2018,2018,28
+18433,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,WINEES,uva da vino,2018,2018,3666335
+18567,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,PEAS,pisello da granella ,2018,2018,3826
+18654,ITC3,Liguria,HP_Q_EXT,produzione raccolta - quintali ,ONIOOPENF,cipolla in piena aria,2018,2018,680
+18666,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,TURNNOPEN,rapa in piena aria,2018,2018,48954
+18755,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,TOMAGRENNH,pomodoro in serra,2018,2018,53578
+18785,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,OATS,avena,2018,2018,323657
+19147,ITF2,Molise,HP_Q_EXT,produzione raccolta - quintali ,CARRNDPARS,carota e pastinaca in piena aria,2018,2018,5500
+19166,ITF1,Abruzzo,HP_Q_EXT,produzione raccolta - quintali ,TOMAGRENNH,pomodoro in serra,2018,2018,16500
+19227,ITG2,Sardegna,HP_Q_EXT,produzione raccolta - quintali ,ONIOOPENF,cipolla in piena aria,2018,2018,53550
+19263,ITD4,Friuli-Venezia Giulia,HP_Q_EXT,produzione raccolta - quintali ,ONIOOPENF,cipolla in piena aria,2018,2018,1577
+19271,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,TURNNOPEN,rapa in piena aria,2018,2018,103500
+19361,ITG2,Sardegna,HP_Q_EXT,produzione raccolta - quintali ,CHICS,cece ,2018,2018,2210
+19386,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,TOMAGRENNH,pomodoro in serra,2018,2018,111044
+19505,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,TURNNOPEN,rapa in piena aria,2018,2018,750
+19517,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,ONIOOPENF,cipolla in piena aria,2018,2018,383735
+19716,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,CHICS,cece ,2018,2018,29245
+19735,ITG2,Sardegna,HP_Q_EXT,produzione raccolta - quintali ,LENTIL,lenticchia ,2018,2018,832
+19818,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,PEAS,pisello da granella ,2018,2018,1400
+19828,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,TURNNOPEN,rapa in piena aria,2018,2018,5628
+19888,ITF1,Abruzzo,HP_Q_EXT,produzione raccolta - quintali ,ONIOOPENF,cipolla in piena aria,2018,2018,53930
+19898,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,PEAEENHOUS,pisello in serra,2018,2018,1897
+19928,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,BARLEY,orzo,2018,2018,563950
+19944,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,OATS,avena,2018,2018,23418
+19950,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,LENTIL,lenticchia ,2018,2018,78
+19983,ITD4,Friuli-Venezia Giulia,HP_Q_EXT,produzione raccolta - quintali ,LEEKOPENFI,porro in piena aria,2018,2018,1711
+20004,ITF1,Abruzzo,HP_Q_EXT,produzione raccolta - quintali ,CHICS,cece ,2018,2018,18645
+20055,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,SOYA,soia,2018,2018,452310
+20166,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,WINEES,uva da vino,2018,2018,2437200
+20217,ITF2,Molise,HP_Q_EXT,produzione raccolta - quintali ,RYE,segale,2018,2018,420
+20291,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,LEEKOPENFI,porro in piena aria,2018,2018,3000
+20497,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,ONIOOPENF,cipolla in piena aria,2018,2018,1126455
+20611,ITC3,Liguria,HP_Q_EXT,produzione raccolta - quintali ,LEEKOPENFI,porro in piena aria,2018,2018,460
+20655,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,LENTIL,lenticchia ,2018,2018,871
+20687,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,LENTIL,lenticchia ,2018,2018,5635
+20874,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,CARRNDPARS,carota e pastinaca in piena aria,2018,2018,24211
+21080,ITC2,Valle d'Aosta / Vallée d'Aoste,HP_Q_EXT,produzione raccolta - quintali ,WINEES,uva da vino,2018,2018,26000
+21126,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,POMETES,melograno,2018,2018,26132
+21141,ITD4,Friuli-Venezia Giulia,HP_Q_EXT,produzione raccolta - quintali ,PLUM,susina,2018,2018,2286
+21145,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,KIWI,kiwi,2018,2018,296640
+21155,ITG2,Sardegna,HP_Q_EXT,produzione raccolta - quintali ,PLUM,susina,2018,2018,20750
+21213,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,POMETES,melograno,2018,2018,1427
+21320,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,WINEES,uva da vino,2018,2018,16409350
+21324,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,NECTA,nettarina (pesca noce),2018,2018,1681901
+21338,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,WINEES,uva da vino,2018,2018,3797680
+21345,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,PEACH,pesca,2018,2018,1035901
+21357,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,OLIVO,olive per olio,2018,2018,169597
+21509,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,WINEES,uva da vino,2018,2018,1366628
+21555,ITF2,Molise,HP_Q_EXT,produzione raccolta - quintali ,OLIVTAB_OIL,olive da tavola e da olio,2018,2018,573100
+21580,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,EGGINGRE,melanzana in serra,2018,2018,199005
+21669,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,POMETES,melograno,2018,2018,36820
+21681,ITE2,Umbria,HP_Q_EXT,produzione raccolta - quintali ,EGGINGRE,melanzana in serra,2018,2018,250
+21717,ITF1,Abruzzo,HP_Q_EXT,produzione raccolta - quintali ,NECTA,nettarina (pesca noce),2018,2018,90150
+21765,ITF2,Molise,HP_Q_EXT,produzione raccolta - quintali ,TABLEGRAPES,uva da tavola,2018,2018,5600
+21792,ITF1,Abruzzo,HP_Q_EXT,produzione raccolta - quintali ,PEACH,pesca,2018,2018,266595
+21893,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,PLUM,susina,2018,2018,61765
+21984,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,POMETES,melograno,2018,2018,250
+22030,ITF1,Abruzzo,HP_Q_EXT,produzione raccolta - quintali ,OLIVT,olive da tavola,2018,2018,13156
+22032,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,POMETES,melograno,2018,2018,10893
+22048,ITC3,Liguria,HP_Q_EXT,produzione raccolta - quintali ,PLUM,susina,2018,2018,1400
+22337,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,OLIVO,olive per olio,2018,2018,863450
+22343,ITF5,Basilicata,HP_Q_EXT,produzione raccolta - quintali ,KIWI,kiwi,2018,2018,75840
+22483,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,QUIN,cotogno,2018,2018,200
+22495,ITF2,Molise,HP_Q_EXT,produzione raccolta - quintali ,OLIVT,olive da tavola,2018,2018,2500
+22564,ITE2,Umbria,HP_Q_EXT,produzione raccolta - quintali ,TABLEGRAPES,uva da tavola,2018,2018,1000
+22595,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,OLIVTAB_OIL,olive da tavola e da olio,2018,2018,1327
+22635,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,TABLEGRAPES,uva da tavola,2018,2018,12370
+22655,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,OLIVO,olive per olio,2018,2018,3893412
+22665,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,LOTU,loti o kaki,2018,2018,625
+22717,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,PEACH,pesca,2018,2018,431985
+22727,ITF1,Abruzzo,HP_Q_EXT,produzione raccolta - quintali ,PLUM,susina,2018,2018,58585
+22788,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,QUIN,cotogno,2018,2018,2256
+22795,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,QUIN,cotogno,2018,2018,668
+22852,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,OLIVO,olive per olio,2018,2018,1993438
+22880,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,WINEES,uva da vino,2018,2018,1848320
+22887,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,KIWI,kiwi,2018,2018,7832
+22961,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,QUIN,cotogno,2018,2018,2080
+22996,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,POMETES,melograno,2018,2018,4150
+23042,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,WINEES,uva da vino,2018,2018,6745000
+23067,ITC3,Liguria,HP_Q_EXT,produzione raccolta - quintali ,LOTU,loti o kaki,2018,2018,250
+23100,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,WINEES,uva da vino,2018,2018,507861
+23150,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,PLUM,susina,2018,2018,9692
+23300,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,OLIVO,olive per olio,2018,2018,1192186
+23318,ITE2,Umbria,HP_Q_EXT,produzione raccolta - quintali ,OLIVTAB_OIL,olive da tavola e da olio,2018,2018,374898
+23405,ITD4,Friuli-Venezia Giulia,HP_Q_EXT,produzione raccolta - quintali ,LOTU,loti o kaki,2018,2018,1925
+23486,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,PLUM,susina,2018,2018,669287
+23520,ITF2,Molise,HP_Q_EXT,produzione raccolta - quintali ,NECTA,nettarina (pesca noce),2018,2018,13500
+23601,ITC3,Liguria,HP_Q_EXT,produzione raccolta - quintali ,OLIVTAB_OIL,olive da tavola e da olio,2018,2018,342500
+23672,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,TABLEGRAPES,uva da tavola,2018,2018,6020420
+23719,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,OLIVT,olive da tavola,2018,2018,57751
+23792,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,POMETES,melograno,2018,2018,500
+23928,ITD4,Friuli-Venezia Giulia,HP_Q_EXT,produzione raccolta - quintali ,OLIVTAB_OIL,olive da tavola e da olio,2018,2018,14500
+23938,ITG2,Sardegna,HP_Q_EXT,produzione raccolta - quintali ,OLIVTAB_OIL,olive da tavola e da olio,2018,2018,380100
+24007,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,LOTU,loti o kaki,2018,2018,31671
+24163,ITC3,Liguria,HP_Q_EXT,produzione raccolta - quintali ,TABLEGRAPES,uva da tavola,2018,2018,140
+24174,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,PLUM,susina,2018,2018,62680
+24247,ITF2,Molise,HP_Q_EXT,produzione raccolta - quintali ,KIWI,kiwi,2018,2018,4430
+24460,ITG2,Sardegna,HP_Q_EXT,produzione raccolta - quintali ,TABLEGRAPES,uva da tavola,2018,2018,34290
+24466,ITE2,Umbria,HP_Q_EXT,produzione raccolta - quintali ,OLIVO,olive per olio,2018,2018,374888
+24562,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,PLUM,susina,2018,2018,53292
+24599,ITE2,Umbria,HP_Q_EXT,produzione raccolta - quintali ,WINEES,uva da vino,2018,2018,890070
+24634,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,PLUM,susina,2018,2018,184280
+24660,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,OLIVTAB_OIL,olive da tavola e da olio,2018,2018,5725110
+24695,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,LOTU,loti o kaki,2018,2018,150
+24754,ITC3,Liguria,HP_Q_EXT,produzione raccolta - quintali ,NECTA,nettarina (pesca noce),2018,2018,260
+24764,ITG2,Sardegna,HP_Q_EXT,produzione raccolta - quintali ,OLIVT,olive da tavola,2018,2018,76700
+24806,ITC3,Liguria,HP_Q_EXT,produzione raccolta - quintali ,PEACH,pesca,2018,2018,8640
+24862,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,OLIVTAB_OIL,olive da tavola e da olio,2018,2018,72112
+24897,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,PLUM,susina,2018,2018,21331
+24913,ITF5,Basilicata,HP_Q_EXT,produzione raccolta - quintali ,WINEES,uva da vino,2018,2018,155421
+25040,ITC3,Liguria,HP_Q_EXT,produzione raccolta - quintali ,OLIVT,olive da tavola,2018,2018,113300
+25096,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,LOTU,loti o kaki,2018,2018,2990
+25098,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,TABLEGRAPES,uva da tavola,2018,2018,3430
+25108,ITD4,Friuli-Venezia Giulia,HP_Q_EXT,produzione raccolta - quintali ,PEACH,pesca,2018,2018,36169
+25124,ITG2,Sardegna,HP_Q_EXT,produzione raccolta - quintali ,PEACH,pesca,2018,2018,293080
+25206,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,NECTA,nettarina (pesca noce),2018,2018,210480
+25340,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,NECTA,nettarina (pesca noce),2018,2018,13927
+25410,ITF1,Abruzzo,HP_Q_EXT,produzione raccolta - quintali ,OLIVTAB_OIL,olive da tavola e da olio,2018,2018,1228556
+25554,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,OLIVT,olive da tavola,2018,2018,108550
+25684,ITF5,Basilicata,HP_Q_EXT,produzione raccolta - quintali ,OLIVO,olive per olio,2018,2018,295573
+25686,ITD4,Friuli-Venezia Giulia,HP_Q_EXT,produzione raccolta - quintali ,NECTA,nettarina (pesca noce),2018,2018,3008
+25731,ITG2,Sardegna,HP_Q_EXT,produzione raccolta - quintali ,NECTA,nettarina (pesca noce),2018,2018,18888
+25753,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,OLIVO,olive per olio,2018,2018,939203
+25871,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,OLIVTAB_OIL,olive da tavola e da olio,2018,2018,49996
+25936,ITF1,Abruzzo,HP_Q_EXT,produzione raccolta - quintali ,TABLEGRAPES,uva da tavola,2018,2018,151265
+25946,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,PEACH,pesca,2018,2018,49871
+26000,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,KIWI,kiwi,2018,2018,23270
+26045,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,QUIN,cotogno,2018,2018,600
+26058,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,TABLEGRAPES,uva da tavola,2018,2018,7697
+26070,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,OLIVT,olive da tavola,2018,2018,7560
+26214,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,OLIVTAB_OIL,olive da tavola e da olio,2018,2018,865700
+26303,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,TABLEGRAPES,uva da tavola,2018,2018,148690
+26315,ITF2,Molise,HP_Q_EXT,produzione raccolta - quintali ,OLIVO,olive per olio,2018,2018,570600
+26398,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,QUIN,cotogno,2018,2018,800
+26422,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,TOMATIOPFI,pomodoro in piena aria,2018,2018,904795
+26464,ITF1,Abruzzo,HP_Q_EXT,produzione raccolta - quintali ,OLIVO,olive per olio,2018,2018,1215400
+26495,ITD4,Friuli-Venezia Giulia,HP_Q_EXT,produzione raccolta - quintali ,KIWI,kiwi,2018,2018,154001
+26497,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,PEACH,pesca,2018,2018,89272
+26535,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,NECTA,nettarina (pesca noce),2018,2018,146500
+26755,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,OLIVTAB_OIL,olive da tavola e da olio,2018,2018,2306725
+26761,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,TABLEGRAPES,uva da tavola,2018,2018,50310
+26784,ITF2,Molise,HP_Q_EXT,produzione raccolta - quintali ,WINEES,uva da vino,2018,2018,670150
+26796,ITF5,Basilicata,HP_Q_EXT,produzione raccolta - quintali ,OLIVT,olive da tavola,2018,2018,855
+26808,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,OLIVT,olive da tavola,2018,2018,138
+26832,ITF5,Basilicata,HP_Q_EXT,produzione raccolta - quintali ,PLUM,susina,2018,2018,83322
+26847,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,PLUM,susina,2018,2018,320227
+27019,ITF2,Molise,HP_Q_EXT,produzione raccolta - quintali ,OFTP,pomodoro da industria in piena aria,2018,2018,654800
+27140,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,TABLEGRAPES,uva da tavola,2018,2018,3685200
+27154,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,NECTA,nettarina (pesca noce),2018,2018,50033
+27166,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,PEACH,pesca,2018,2018,281248
+27243,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,OLIVTAB_OIL,olive da tavola e da olio,2018,2018,1194490
+27251,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,PEACH,pesca,2018,2018,86807
+27362,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,NECTA,nettarina (pesca noce),2018,2018,21917
+27509,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,NECTA,nettarina (pesca noce),2018,2018,34870
+27511,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,EGGINGRE,melanzana in serra,2018,2018,25060
+27580,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,PLUM,susina,2018,2018,36326
+27676,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,KIWI,kiwi,2018,2018,728670
+27680,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,PEACH,pesca,2018,2018,182600
+27783,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,OLIVT,olive da tavola,2018,2018,2250
+27802,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,OLIVTAB_OIL,olive da tavola e da olio,2018,2018,3951163
+27804,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,EGGINGRE,melanzana in serra,2018,2018,27620
+27809,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,PEACH,pesca,2018,2018,370833
+28048,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,PEACH,pesca,2018,2018,1071300
+28050,ITF1,Abruzzo,HP_Q_EXT,produzione raccolta - quintali ,KIWI,kiwi,2018,2018,36000
+28072,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,PLUM,susina,2018,2018,55090
+28076,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,TURNPE,ravizzone,2018,2018,166
+28128,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,OLIVT,olive da tavola,2018,2018,2304
+28136,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,NECTA,nettarina (pesca noce),2018,2018,117750
+28199,ITF1,Abruzzo,HP_Q_EXT,produzione raccolta - quintali ,EGGINGRE,melanzana in serra,2018,2018,2173
+28288,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,OLIVT,olive da tavola,2018,2018,313287
+28367,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,NECTA,nettarina (pesca noce),2018,2018,197364
+28582,ITC3,Liguria,HP_Q_EXT,produzione raccolta - quintali ,WINEES,uva da vino,2018,2018,110116
+28644,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,TABLEGRAPES,uva da tavola,2018,2018,10937
+28646,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,KIWI,kiwi,2018,2018,11940
+28689,ITF5,Basilicata,HP_Q_EXT,produzione raccolta - quintali ,TABLEGRAPES,uva da tavola,2018,2018,123471
+28718,ITG2,Sardegna,HP_Q_EXT,produzione raccolta - quintali ,OLIVO,olive per olio,2018,2018,303400
+28777,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,NECTA,nettarina (pesca noce),2018,2018,686277
+28832,ITF2,Molise,HP_Q_EXT,produzione raccolta - quintali ,PLUM,susina,2018,2018,37800
+28938,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,LOTU,loti o kaki,2018,2018,4850
+28945,ITG2,Sardegna,HP_Q_EXT,produzione raccolta - quintali ,WINEES,uva da vino,2018,2018,1106000
+28982,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,OFTP,pomodoro da industria in piena aria,2018,2018,4969766
+29018,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,OFTP,pomodoro da industria in piena aria,2018,2018,15548140
+29041,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,KIWI,kiwi,2018,2018,2234800
+29091,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,OLIVT,olive da tavola,2018,2018,105
+29155,ITE2,Umbria,HP_Q_EXT,produzione raccolta - quintali ,NECTA,nettarina (pesca noce),2018,2018,2200
+29292,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,LOTU,loti o kaki,2018,2018,209595
+29311,ITE2,Umbria,HP_Q_EXT,produzione raccolta - quintali ,OLIVT,olive da tavola,2018,2018,10
+29413,ITG2,Sardegna,HP_Q_EXT,produzione raccolta - quintali ,POMETES,melograno,2018,2018,1250
+29423,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,TOMATIOPFI,pomodoro in piena aria,2018,2018,134370
+29469,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,KIWI,kiwi,2018,2018,8830
+29605,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,QUIN,cotogno,2018,2018,74
+29734,ITC3,Liguria,HP_Q_EXT,produzione raccolta - quintali ,OLIVO,olive per olio,2018,2018,229200
+29742,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,OLIVTAB_OIL,olive da tavola e da olio,2018,2018,946511
+29766,ITE2,Umbria,HP_Q_EXT,produzione raccolta - quintali ,PEACH,pesca,2018,2018,10660
+29772,ITF5,Basilicata,HP_Q_EXT,produzione raccolta - quintali ,OLIVTAB_OIL,olive da tavola e da olio,2018,2018,296428
+29807,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,EGGINGRE,melanzana in serra,2018,2018,301
+29819,ITD4,Friuli-Venezia Giulia,HP_Q_EXT,produzione raccolta - quintali ,OFTP,pomodoro da industria in piena aria,2018,2018,1118
+29898,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,TABLEGRAPES,uva da tavola,2018,2018,16260
+29943,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,POMETES,melograno,2018,2018,37355
+29985,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,EGGINGRE,melanzana in serra,2018,2018,79050
+29992,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,OFTP,pomodoro da industria in piena aria,2018,2018,16707084
+30066,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,WINEES,uva da vino,2018,2018,14200615
+30094,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,POMETES,melograno,2018,2018,810
+30111,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,CARO,carrubo,2018,2018,310
+30201,ITD4,Friuli-Venezia Giulia,HP_Q_EXT,produzione raccolta - quintali ,WINEES,uva da vino,2018,2018,2399629
+30231,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,EGGINGRE,melanzana in serra,2018,2018,1401
+30284,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,OLIVTAB_OIL,olive da tavola e da olio,2018,2018,177157
+30347,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,WINEES,uva da vino,2018,2018,10127901
+30361,ITF5,Basilicata,HP_Q_EXT,produzione raccolta - quintali ,NECTA,nettarina (pesca noce),2018,2018,215097
+30455,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,NECTA,nettarina (pesca noce),2018,2018,468351
+30523,ITF1,Abruzzo,HP_Q_EXT,produzione raccolta - quintali ,WINEES,uva da vino,2018,2018,4514983
+30622,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,KIWI,kiwi,2018,2018,385220
+30644,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,OLIVT,olive da tavola,2018,2018,7308
+30717,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,TABLEGRAPES,uva da tavola,2018,2018,1612
+30808,ITE2,Umbria,HP_Q_EXT,produzione raccolta - quintali ,PLUM,susina,2018,2018,900
+30910,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,OLIVO,olive per olio,2018,2018,5616560
+30998,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,EGGINGRE,melanzana in serra,2018,2018,20241
+31004,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,PLUM,susina,2018,2018,295072
+31043,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,OLIVTAB_OIL,olive da tavola e da olio,2018,2018,243843
+31080,ITF5,Basilicata,HP_Q_EXT,produzione raccolta - quintali ,PEACH,pesca,2018,2018,303163
+31090,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,POMETES,melograno,2018,2018,1314
+31094,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,PEACH,pesca,2018,2018,1709820
+31551,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,TOMATIOPFI,pomodoro in piena aria,2018,2018,97143
+31595,ITC3,Liguria,HP_Q_EXT,produzione raccolta - quintali ,TOMATIOPFI,pomodoro in piena aria,2018,2018,43450
+31619,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,TOMATIOPFI,pomodoro in piena aria,2018,2018,37980
+31653,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,TOMATIOPFI,pomodoro in piena aria,2018,2018,16030
+31688,ITD4,Friuli-Venezia Giulia,HP_Q_EXT,produzione raccolta - quintali ,TOMATIOPFI,pomodoro in piena aria,2018,2018,4262
+31710,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,TOMATIOPFI,pomodoro in piena aria,2018,2018,132240
+31808,ITE2,Umbria,HP_Q_EXT,produzione raccolta - quintali ,TOMATIOPFI,pomodoro in piena aria,2018,2018,8000
+31824,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,TOMATIOPFI,pomodoro in piena aria,2018,2018,85085
+31852,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,TOMATIOPFI,pomodoro in piena aria,2018,2018,373000
+31884,ITF1,Abruzzo,HP_Q_EXT,produzione raccolta - quintali ,TOMATIOPFI,pomodoro in piena aria,2018,2018,532860
+31912,ITF2,Molise,HP_Q_EXT,produzione raccolta - quintali ,TOMATIOPFI,pomodoro in piena aria,2018,2018,5750
+31926,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,TOMATIOPFI,pomodoro in piena aria,2018,2018,632824
+31980,ITF5,Basilicata,HP_Q_EXT,produzione raccolta - quintali ,TOMATIOPFI,pomodoro in piena aria,2018,2018,362815
+31996,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,TOMATIOPFI,pomodoro in piena aria,2018,2018,432635
+32028,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,TOMATIOPFI,pomodoro in piena aria,2018,2018,1319550
+32081,ITG2,Sardegna,HP_Q_EXT,produzione raccolta - quintali ,TOMATIOPFI,pomodoro in piena aria,2018,2018,78000
+32130,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,OFTP,pomodoro da industria in piena aria,2018,2018,592542
+32182,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,OFTP,pomodoro da industria in piena aria,2018,2018,885025
+32272,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,OFTP,pomodoro da industria in piena aria,2018,2018,1160070
+32304,ITE2,Umbria,HP_Q_EXT,produzione raccolta - quintali ,OFTP,pomodoro da industria in piena aria,2018,2018,75600
+32318,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,OFTP,pomodoro da industria in piena aria,2018,2018,10740
+32340,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,OFTP,pomodoro da industria in piena aria,2018,2018,1335500
+32360,ITF1,Abruzzo,HP_Q_EXT,produzione raccolta - quintali ,OFTP,pomodoro da industria in piena aria,2018,2018,540205
+32392,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,OFTP,pomodoro da industria in piena aria,2018,2018,2289714
+32442,ITF5,Basilicata,HP_Q_EXT,produzione raccolta - quintali ,OFTP,pomodoro da industria in piena aria,2018,2018,1177758
+32458,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,OFTP,pomodoro da industria in piena aria,2018,2018,1137810
+32482,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,OFTP,pomodoro da industria in piena aria,2018,2018,717000
+32504,ITG2,Sardegna,HP_Q_EXT,produzione raccolta - quintali ,OFTP,pomodoro da industria in piena aria,2018,2018,315180
+32909,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,OLIVO,olive per olio,2018,2018,1222
+32934,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,OLIVO,olive per olio,2018,2018,49996
+32952,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,OLIVO,olive per olio,2018,2018,243705
+32966,ITD4,Friuli-Venezia Giulia,HP_Q_EXT,produzione raccolta - quintali ,OLIVO,olive per olio,2018,2018,14500
+32976,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,OLIVO,olive per olio,2018,2018,72112
+33010,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,QUIN,cotogno,2018,2018,2695
+33132,ITF2,Molise,HP_Q_EXT,produzione raccolta - quintali ,PEACH,pesca,2018,2018,28500
+33188,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,PEACH,pesca,2018,2018,677415
+33325,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,KIWI,kiwi,2018,2018,1003105
+33397,ITC2,Valle d'Aosta / Vallée d'Aoste,HP_Q_EXT,produzione raccolta - quintali ,KIWI,kiwi,2018,2018,200
+33413,ITC3,Liguria,HP_Q_EXT,produzione raccolta - quintali ,KIWI,kiwi,2018,2018,1390
+33445,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,KIWI,kiwi,2018,2018,119368
+33533,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,KIWI,kiwi,2018,2018,573940
+33587,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,LOTU,loti o kaki,2018,2018,190046
+33597,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,LOTU,loti o kaki,2018,2018,1200
+33605,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,LOTU,loti o kaki,2018,2018,32650
+33744,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,CARO,carrubo,2018,2018,5745
+33776,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,CARO,carrubo,2018,2018,363455
+33814,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,CULTDMUSHR,funghi di coltivazione in piena aria,2018,2018,9205
+33820,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,CULTDMUSHR,funghi di coltivazione in piena aria,2018,2018,345350
+33834,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,CULTDMUSHR,funghi di coltivazione in piena aria,2018,2018,140316
+33848,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,CULTDMUSHR,funghi di coltivazione in piena aria,2018,2018,90
+33854,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,CULTDMUSHR,funghi di coltivazione in piena aria,2018,2018,158
+33858,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,CULTDMUSHR,funghi di coltivazione in piena aria,2018,2018,73500
+33867,ITF1,Abruzzo,HP_Q_EXT,produzione raccolta - quintali ,CULTDMUSHR,funghi di coltivazione in piena aria,2018,2018,3880
+33874,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,CULTDMUSHR,funghi di coltivazione in piena aria,2018,2018,37780
+33886,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,CULTDMUSHR,funghi di coltivazione in piena aria,2018,2018,71655
+33896,ITF5,Basilicata,HP_Q_EXT,produzione raccolta - quintali ,CULTDMUSHR,funghi di coltivazione in piena aria,2018,2018,1662
+33900,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,CULTDMUSHR,funghi di coltivazione in piena aria,2018,2018,3435
+33910,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,CULTDMUSHR,funghi di coltivazione in piena aria,2018,2018,5710
+33922,ITG2,Sardegna,HP_Q_EXT,produzione raccolta - quintali ,CULTDMUSHR,funghi di coltivazione in piena aria,2018,2018,13986
+33954,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,WHEATD,frumento duro,2018,2018,85058
+34002,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,WHEATD,frumento duro,2018,2018,903960
+34062,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,WHEATD,frumento duro,2018,2018,954790
+34104,ITD4,Friuli-Venezia Giulia,HP_Q_EXT,produzione raccolta - quintali ,WHEATD,frumento duro,2018,2018,18746
+34128,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,WHEATD,frumento duro,2018,2018,4126632
+34194,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,WHEATD,frumento duro,2018,2018,2098021
+34254,ITE2,Umbria,HP_Q_EXT,produzione raccolta - quintali ,WHEATD,frumento duro,2018,2018,1086000
+34272,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,WHEATD,frumento duro,2018,2018,4557301
+34302,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,WHEATD,frumento duro,2018,2018,1016300
+34344,ITF1,Abruzzo,HP_Q_EXT,produzione raccolta - quintali ,WHEATD,frumento duro,2018,2018,1197740
+34374,ITF2,Molise,HP_Q_EXT,produzione raccolta - quintali ,WHEATD,frumento duro,2018,2018,2070000
+34392,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,WHEATD,frumento duro,2018,2018,1848952
+34428,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,WHEATD,frumento duro,2018,2018,9482500
+34464,ITF5,Basilicata,HP_Q_EXT,produzione raccolta - quintali ,WHEATD,frumento duro,2018,2018,3276272
+34482,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,WHEATD,frumento duro,2018,2018,641184
+34518,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,WHEATD,frumento duro,2018,2018,7506612
+34578,ITG2,Sardegna,HP_Q_EXT,produzione raccolta - quintali ,WHEATD,frumento duro,2018,2018,575398
+34638,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,EGGINGRE,melanzana in serra,2018,2018,7001
+34662,ITC3,Liguria,HP_Q_EXT,produzione raccolta - quintali ,EGGINGRE,melanzana in serra,2018,2018,390
+34674,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,EGGINGRE,melanzana in serra,2018,2018,6103
+34702,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,EGGINGRE,melanzana in serra,2018,2018,91960
+34732,ITD4,Friuli-Venezia Giulia,HP_Q_EXT,produzione raccolta - quintali ,EGGINGRE,melanzana in serra,2018,2018,1631
+34782,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,EGGINGRE,melanzana in serra,2018,2018,316392
+34802,ITG2,Sardegna,HP_Q_EXT,produzione raccolta - quintali ,EGGINGRE,melanzana in serra,2018,2018,3958
+34878,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,BEAN,fagiolo ,2018,2018,11082
+34891,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,CHAROPENFI,bietola da costa in piena aria,2018,2018,31100
+34943,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,RICE,riso,2018,2018,418554
+34954,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,SPINNGREEN,spinacio in serra,2018,2018,200
+34964,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,CEREAOG,altri cereali,2018,2018,99004
+35064,ITE2,Umbria,HP_Q_EXT,produzione raccolta - quintali ,POTA,patata comune ,2018,2018,60000
+35122,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,LETTNGREEN,lattuga in serra,2018,2018,455882
+35143,ITE2,Umbria,HP_Q_EXT,produzione raccolta - quintali ,EGGINOPE,melanzana in piena aria,2018,2018,1240
+35248,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,HAZEL,nocciola,2018,2018,190
+35284,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,HAZEL,nocciola,2018,2018,509
+35297,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,CLEMENTINE,clementine,2018,2018,469030
+35299,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,SWEEATOES,batata o patata dolce ,2018,2018,4165
+35322,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,REDRINOP,peperone in piena aria,2018,2018,12544
+35351,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,PEAPROT,pisello proteico ,2018,2018,2230
+35506,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,SUNFLO,girasole,2018,2018,833587
+35511,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,REDINGREE,bieta da orto in serra,2018,2018,98
+35556,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,SPINNGREEN,spinacio in serra,2018,2018,35300
+35564,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,OTHEETABLESGR,altri ortaggi in serra,2018,2018,267028
+35621,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,CELEGREENH,sedano in serra,2018,2018,45
+35743,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,REDRINOP,peperone in piena aria,2018,2018,279420
+35755,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,RICE,riso,2018,2018,6455725
+35807,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,EARLATOES,patata primaticcia ,2018,2018,922
+35900,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,PEAENFIEL,pisello in piena aria,2018,2018,41700
+35910,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,BEAN,fagiolo ,2018,2018,1707
+35916,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,ASPAINGREOPEN,asparago in piena aria,2018,2018,12420
+36065,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,CEREAOG,altri cereali,2018,2018,149280
+36090,ITF5,Basilicata,HP_Q_EXT,produzione raccolta - quintali ,CHICNOPEN,radicchio o cicoria in piena aria,2018,2018,37211
+36205,ITF2,Molise,HP_Q_EXT,produzione raccolta - quintali ,FENNOPENF,finocchio in piena aria,2018,2018,270000
+36244,ITG2,Sardegna,HP_Q_EXT,produzione raccolta - quintali ,ASPAINGRE,asparago in serra,2018,2018,1047
+36305,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,POTA,patata comune ,2018,2018,385070
+36326,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,LEMON,limone,2018,2018,249443
+36334,ITF5,Basilicata,HP_Q_EXT,produzione raccolta - quintali ,GLOBICHOKE,carciofo in piena aria,2018,2018,52158
+36348,ITE2,Umbria,HP_Q_EXT,produzione raccolta - quintali ,APPLE,mela,2018,2018,20620
+36371,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,ENDINOPEN,indivia (riccia e scarola) in piena aria,2018,2018,83630
+36381,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,BEAN,fagiolo ,2018,2018,6138
+36387,ITC2,Valle d'Aosta / Vallée d'Aoste,HP_Q_EXT,produzione raccolta - quintali ,STRAIEINO,fragola in piena aria,2018,2018,350
+36422,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,GLOBICHOKE,carciofo in piena aria,2018,2018,157567
+36528,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,MAIZE,mais,2018,2018,367404
+36581,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,CELEGREENH,sedano in serra,2018,2018,13545
+36643,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,REDRINOP,peperone in piena aria,2018,2018,11851
+36668,ITF1,Abruzzo,HP_Q_EXT,produzione raccolta - quintali ,STRAIEINO,fragola in piena aria,2018,2018,12400
+36681,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,CLEMENTINE,clementine,2018,2018,3450
+36766,ITD4,Friuli-Venezia Giulia,HP_Q_EXT,produzione raccolta - quintali ,HAZEL,nocciola,2018,2018,86
+36908,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,GARLDSHALL,aglio e scalogno in piena aria,2018,2018,85834
+36961,ITF1,Abruzzo,HP_Q_EXT,produzione raccolta - quintali ,ENDINOPEN,indivia (riccia e scarola) in piena aria,2018,2018,405430
+36977,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,PEAPROT,pisello proteico ,2018,2018,35813
+36983,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,PEAENFIEL,pisello in piena aria,2018,2018,20232
+36996,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,MANDAR,mandarino,2018,2018,71265
+37015,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,HEMP,canapa,2018,2018,104
+37042,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,RADIINGREE,ravanello in serra,2018,2018,887
+37131,ITE2,Umbria,HP_Q_EXT,produzione raccolta - quintali ,LETTNOPEN,lattuga in piena aria,2018,2018,2760
+37217,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,BROAFIELD,fava da granella ,2018,2018,97480
+37261,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,FRESNEYBEA,fagiolo e fagiolino in piena aria,2018,2018,101286
+37263,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,SORGH,sorgo,2018,2018,15969
+37303,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,FENNOPENF,finocchio in piena aria,2018,2018,17154
+37342,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,SWEEATOES,batata o patata dolce ,2018,2018,39107
+37361,ITE2,Umbria,HP_Q_EXT,produzione raccolta - quintali ,BROCINOPEN,broccoletto di rapa in piena aria,2018,2018,525
+37385,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,BEETANDLEA,barbabietola da orto,2018,2018,28930
+37391,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,BEANREENHOU,fagiolino in serra,2018,2018,751
+37527,ITG2,Sardegna,HP_Q_EXT,produzione raccolta - quintali ,BROAFIELD,fava da granella ,2018,2018,62324
+37533,ITF5,Basilicata,HP_Q_EXT,produzione raccolta - quintali ,APRIC,albicocca,2018,2018,431363
+37537,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,CLEMENTINE,clementine,2018,2018,400
+37558,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,EGGINOPE,melanzana in piena aria,2018,2018,16690
+37580,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,MAIZE,mais,2018,2018,13685180
+37646,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,ASPAINGRE,asparago in serra,2018,2018,1800
+37674,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,CEREAOG,altri cereali,2018,2018,13720
+37754,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,BEAN,fagiolo ,2018,2018,1810
+37799,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,SUNFLO,girasole,2018,2018,118778
+37852,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,PEAENFIEL,pisello in piena aria,2018,2018,2730
+37864,ITF5,Basilicata,HP_Q_EXT,produzione raccolta - quintali ,CUCUINGRE,cetriolo da mensa in serra,2018,2018,2247
+37934,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,STRAIEINO,fragola in piena aria,2018,2018,69770
+37950,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,PARSNGROPEN,prezzemolo in piena aria,2018,2018,198
+37956,ITF1,Abruzzo,HP_Q_EXT,produzione raccolta - quintali ,RICE,riso,2018,2018,183
+37995,ITC3,Liguria,HP_Q_EXT,produzione raccolta - quintali ,VALEINGREE,valeriana in serra,2018,2018,1350
+38001,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,CUCUINGRE,cetriolo da mensa in serra,2018,2018,25800
+38044,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,FRESADBEAN,fava fresca in piena aria,2018,2018,2230
+38061,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,PEAR,pera,2018,2018,44139
+38065,ITE2,Umbria,HP_Q_EXT,produzione raccolta - quintali ,CHERR,ciliegia,2018,2018,1240
+38089,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,REDRINOP,peperone in piena aria,2018,2018,126420
+38091,ITF2,Molise,HP_Q_EXT,produzione raccolta - quintali ,ALMO,mandorla,2018,2018,525
+38162,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,FRESNEYBEA,fagiolo e fagiolino in piena aria,2018,2018,50570
+38287,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,CEREAOG,altri cereali,2018,2018,184589
+38329,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,OTHEETABLESGR,altri ortaggi in serra,2018,2018,56506
+38408,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,ORANGE,arancia,2018,2018,172804
+38419,ITF1,Abruzzo,HP_Q_EXT,produzione raccolta - quintali ,BROAFIELD,fava da granella ,2018,2018,141387
+38486,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,CELEGREENH,sedano in serra,2018,2018,177
+38508,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,ASPAINGRE,asparago in serra,2018,2018,25
+38510,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,APRIC,albicocca,2018,2018,9650
+38584,ITF5,Basilicata,HP_Q_EXT,produzione raccolta - quintali ,EGGINOPE,melanzana in piena aria,2018,2018,71797
+38661,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,EGGINOPE,melanzana in piena aria,2018,2018,577955
+38692,ITF5,Basilicata,HP_Q_EXT,produzione raccolta - quintali ,LETTNGREEN,lattuga in serra,2018,2018,718
+38716,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,SUNFLO,girasole,2018,2018,74440
+38748,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,LETTNGREEN,lattuga in serra,2018,2018,329470
+38754,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,ASPAINGREOPEN,asparago in piena aria,2018,2018,1640
+38798,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,POTA,patata comune ,2018,2018,1504582
+38869,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,SUNFLO,girasole,2018,2018,1277
+38895,ITF5,Basilicata,HP_Q_EXT,produzione raccolta - quintali ,POTA,patata comune ,2018,2018,19500
+38904,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,SWEEILING,basilico in serra,2018,2018,2020
+38962,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,GARLDSHALL,aglio e scalogno in piena aria,2018,2018,1866
+39016,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,CHAROPENFI,bietola da costa in piena aria,2018,2018,10080
+39053,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,MAIZE,mais,2018,2018,13500
+39073,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,FLAX,lino,2018,2018,2360
+39075,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,RAPE,colza,2018,2018,21958
+39081,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,SWEEATOES,batata o patata dolce ,2018,2018,340
+39171,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,PEAPROT,pisello proteico ,2018,2018,4911
+39207,ITF5,Basilicata,HP_Q_EXT,produzione raccolta - quintali ,CHAROPENFI,bietola da costa in piena aria,2018,2018,21755
+39289,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,BEETREENHOU,bietola in serra,2018,2018,7812
+39313,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,CELEGREENH,sedano in serra,2018,2018,34840
+39348,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,SWEEATOES,batata o patata dolce ,2018,2018,1300
+39420,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,GLOBICHOKE,carciofo in piena aria,2018,2018,1728
+39442,ITF1,Abruzzo,HP_Q_EXT,produzione raccolta - quintali ,HAZEL,nocciola,2018,2018,1050
+39465,ITC3,Liguria,HP_Q_EXT,produzione raccolta - quintali ,FRESNEYBEA,fagiolo e fagiolino in piena aria,2018,2018,1030
+39483,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,SWEEILING,basilico in serra,2018,2018,17
+39487,ITE2,Umbria,HP_Q_EXT,produzione raccolta - quintali ,RAPE,colza,2018,2018,7440
+39497,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,APRIC,albicocca,2018,2018,21066
+39567,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,PEAR,pera,2018,2018,59390
+39727,ITF2,Molise,HP_Q_EXT,produzione raccolta - quintali ,HEMP,canapa,2018,2018,1800
+39772,ITF5,Basilicata,HP_Q_EXT,produzione raccolta - quintali ,LEMON,limone,2018,2018,12100
+39796,ITE2,Umbria,HP_Q_EXT,produzione raccolta - quintali ,ALMO,mandorla,2018,2018,50
+39800,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,CHICNOPEN,radicchio o cicoria in piena aria,2018,2018,1329930
+39818,ITF5,Basilicata,HP_Q_EXT,produzione raccolta - quintali ,MANDAR,mandarino,2018,2018,59195
+39883,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,CHICNOPEN,radicchio o cicoria in piena aria,2018,2018,24334
+39995,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,CUCUINGRE,cetriolo da mensa in serra,2018,2018,98
+40035,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,CLEMENTINE,clementine,2018,2018,3426040
+40041,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,PEAPROT,pisello proteico ,2018,2018,1080
+40078,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,WATENINGR,cocomero in serra,2018,2018,52075
+40080,ITE2,Umbria,HP_Q_EXT,produzione raccolta - quintali ,STRAIEING,fragola in serra,2018,2018,700
+40098,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,SWEEATOES,batata o patata dolce ,2018,2018,16500
+40135,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,APPLE,mela,2018,2018,690350
+40157,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,WATENINGR,cocomero in serra,2018,2018,7780
+40166,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,REDINGREE,bieta da orto in serra,2018,2018,1260
+40191,ITG2,Sardegna,HP_Q_EXT,produzione raccolta - quintali ,FRESNEYBEA,fagiolo e fagiolino in piena aria,2018,2018,9282
+40207,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,GARLDSHALL,aglio e scalogno in piena aria,2018,2018,41635
+40242,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,MAIZE,mais,2018,2018,1282500
+40255,ITF5,Basilicata,HP_Q_EXT,produzione raccolta - quintali ,APPLE,mela,2018,2018,82098
+40329,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,LETTNGREEN,lattuga in serra,2018,2018,4637
+40338,ITC3,Liguria,HP_Q_EXT,produzione raccolta - quintali ,PEAR,pera,2018,2018,1100
+40349,ITD4,Friuli-Venezia Giulia,HP_Q_EXT,produzione raccolta - quintali ,SORGH,sorgo,2018,2018,34209
+40361,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,CHAROPENFI,bietola da costa in piena aria,2018,2018,17168
+40380,ITG2,Sardegna,HP_Q_EXT,produzione raccolta - quintali ,SORGH,sorgo,2018,2018,90
+40388,ITE2,Umbria,HP_Q_EXT,produzione raccolta - quintali ,FRESADBEAN,fava fresca in piena aria,2018,2018,616
+40406,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,VALEINGREE,valeriana in serra,2018,2018,78000
+40427,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,CHERR,ciliegia,2018,2018,276603
+40442,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,SWEEILING,basilico in serra,2018,2018,240
+40452,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,HEMP,canapa,2018,2018,8410
+40462,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,CELEGREENH,sedano in serra,2018,2018,474
+40480,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,BROAFIELD,fava da granella ,2018,2018,71277
+40524,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,FRESADBEAN,fava fresca in piena aria,2018,2018,56310
+40526,ITF5,Basilicata,HP_Q_EXT,produzione raccolta - quintali ,CHERR,ciliegia,2018,2018,10200
+40632,ITF2,Molise,HP_Q_EXT,produzione raccolta - quintali ,STRAIEINO,fragola in piena aria,2018,2018,16800
+40698,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,BROCINOPEN,broccoletto di rapa in piena aria,2018,2018,494922
+40717,ITF2,Molise,HP_Q_EXT,produzione raccolta - quintali ,HAZEL,nocciola,2018,2018,2550
+40723,ITF5,Basilicata,HP_Q_EXT,produzione raccolta - quintali ,BROCINOPEN,broccoletto di rapa in piena aria,2018,2018,76218
+40782,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,BROAFIELD,fava da granella ,2018,2018,2593
+40812,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,REDRINOP,peperone in piena aria,2018,2018,228180
+40919,ITF5,Basilicata,HP_Q_EXT,produzione raccolta - quintali ,LETTNOPEN,lattuga in piena aria,2018,2018,122870
+40951,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,LETTNOPEN,lattuga in piena aria,2018,2018,316243
+40957,ITF2,Molise,HP_Q_EXT,produzione raccolta - quintali ,ENDINOPEN,indivia (riccia e scarola) in piena aria,2018,2018,29200
+40992,ITD4,Friuli-Venezia Giulia,HP_Q_EXT,produzione raccolta - quintali ,PEAR,pera,2018,2018,33621
+41035,ITF2,Molise,HP_Q_EXT,produzione raccolta - quintali ,OTHEETABLESGR,altri ortaggi in serra,2018,2018,300
+41059,ITG2,Sardegna,HP_Q_EXT,produzione raccolta - quintali ,PEAENFIEL,pisello in piena aria,2018,2018,9930
+41061,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,EARLATOES,patata primaticcia ,2018,2018,661763
+41238,ITG2,Sardegna,HP_Q_EXT,produzione raccolta - quintali ,PEAR,pera,2018,2018,9367
+41260,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,VALEINGREE,valeriana in serra,2018,2018,150
+41268,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,CHICNOPEN,radicchio o cicoria in piena aria,2018,2018,122204
+41311,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,APRIC,albicocca,2018,2018,42525
+41344,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,MAIZE,mais,2018,2018,947867
+41429,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,SUNFLO,girasole,2018,2018,398713
+41458,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,STRAIEING,fragola in serra,2018,2018,14715
+41473,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,CUCUINGRE,cetriolo da mensa in serra,2018,2018,60340
+41524,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,PEAPROT,pisello proteico ,2018,2018,470
+41526,ITG2,Sardegna,HP_Q_EXT,produzione raccolta - quintali ,WATENINGR,cocomero in serra,2018,2018,15951
+41606,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,GLOBICHOKE,carciofo in piena aria,2018,2018,4184
+41648,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,SWEEILING,basilico in serra,2018,2018,58408
+41674,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,HAZEL,nocciola,2018,2018,510
+41771,ITE2,Umbria,HP_Q_EXT,produzione raccolta - quintali ,FENNOPENF,finocchio in piena aria,2018,2018,1810
+41829,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,SWEEILING,basilico in serra,2018,2018,1977
+41852,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,CELEGREENH,sedano in serra,2018,2018,855
+41937,ITF5,Basilicata,HP_Q_EXT,produzione raccolta - quintali ,ORANGE,arancia,2018,2018,749265
+41942,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,APRIC,albicocca,2018,2018,23297
+41969,ITC3,Liguria,HP_Q_EXT,produzione raccolta - quintali ,PEAENFIEL,pisello in piena aria,2018,2018,180
+41981,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,BEETREENHOU,bietola in serra,2018,2018,124
+42034,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,BEETREENHOU,bietola in serra,2018,2018,1480
+42048,ITF1,Abruzzo,HP_Q_EXT,produzione raccolta - quintali ,BROCINOPEN,broccoletto di rapa in piena aria,2018,2018,102320
+42123,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,APRIC,albicocca,2018,2018,96110
+42125,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,EGGINOPE,melanzana in piena aria,2018,2018,5664
+42214,ITF2,Molise,HP_Q_EXT,produzione raccolta - quintali ,CHERR,ciliegia,2018,2018,4000
+42244,ITF1,Abruzzo,HP_Q_EXT,produzione raccolta - quintali ,LETTNOPEN,lattuga in piena aria,2018,2018,172460
+42254,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,BROAFIELD,fava da granella ,2018,2018,92550
+42258,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,ASPAINGREOPEN,asparago in piena aria,2018,2018,1190
+42301,ITF2,Molise,HP_Q_EXT,produzione raccolta - quintali ,GARLDSHALL,aglio e scalogno in piena aria,2018,2018,1620
+42399,ITF5,Basilicata,HP_Q_EXT,produzione raccolta - quintali ,PEAENFIEL,pisello in piena aria,2018,2018,2957
+42421,ITE2,Umbria,HP_Q_EXT,produzione raccolta - quintali ,PEAPROT,pisello proteico ,2018,2018,800
+42446,ITD4,Friuli-Venezia Giulia,HP_Q_EXT,produzione raccolta - quintali ,RAPE,colza,2018,2018,16534
+42452,ITF5,Basilicata,HP_Q_EXT,produzione raccolta - quintali ,FRESNEYBEA,fagiolo e fagiolino in piena aria,2018,2018,15006
+42501,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,CHICNOPEN,radicchio o cicoria in piena aria,2018,2018,8010
+42511,ITF1,Abruzzo,HP_Q_EXT,produzione raccolta - quintali ,APPLE,mela,2018,2018,138162
+42553,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,SWEEILING,basilico in serra,2018,2018,1640
+42623,ITG2,Sardegna,HP_Q_EXT,produzione raccolta - quintali ,RAPE,colza,2018,2018,79
+42632,ITF5,Basilicata,HP_Q_EXT,produzione raccolta - quintali ,SORGH,sorgo,2018,2018,6942
+42733,ITF1,Abruzzo,HP_Q_EXT,produzione raccolta - quintali ,FRESADBEAN,fava fresca in piena aria,2018,2018,9187
+42741,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,REDRINOP,peperone in piena aria,2018,2018,224930
+42769,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,ASPAINGRE,asparago in serra,2018,2018,69
+42826,ITF1,Abruzzo,HP_Q_EXT,produzione raccolta - quintali ,CHERR,ciliegia,2018,2018,15505
+42852,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,VALEINGREE,valeriana in serra,2018,2018,4100
+42904,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,RAPE,colza,2018,2018,3100
+42969,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,GARLDSHALL,aglio e scalogno in piena aria,2018,2018,16609
+42975,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,ASPAINGRE,asparago in serra,2018,2018,554
+43147,ITC2,Valle d'Aosta / Vallée d'Aoste,HP_Q_EXT,produzione raccolta - quintali ,APPLE,mela,2018,2018,64000
+43158,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,CHERR,ciliegia,2018,2018,114141
+43224,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,ASPAINGREOPEN,asparago in piena aria,2018,2018,47012
+43226,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,REDINGREE,bieta da orto in serra,2018,2018,1156
+43281,ITF1,Abruzzo,HP_Q_EXT,produzione raccolta - quintali ,ORANGE,arancia,2018,2018,142
+43300,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,POTA,patata comune ,2018,2018,2133592
+43433,ITF5,Basilicata,HP_Q_EXT,produzione raccolta - quintali ,PEAR,pera,2018,2018,68764
+43489,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,PEAR,pera,2018,2018,724970
+43510,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,BEANREENHOU,fagiolino in serra,2018,2018,4699
+43527,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,WATENINGR,cocomero in serra,2018,2018,27799
+43531,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,BEANREENHOU,fagiolino in serra,2018,2018,4770
+43607,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,PEAPROT,pisello proteico ,2018,2018,18235
+43685,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,ASPAINGRE,asparago in serra,2018,2018,9780
+43737,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,HAZEL,nocciola,2018,2018,91720
+43741,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,RADIINGREE,ravanello in serra,2018,2018,793
+43830,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,CEREAOG,altri cereali,2018,2018,10550
+43837,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,MAIZE,mais,2018,2018,13684970
+43847,ITF5,Basilicata,HP_Q_EXT,produzione raccolta - quintali ,BEAN,fagiolo ,2018,2018,1970
+43888,ITF5,Basilicata,HP_Q_EXT,produzione raccolta - quintali ,CEREAOG,altri cereali,2018,2018,50108
+43963,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,REDINGREE,bieta da orto in serra,2018,2018,132
+44050,ITG2,Sardegna,HP_Q_EXT,produzione raccolta - quintali ,BEANREENHOU,fagiolino in serra,2018,2018,717
+44071,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,HAZEL,nocciola,2018,2018,453300
+44084,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,ASPAINGRE,asparago in serra,2018,2018,6450
+44136,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,BEAN,fagiolo ,2018,2018,12933
+44138,ITG2,Sardegna,HP_Q_EXT,produzione raccolta - quintali ,FENNOPENF,finocchio in piena aria,2018,2018,250316
+44169,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,FRESADBEAN,fava fresca in piena aria,2018,2018,24480
+44186,ITD4,Friuli-Venezia Giulia,HP_Q_EXT,produzione raccolta - quintali ,FENNOPENF,finocchio in piena aria,2018,2018,4044
+44201,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,FRESADBEAN,fava fresca in piena aria,2018,2018,14072
+44364,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,HAZEL,nocciola,2018,2018,7330
+44412,ITF1,Abruzzo,HP_Q_EXT,produzione raccolta - quintali ,EGGINOPE,melanzana in piena aria,2018,2018,37242
+44426,ITC3,Liguria,HP_Q_EXT,produzione raccolta - quintali ,STRAIEING,fragola in serra,2018,2018,1240
+44428,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,PARSNGROPEN,prezzemolo in piena aria,2018,2018,2440
+44431,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,BROAFIELD,fava da granella ,2018,2018,282135
+44433,ITE2,Umbria,HP_Q_EXT,produzione raccolta - quintali ,SUNFLO,girasole,2018,2018,192000
+44461,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,OTHEETABLESGR,altri ortaggi in serra,2018,2018,6580
+44521,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,PARSNGROPEN,prezzemolo in piena aria,2018,2018,220530
+44535,ITF1,Abruzzo,HP_Q_EXT,produzione raccolta - quintali ,ASPAINGREOPEN,asparago in piena aria,2018,2018,1125
+44601,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,APPLE,mela,2018,2018,2002655
+44632,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,EARLATOES,patata primaticcia ,2018,2018,301110
+44641,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,SPINNGREEN,spinacio in serra,2018,2018,200
+44718,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,FRESADBEAN,fava fresca in piena aria,2018,2018,2712
+44773,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,PEAR,pera,2018,2018,7900
+44781,ITF1,Abruzzo,HP_Q_EXT,produzione raccolta - quintali ,POTA,patata comune ,2018,2018,1691854
+44858,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,REDINGREE,bieta da orto in serra,2018,2018,25
+44864,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,FLAX,lino,2018,2018,100
+44950,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,EGGINOPE,melanzana in piena aria,2018,2018,34240
+44953,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,BEETANDLEA,barbabietola da orto,2018,2018,3000
+45003,ITD4,Friuli-Venezia Giulia,HP_Q_EXT,produzione raccolta - quintali ,PARSNGROPEN,prezzemolo in piena aria,2018,2018,200
+45100,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,HAZEL,nocciola,2018,2018,3048
+45123,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,RICE,riso,2018,2018,32338
+45175,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,FENNOPENF,finocchio in piena aria,2018,2018,880
+45205,ITF1,Abruzzo,HP_Q_EXT,produzione raccolta - quintali ,EARLATOES,patata primaticcia ,2018,2018,12679
+45233,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,BROAFIELD,fava da granella ,2018,2018,26160
+45259,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,LETTNOPEN,lattuga in piena aria,2018,2018,459010
+45312,ITF2,Molise,HP_Q_EXT,produzione raccolta - quintali ,LEMON,limone,2018,2018,180
+45321,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,WATENINGR,cocomero in serra,2018,2018,74
+45325,ITG2,Sardegna,HP_Q_EXT,produzione raccolta - quintali ,STRAIEING,fragola in serra,2018,2018,7545
+45357,ITG2,Sardegna,HP_Q_EXT,produzione raccolta - quintali ,ALMO,mandorla,2018,2018,42848
+45372,ITC2,Valle d'Aosta / Vallée d'Aoste,HP_Q_EXT,produzione raccolta - quintali ,POTA,patata comune ,2018,2018,31000
+45416,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,VALEINGREE,valeriana in serra,2018,2018,885
+45463,ITF2,Molise,HP_Q_EXT,produzione raccolta - quintali ,GLOBICHOKE,carciofo in piena aria,2018,2018,18000
+45526,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,FENNOPENF,finocchio in piena aria,2018,2018,1404170
+45545,ITF2,Molise,HP_Q_EXT,produzione raccolta - quintali ,APPLE,mela,2018,2018,46000
+45547,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,CLEMENTINE,clementine,2018,2018,48718
+45564,ITE2,Umbria,HP_Q_EXT,produzione raccolta - quintali ,MAIZE,mais,2018,2018,1070000
+45627,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,WATENINGR,cocomero in serra,2018,2018,1933
+45643,ITE2,Umbria,HP_Q_EXT,produzione raccolta - quintali ,LETTNGREEN,lattuga in serra,2018,2018,500
+45660,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,FLAX,lino,2018,2018,780
+45720,ITE2,Umbria,HP_Q_EXT,produzione raccolta - quintali ,CHAROPENFI,bietola da costa in piena aria,2018,2018,6200
+45747,ITF1,Abruzzo,HP_Q_EXT,produzione raccolta - quintali ,PARSNGROPEN,prezzemolo in piena aria,2018,2018,760
+45780,ITC3,Liguria,HP_Q_EXT,produzione raccolta - quintali ,OTHEETABLESGR,altri ortaggi in serra,2018,2018,6000
+45793,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,BEETS,barbabietola da zucchero,2018,2018,6095665
+45802,ITC3,Liguria,HP_Q_EXT,produzione raccolta - quintali ,STRAIEINO,fragola in piena aria,2018,2018,100
+45920,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,BEAN,fagiolo ,2018,2018,409
+45922,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,CEREAOG,altri cereali,2018,2018,102399
+45960,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,RAPE,colza,2018,2018,75848
+45965,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,PEAR,pera,2018,2018,502720
+45969,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,PEAENFIEL,pisello in piena aria,2018,2018,75175
+45979,ITF2,Molise,HP_Q_EXT,produzione raccolta - quintali ,FRESADBEAN,fava fresca in piena aria,2018,2018,10400
+46019,ITC3,Liguria,HP_Q_EXT,produzione raccolta - quintali ,ENDINOPEN,indivia (riccia e scarola) in piena aria,2018,2018,2220
+46072,ITD4,Friuli-Venezia Giulia,HP_Q_EXT,produzione raccolta - quintali ,RICE,riso,2018,2018,810
+46077,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,BROAFIELD,fava da granella ,2018,2018,17293
+46085,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,PEAPROT,pisello proteico ,2018,2018,120
+46089,ITG2,Sardegna,HP_Q_EXT,produzione raccolta - quintali ,RICE,riso,2018,2018,259334
+46112,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,STRAIEINO,fragola in piena aria,2018,2018,2690
+46159,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,STRAIEINO,fragola in piena aria,2018,2018,3967
+46164,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,REDRINOP,peperone in piena aria,2018,2018,9720
+46191,ITF2,Molise,HP_Q_EXT,produzione raccolta - quintali ,LETTNOPEN,lattuga in piena aria,2018,2018,27800
+46219,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,FRESNEYBEA,fagiolo e fagiolino in piena aria,2018,2018,57185
+46225,ITF2,Molise,HP_Q_EXT,produzione raccolta - quintali ,BROCINOPEN,broccoletto di rapa in piena aria,2018,2018,7000
+46241,ITF1,Abruzzo,HP_Q_EXT,produzione raccolta - quintali ,STRAIEING,fragola in serra,2018,2018,1600
+46324,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,OTHEETABLESGR,altri ortaggi in serra,2018,2018,5600
+46326,ITF5,Basilicata,HP_Q_EXT,produzione raccolta - quintali ,REDRINOP,peperone in piena aria,2018,2018,106139
+46362,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,ENDINOPEN,indivia (riccia e scarola) in piena aria,2018,2018,69636
+46367,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,WATENINGR,cocomero in serra,2018,2018,510380
+46369,ITF1,Abruzzo,HP_Q_EXT,produzione raccolta - quintali ,ALMO,mandorla,2018,2018,282
+46401,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,ENDINOPEN,indivia (riccia e scarola) in piena aria,2018,2018,652580
+46416,ITF2,Molise,HP_Q_EXT,produzione raccolta - quintali ,EARLATOES,patata primaticcia ,2018,2018,17500
+46436,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,CARRGREENH,carota in serra,2018,2018,870
+46526,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,RAPE,colza,2018,2018,117262
+46532,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,CHERR,ciliegia,2018,2018,21811
+46620,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,BEETREENHOU,bietola in serra,2018,2018,1900
+46704,ITE2,Umbria,HP_Q_EXT,produzione raccolta - quintali ,CHICNOPEN,radicchio o cicoria in piena aria,2018,2018,2095
+46721,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,CHICNOPEN,radicchio o cicoria in piena aria,2018,2018,56662
+46888,ITD4,Friuli-Venezia Giulia,HP_Q_EXT,produzione raccolta - quintali ,ENDINOPEN,indivia (riccia e scarola) in piena aria,2018,2018,153
+46908,ITF1,Abruzzo,HP_Q_EXT,produzione raccolta - quintali ,FENNOPENF,finocchio in piena aria,2018,2018,646951
+46918,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,BROCINOPEN,broccoletto di rapa in piena aria,2018,2018,6366
+46922,ITG2,Sardegna,HP_Q_EXT,produzione raccolta - quintali ,ENDINOPEN,indivia (riccia e scarola) in piena aria,2018,2018,41434
+46959,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,FRESNEYBEA,fagiolo e fagiolino in piena aria,2018,2018,16585
+47035,ITE2,Umbria,HP_Q_EXT,produzione raccolta - quintali ,GLOBICHOKE,carciofo in piena aria,2018,2018,230
+47164,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,FRESNEYBEA,fagiolo e fagiolino in piena aria,2018,2018,29350
+47170,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,ALMO,mandorla,2018,2018,26
+47274,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,CHAROPENFI,bietola da costa in piena aria,2018,2018,10628
+47355,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,PEAR,pera,2018,2018,91951
+47424,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,BEAN,fagiolo ,2018,2018,2739
+47482,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,PEAENFIEL,pisello in piena aria,2018,2018,159776
+47492,ITF2,Molise,HP_Q_EXT,produzione raccolta - quintali ,ORANGE,arancia,2018,2018,360
+47542,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,STRAIEING,fragola in serra,2018,2018,10765
+47547,ITD4,Friuli-Venezia Giulia,HP_Q_EXT,produzione raccolta - quintali ,HEMP,canapa,2018,2018,620
+47602,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,CEREAOG,altri cereali,2018,2018,16671
+47614,ITG2,Sardegna,HP_Q_EXT,produzione raccolta - quintali ,HAZEL,nocciola,2018,2018,3697
+47626,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,STRAIEING,fragola in serra,2018,2018,790
+47667,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,CELEGREENH,sedano in serra,2018,2018,4100
+47700,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,SORGH,sorgo,2018,2018,6850
+47733,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,ALMO,mandorla,2018,2018,267500
+47741,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,CUCUINGRE,cetriolo da mensa in serra,2018,2018,3310
+47766,ITF2,Molise,HP_Q_EXT,produzione raccolta - quintali ,EGGINOPE,melanzana in piena aria,2018,2018,6000
+47851,ITF2,Molise,HP_Q_EXT,produzione raccolta - quintali ,ASPAINGREOPEN,asparago in piena aria,2018,2018,200
+47861,ITF2,Molise,HP_Q_EXT,produzione raccolta - quintali ,POTA,patata comune ,2018,2018,29200
+47926,ITF5,Basilicata,HP_Q_EXT,produzione raccolta - quintali ,SUNFLO,girasole,2018,2018,560
+47949,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,FENNOPENF,finocchio in piena aria,2018,2018,47560
+47989,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,BEANREENHOU,fagiolino in serra,2018,2018,624
+48008,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,BEETANDLEA,barbabietola da orto,2018,2018,1599
+48029,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,WATENINGR,cocomero in serra,2018,2018,167600
+48045,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,SUNFLO,girasole,2018,2018,4100
+48063,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,PEAR,pera,2018,2018,26330
+48098,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,RADIINGREE,ravanello in serra,2018,2018,1320
+48127,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,FRESNEYBEA,fagiolo e fagiolino in piena aria,2018,2018,84109
+48238,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,SORGH,sorgo,2018,2018,85092
+48381,ITF5,Basilicata,HP_Q_EXT,produzione raccolta - quintali ,MAIZE,mais,2018,2018,38759
+48396,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,APRIC,albicocca,2018,2018,547970
+48398,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,STRAIEING,fragola in serra,2018,2018,16598
+48479,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,MAIZE,mais,2018,2018,1025250
+48483,ITG2,Sardegna,HP_Q_EXT,produzione raccolta - quintali ,STRAIEINO,fragola in piena aria,2018,2018,2270
+48488,ITD4,Friuli-Venezia Giulia,HP_Q_EXT,produzione raccolta - quintali ,STRAIEINO,fragola in piena aria,2018,2018,1036
+48495,ITC3,Liguria,HP_Q_EXT,produzione raccolta - quintali ,HAZEL,nocciola,2018,2018,1006
+48497,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,FLAX,lino,2018,2018,1360
+48531,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,APPLE,mela,2018,2018,1902182
+48583,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,SORGH,sorgo,2018,2018,194500
+48611,ITF1,Abruzzo,HP_Q_EXT,produzione raccolta - quintali ,BEANREENHOU,fagiolino in serra,2018,2018,1972
+48664,ITE2,Umbria,HP_Q_EXT,produzione raccolta - quintali ,APRIC,albicocca,2018,2018,1700
+48727,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,SWEEILING,basilico in serra,2018,2018,9280
+48747,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,SORGH,sorgo,2018,2018,129305
+48792,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,LETTNGREEN,lattuga in serra,2018,2018,20074
+48828,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,HEMP,canapa,2018,2018,7824
+48925,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,HEMP,canapa,2018,2018,800
+48989,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,PEAENFIEL,pisello in piena aria,2018,2018,6141
+48995,ITF1,Abruzzo,HP_Q_EXT,produzione raccolta - quintali ,RAPE,colza,2018,2018,100
+49004,ITE2,Umbria,HP_Q_EXT,produzione raccolta - quintali ,CUCUINGRE,cetriolo da mensa in serra,2018,2018,1400
+49044,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,WATENINGR,cocomero in serra,2018,2018,3135
+49050,ITF5,Basilicata,HP_Q_EXT,produzione raccolta - quintali ,CLEMENTINE,clementine,2018,2018,245560
+49143,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,LETTNOPEN,lattuga in piena aria,2018,2018,46203
+49199,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,PARSNGROPEN,prezzemolo in piena aria,2018,2018,23514
+49251,ITF2,Molise,HP_Q_EXT,produzione raccolta - quintali ,CEREAOG,altri cereali,2018,2018,1600
+49313,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,EARLATOES,patata primaticcia ,2018,2018,70020
+49329,ITG2,Sardegna,HP_Q_EXT,produzione raccolta - quintali ,MANDAR,mandarino,2018,2018,112697
+49334,ITG2,Sardegna,HP_Q_EXT,produzione raccolta - quintali ,LEMON,limone,2018,2018,44488
+49464,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,FRESADBEAN,fava fresca in piena aria,2018,2018,36267
+49475,ITC3,Liguria,HP_Q_EXT,produzione raccolta - quintali ,CARRGREENH,carota in serra,2018,2018,345
+49516,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,CHICNOPEN,radicchio o cicoria in piena aria,2018,2018,226126
+49571,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,SWEEILING,basilico in serra,2018,2018,564
+49595,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,APRIC,albicocca,2018,2018,627112
+49629,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,LETTNGREEN,lattuga in serra,2018,2018,7830
+49645,ITF2,Molise,HP_Q_EXT,produzione raccolta - quintali ,BEAN,fagiolo ,2018,2018,1970
+49670,ITC2,Valle d'Aosta / Vallée d'Aoste,HP_Q_EXT,produzione raccolta - quintali ,MAIZE,mais,2018,2018,1400
+49688,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,ENDINOPEN,indivia (riccia e scarola) in piena aria,2018,2018,8387
+49705,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,PEAPROT,pisello proteico ,2018,2018,155379
+49709,ITD4,Friuli-Venezia Giulia,HP_Q_EXT,produzione raccolta - quintali ,APRIC,albicocca,2018,2018,1311
+49715,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,ALMO,mandorla,2018,2018,473455
+49744,ITF1,Abruzzo,HP_Q_EXT,produzione raccolta - quintali ,MAIZE,mais,2018,2018,610296
+49746,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,HAZEL,nocciola,2018,2018,386763
+49766,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,BEANREENHOU,fagiolino in serra,2018,2018,73585
+49847,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,FENNOPENF,finocchio in piena aria,2018,2018,346600
+49861,ITF5,Basilicata,HP_Q_EXT,produzione raccolta - quintali ,HAZEL,nocciola,2018,2018,1108
+49881,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,STRAIEINO,fragola in piena aria,2018,2018,14765
+49948,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,REDINGREE,bieta da orto in serra,2018,2018,1460
+49987,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,FLAX,lino,2018,2018,900
+49989,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,RAPE,colza,2018,2018,4920
+50010,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,BEETREENHOU,bietola in serra,2018,2018,3938
+50026,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,CHAROPENFI,bietola da costa in piena aria,2018,2018,134830
+50055,ITE2,Umbria,HP_Q_EXT,produzione raccolta - quintali ,SORGH,sorgo,2018,2018,25510
+50057,ITG2,Sardegna,HP_Q_EXT,produzione raccolta - quintali ,BROCINOPEN,broccoletto di rapa in piena aria,2018,2018,2942
+50085,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,SPINNGREEN,spinacio in serra,2018,2018,14578
+50087,ITD4,Friuli-Venezia Giulia,HP_Q_EXT,produzione raccolta - quintali ,CHICNOPEN,radicchio o cicoria in piena aria,2018,2018,4283
+50089,ITD4,Friuli-Venezia Giulia,HP_Q_EXT,produzione raccolta - quintali ,GARLDSHALL,aglio e scalogno in piena aria,2018,2018,483
+50106,ITC3,Liguria,HP_Q_EXT,produzione raccolta - quintali ,LETTNGREEN,lattuga in serra,2018,2018,6090
+50110,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,STRAIEING,fragola in serra,2018,2018,26536
+50117,ITG2,Sardegna,HP_Q_EXT,produzione raccolta - quintali ,GARLDSHALL,aglio e scalogno in piena aria,2018,2018,7725
+50125,ITC3,Liguria,HP_Q_EXT,produzione raccolta - quintali ,MANDAR,mandarino,2018,2018,200
+50127,ITD4,Friuli-Venezia Giulia,HP_Q_EXT,produzione raccolta - quintali ,SWEEILING,basilico in serra,2018,2018,577
+50132,ITC3,Liguria,HP_Q_EXT,produzione raccolta - quintali ,LEMON,limone,2018,2018,2080
+50159,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,FRESADBEAN,fava fresca in piena aria,2018,2018,166617
+50161,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,BEETS,barbabietola da zucchero,2018,2018,325960
+50200,ITF1,Abruzzo,HP_Q_EXT,produzione raccolta - quintali ,SUNFLO,girasole,2018,2018,81881
+50218,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,BEANREENHOU,fagiolino in serra,2018,2018,5530
+50231,ITE2,Umbria,HP_Q_EXT,produzione raccolta - quintali ,PEAR,pera,2018,2018,6260
+50268,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,EARLATOES,patata primaticcia ,2018,2018,13930
+50284,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,ENDINOPEN,indivia (riccia e scarola) in piena aria,2018,2018,156684
+50289,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,BEETREENHOU,bietola in serra,2018,2018,4060
+50376,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,CHICNOPEN,radicchio o cicoria in piena aria,2018,2018,50966
+50398,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,RADIINGREE,ravanello in serra,2018,2018,482
+50559,ITC3,Liguria,HP_Q_EXT,produzione raccolta - quintali ,CHAROPENFI,bietola da costa in piena aria,2018,2018,12580
+50561,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,RICE,riso,2018,2018,198761
+50566,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,CHICNOPEN,radicchio o cicoria in piena aria,2018,2018,282730
+50625,ITF1,Abruzzo,HP_Q_EXT,produzione raccolta - quintali ,APRIC,albicocca,2018,2018,37900
+50664,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,PEAPROT,pisello proteico ,2018,2018,45770
+50681,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,FRESNEYBEA,fagiolo e fagiolino in piena aria,2018,2018,73341
+50829,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,CELEGREENH,sedano in serra,2018,2018,3280
+50832,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,GLOBICHOKE,carciofo in piena aria,2018,2018,1242370
+50887,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,HEMP,canapa,2018,2018,2506
+50889,ITG2,Sardegna,HP_Q_EXT,produzione raccolta - quintali ,CHERR,ciliegia,2018,2018,14650
+50893,ITC3,Liguria,HP_Q_EXT,produzione raccolta - quintali ,BROCINOPEN,broccoletto di rapa in piena aria,2018,2018,3500
+50911,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,FENNOPENF,finocchio in piena aria,2018,2018,1191070
+50919,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,ORANGE,arancia,2018,2018,3066675
+50921,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,PARSNGROPEN,prezzemolo in piena aria,2018,2018,390
+50941,ITF2,Molise,HP_Q_EXT,produzione raccolta - quintali ,CLEMENTINE,clementine,2018,2018,180
+50947,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,COTTON,cotone,2018,2018,40
+50958,ITG2,Sardegna,HP_Q_EXT,produzione raccolta - quintali ,CUCUINGRE,cetriolo da mensa in serra,2018,2018,7863
+50978,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,RAPE,colza,2018,2018,25856
+51029,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,ALMO,mandorla,2018,2018,656
+51047,ITD4,Friuli-Venezia Giulia,HP_Q_EXT,produzione raccolta - quintali ,CUCUINGRE,cetriolo da mensa in serra,2018,2018,17802
+51208,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,EGGINOPE,melanzana in piena aria,2018,2018,218765
+51242,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,VALEINGREE,valeriana in serra,2018,2018,17790
+51287,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,STRAIEING,fragola in serra,2018,2018,123610
+51320,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,SORGH,sorgo,2018,2018,120299
+51322,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,ASPAINGREOPEN,asparago in piena aria,2018,2018,2100
+51337,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,EARLATOES,patata primaticcia ,2018,2018,9005
+51394,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,PARSNGROPEN,prezzemolo in piena aria,2018,2018,8020
+51402,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,GARLDSHALL,aglio e scalogno in piena aria,2018,2018,2743
+51425,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,GARLDSHALL,aglio e scalogno in piena aria,2018,2018,23460
+51451,ITG2,Sardegna,HP_Q_EXT,produzione raccolta - quintali ,CHAROPENFI,bietola da costa in piena aria,2018,2018,8150
+51461,ITC3,Liguria,HP_Q_EXT,produzione raccolta - quintali ,LETTNOPEN,lattuga in piena aria,2018,2018,33062
+51466,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,ALMO,mandorla,2018,2018,6
+51500,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,PEAR,pera,2018,2018,394790
+51512,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,FRESADBEAN,fava fresca in piena aria,2018,2018,17415
+51522,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,STRAIEING,fragola in serra,2018,2018,7165
+51524,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,RADIINGREE,ravanello in serra,2018,2018,117000
+51559,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,PEAENFIEL,pisello in piena aria,2018,2018,24602
+51587,ITC3,Liguria,HP_Q_EXT,produzione raccolta - quintali ,CHERR,ciliegia,2018,2018,1356
+51603,ITC3,Liguria,HP_Q_EXT,produzione raccolta - quintali ,APPLE,mela,2018,2018,4400
+51653,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,BROAFIELD,fava da granella ,2018,2018,48102
+51702,ITC3,Liguria,HP_Q_EXT,produzione raccolta - quintali ,GLOBICHOKE,carciofo in piena aria,2018,2018,9280
+51819,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,MAIZE,mais,2018,2018,5879240
+51829,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,FENNOPENF,finocchio in piena aria,2018,2018,157400
+51892,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,BEANREENHOU,fagiolino in serra,2018,2018,21940
+51907,ITF2,Molise,HP_Q_EXT,produzione raccolta - quintali ,REDRINOP,peperone in piena aria,2018,2018,4500
+51941,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,APRIC,albicocca,2018,2018,180050
+51960,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,SPINNGREEN,spinacio in serra,2018,2018,120
+51974,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,OTHEETABLESGR,altri ortaggi in serra,2018,2018,215
+52002,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,APRIC,albicocca,2018,2018,7799
+52050,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,FENNOPENF,finocchio in piena aria,2018,2018,24021
+52058,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,MAIZE,mais,2018,2018,17080029
+52097,ITF1,Abruzzo,HP_Q_EXT,produzione raccolta - quintali ,PEAPROT,pisello proteico ,2018,2018,3220
+52114,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,ASPAINGRE,asparago in serra,2018,2018,101500
+52199,ITG2,Sardegna,HP_Q_EXT,produzione raccolta - quintali ,LETTNOPEN,lattuga in piena aria,2018,2018,160812
+52201,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,STRAIEING,fragola in serra,2018,2018,62700
+52316,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,STRAIEINO,fragola in piena aria,2018,2018,6748
+52335,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,SWEEILING,basilico in serra,2018,2018,6836
+52356,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,SWEEILING,basilico in serra,2018,2018,3515
+52363,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,ALMO,mandorla,2018,2018,185
+52398,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,FLAX,lino,2018,2018,10278
+52432,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,CUCUINGRE,cetriolo da mensa in serra,2018,2018,23940
+52443,ITG2,Sardegna,HP_Q_EXT,produzione raccolta - quintali ,APPLE,mela,2018,2018,34206
+52449,ITF1,Abruzzo,HP_Q_EXT,produzione raccolta - quintali ,CELEGREENH,sedano in serra,2018,2018,125
+52482,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,ALMO,mandorla,2018,2018,178
+52515,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,SUNFLO,girasole,2018,2018,296860
+52540,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,FRESADBEAN,fava fresca in piena aria,2018,2018,25696
+52546,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,PARSNGROPEN,prezzemolo in piena aria,2018,2018,455
+52572,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,HEMP,canapa,2018,2018,11770
+52596,ITG2,Sardegna,HP_Q_EXT,produzione raccolta - quintali ,GLOBICHOKE,carciofo in piena aria,2018,2018,488520
+52637,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,EARLATOES,patata primaticcia ,2018,2018,1346350
+52677,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,BEANREENHOU,fagiolino in serra,2018,2018,9260
+52722,ITG2,Sardegna,HP_Q_EXT,produzione raccolta - quintali ,LETTNGREEN,lattuga in serra,2018,2018,17390
+52764,ITF1,Abruzzo,HP_Q_EXT,produzione raccolta - quintali ,CHICNOPEN,radicchio o cicoria in piena aria,2018,2018,376480
+52800,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,STRAIEING,fragola in serra,2018,2018,299
+52863,ITE2,Umbria,HP_Q_EXT,produzione raccolta - quintali ,REDRINOP,peperone in piena aria,2018,2018,25150
+52937,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,CHAROPENFI,bietola da costa in piena aria,2018,2018,16915
+52950,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,EGGINOPE,melanzana in piena aria,2018,2018,662660
+53070,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,ALMO,mandorla,2018,2018,7982
+53086,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,STRAIEING,fragola in serra,2018,2018,72442
+53093,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,ASPAINGREOPEN,asparago in piena aria,2018,2018,124800
+53146,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,LETTNGREEN,lattuga in serra,2018,2018,116420
+53150,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,PEAENFIEL,pisello in piena aria,2018,2018,40535
+53205,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,SUNFLO,girasole,2018,2018,109798
+53273,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,POTA,patata comune ,2018,2018,148861
+53277,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,SPINNGREEN,spinacio in serra,2018,2018,1065
+53286,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,OTHEETABLESGR,altri ortaggi in serra,2018,2018,1750
+53302,ITC3,Liguria,HP_Q_EXT,produzione raccolta - quintali ,EGGINOPE,melanzana in piena aria,2018,2018,2820
+53316,ITG2,Sardegna,HP_Q_EXT,produzione raccolta - quintali ,EARLATOES,patata primaticcia ,2018,2018,346850
+53342,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,POTA,patata comune ,2018,2018,237840
+53366,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,FRESNEYBEA,fagiolo e fagiolino in piena aria,2018,2018,449165
+53368,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,SORGH,sorgo,2018,2018,3175
+53379,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,HAZEL,nocciola,2018,2018,6069
+53420,ITC3,Liguria,HP_Q_EXT,produzione raccolta - quintali ,ASPAINGREOPEN,asparago in piena aria,2018,2018,5700
+53433,ITF2,Molise,HP_Q_EXT,produzione raccolta - quintali ,SUNFLO,girasole,2018,2018,28280
+53442,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,ENDINOPEN,indivia (riccia e scarola) in piena aria,2018,2018,9726
+53491,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,CEREAOG,altri cereali,2018,2018,33171
+53511,ITE2,Umbria,HP_Q_EXT,produzione raccolta - quintali ,FRESNEYBEA,fagiolo e fagiolino in piena aria,2018,2018,5180
+53648,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,ASPAINGRE,asparago in serra,2018,2018,4751
+53677,ITF1,Abruzzo,HP_Q_EXT,produzione raccolta - quintali ,CUCUINGRE,cetriolo da mensa in serra,2018,2018,1300
+53729,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,STRAIEINO,fragola in piena aria,2018,2018,10277
+53753,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,CELEGREENH,sedano in serra,2018,2018,4801
+53780,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,CHAROPENFI,bietola da costa in piena aria,2018,2018,30146
+53858,ITC3,Liguria,HP_Q_EXT,produzione raccolta - quintali ,POTA,patata comune ,2018,2018,36300
+53888,ITF2,Molise,HP_Q_EXT,produzione raccolta - quintali ,MAIZE,mais,2018,2018,70000
+53915,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,BEAN,fagiolo ,2018,2018,37505
+53978,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,ASPAINGRE,asparago in serra,2018,2018,29
+54006,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,PEAR,pera,2018,2018,137345
+54016,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,GARLDSHALL,aglio e scalogno in piena aria,2018,2018,49645
+54038,ITC3,Liguria,HP_Q_EXT,produzione raccolta - quintali ,BEANREENHOU,fagiolino in serra,2018,2018,250
+54111,ITF2,Molise,HP_Q_EXT,produzione raccolta - quintali ,APRIC,albicocca,2018,2018,10800
+54195,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,ENDINOPEN,indivia (riccia e scarola) in piena aria,2018,2018,51290
+54223,ITC3,Liguria,HP_Q_EXT,produzione raccolta - quintali ,EARLATOES,patata primaticcia ,2018,2018,39800
+54301,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,LEMON,limone,2018,2018,35400
+54333,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,RICE,riso,2018,2018,21478
+54375,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,BEETANDLEA,barbabietola da orto,2018,2018,24856
+54392,ITD4,Friuli-Venezia Giulia,HP_Q_EXT,produzione raccolta - quintali ,ASPAINGREOPEN,asparago in piena aria,2018,2018,6666
+54466,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,GLOBICHOKE,carciofo in piena aria,2018,2018,320
+54474,ITG2,Sardegna,HP_Q_EXT,produzione raccolta - quintali ,ASPAINGREOPEN,asparago in piena aria,2018,2018,15915
+54552,ITD4,Friuli-Venezia Giulia,HP_Q_EXT,produzione raccolta - quintali ,CHERR,ciliegia,2018,2018,1315
+54558,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,WATENINGR,cocomero in serra,2018,2018,200103
+54604,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,APPLE,mela,2018,2018,456677
+54662,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,APPLE,mela,2018,2018,43090
+54708,ITD4,Friuli-Venezia Giulia,HP_Q_EXT,produzione raccolta - quintali ,POTA,patata comune ,2018,2018,88941
+54747,ITG2,Sardegna,HP_Q_EXT,produzione raccolta - quintali ,POTA,patata comune ,2018,2018,123200
+54755,ITC3,Liguria,HP_Q_EXT,produzione raccolta - quintali ,PARSNGROPEN,prezzemolo in piena aria,2018,2018,1200
+54806,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,ENDINOPEN,indivia (riccia e scarola) in piena aria,2018,2018,85650
+54863,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,HEMP,canapa,2018,2018,940
+54935,ITE2,Umbria,HP_Q_EXT,produzione raccolta - quintali ,CEREAOG,altri cereali,2018,2018,156995
+55009,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,STRAIEINO,fragola in piena aria,2018,2018,29065
+55047,ITG2,Sardegna,HP_Q_EXT,produzione raccolta - quintali ,ORANGE,arancia,2018,2018,633591
+55053,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,MANDAR,mandarino,2018,2018,34200
+55077,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,CHERR,ciliegia,2018,2018,423625
+55084,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,CHERR,ciliegia,2018,2018,10179
+55151,ITF2,Molise,HP_Q_EXT,produzione raccolta - quintali ,PEAPROT,pisello proteico ,2018,2018,4000
+55179,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,BROCINOPEN,broccoletto di rapa in piena aria,2018,2018,552147
+55191,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,BROAFIELD,fava da granella ,2018,2018,115
+55195,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,REDINGREE,bieta da orto in serra,2018,2018,90
+55208,ITE2,Umbria,HP_Q_EXT,produzione raccolta - quintali ,BEAN,fagiolo ,2018,2018,3000
+55233,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,CUCUINGRE,cetriolo da mensa in serra,2018,2018,37933
+55293,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,STRAIEINO,fragola in piena aria,2018,2018,24465
+55375,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,LETTNOPEN,lattuga in piena aria,2018,2018,184931
+55397,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,LETTNOPEN,lattuga in piena aria,2018,2018,968970
+55401,ITC3,Liguria,HP_Q_EXT,produzione raccolta - quintali ,FRESADBEAN,fava fresca in piena aria,2018,2018,300
+55433,ITF1,Abruzzo,HP_Q_EXT,produzione raccolta - quintali ,LETTNGREEN,lattuga in serra,2018,2018,1632
+55441,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,GLOBICHOKE,carciofo in piena aria,2018,2018,3045
+55506,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,HAZEL,nocciola,2018,2018,290
+55512,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,ENDINOPEN,indivia (riccia e scarola) in piena aria,2018,2018,22340
+55632,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,CARRGREENH,carota in serra,2018,2018,114
+55656,ITG2,Sardegna,HP_Q_EXT,produzione raccolta - quintali ,PARSNGROPEN,prezzemolo in piena aria,2018,2018,762
+55726,ITD4,Friuli-Venezia Giulia,HP_Q_EXT,produzione raccolta - quintali ,LETTNOPEN,lattuga in piena aria,2018,2018,2278
+55733,ITF1,Abruzzo,HP_Q_EXT,produzione raccolta - quintali ,GLOBICHOKE,carciofo in piena aria,2018,2018,60116
+55766,ITF2,Molise,HP_Q_EXT,produzione raccolta - quintali ,CHICNOPEN,radicchio o cicoria in piena aria,2018,2018,27800
+55774,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,LETTNGREEN,lattuga in serra,2018,2018,26630
+55858,ITC3,Liguria,HP_Q_EXT,produzione raccolta - quintali ,FENNOPENF,finocchio in piena aria,2018,2018,2400
+55866,ITC3,Liguria,HP_Q_EXT,produzione raccolta - quintali ,ORANGE,arancia,2018,2018,1590
+55928,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,HEMP,canapa,2018,2018,11536
+55930,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,BROAFIELD,fava da granella ,2018,2018,108604
+55943,ITF1,Abruzzo,HP_Q_EXT,produzione raccolta - quintali ,CHAROPENFI,bietola da costa in piena aria,2018,2018,96605
+56036,ITD4,Friuli-Venezia Giulia,HP_Q_EXT,produzione raccolta - quintali ,APPLE,mela,2018,2018,407935
+56076,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,CUCUINGRE,cetriolo da mensa in serra,2018,2018,10876
+56113,ITD4,Friuli-Venezia Giulia,HP_Q_EXT,produzione raccolta - quintali ,EGGINOPE,melanzana in piena aria,2018,2018,4720
+56141,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,OTHEETABLESGR,altri ortaggi in serra,2018,2018,202500
+56170,ITG2,Sardegna,HP_Q_EXT,produzione raccolta - quintali ,EGGINOPE,melanzana in piena aria,2018,2018,51001
+56194,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,REDRINOP,peperone in piena aria,2018,2018,61366
+56247,ITG2,Sardegna,HP_Q_EXT,produzione raccolta - quintali ,FRESADBEAN,fava fresca in piena aria,2018,2018,92978
+56265,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,RICE,riso,2018,2018,1433
+56273,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,STRAIEINO,fragola in piena aria,2018,2018,52885
+56323,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,VALEINGREE,valeriana in serra,2018,2018,26947
+56337,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,SPINNGREEN,spinacio in serra,2018,2018,940
+56375,ITF1,Abruzzo,HP_Q_EXT,produzione raccolta - quintali ,GARLDSHALL,aglio e scalogno in piena aria,2018,2018,35112
+56396,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,ORANGE,arancia,2018,2018,1074240
+56408,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,GARLDSHALL,aglio e scalogno in piena aria,2018,2018,6653
+56415,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,EGGINOPE,melanzana in piena aria,2018,2018,18660
+56488,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,BEETREENHOU,bietola in serra,2018,2018,780
+56523,ITF1,Abruzzo,HP_Q_EXT,produzione raccolta - quintali ,PEAR,pera,2018,2018,30350
+56533,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,ASPAINGREOPEN,asparago in piena aria,2018,2018,90455
+56670,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,PEAENFIEL,pisello in piena aria,2018,2018,56830
+56711,ITF5,Basilicata,HP_Q_EXT,produzione raccolta - quintali ,ASPAINGREOPEN,asparago in piena aria,2018,2018,3875
+56733,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,PEAENFIEL,pisello in piena aria,2018,2018,19826
+56784,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,RICE,riso,2018,2018,7733797
+56903,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,LETTNOPEN,lattuga in piena aria,2018,2018,60166
+56914,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,FRESNEYBEA,fagiolo e fagiolino in piena aria,2018,2018,74265
+56946,ITG2,Sardegna,HP_Q_EXT,produzione raccolta - quintali ,BEAN,fagiolo ,2018,2018,3926
+56951,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,FRESNEYBEA,fagiolo e fagiolino in piena aria,2018,2018,68300
+56959,ITC2,Valle d'Aosta / Vallée d'Aoste,HP_Q_EXT,produzione raccolta - quintali ,PEAR,pera,2018,2018,2300
+56975,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,CHICNOPEN,radicchio o cicoria in piena aria,2018,2018,125230
+56981,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,WATENINGR,cocomero in serra,2018,2018,5540
+57001,ITD4,Friuli-Venezia Giulia,HP_Q_EXT,produzione raccolta - quintali ,CEREAOG,altri cereali,2018,2018,6191
+57020,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,SORGH,sorgo,2018,2018,197980
+57045,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,SORGH,sorgo,2018,2018,3800
+57057,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,POTA,patata comune ,2018,2018,1274138
+57065,ITF2,Molise,HP_Q_EXT,produzione raccolta - quintali ,BROAFIELD,fava da granella ,2018,2018,5665
+57081,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,CUCUINGRE,cetriolo da mensa in serra,2018,2018,105020
+57083,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,CHAROPENFI,bietola da costa in piena aria,2018,2018,25698
+57122,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,LETTNGREEN,lattuga in serra,2018,2018,7286
+57162,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,BEETS,barbabietola da zucchero,2018,2018,11599217
+57192,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,GROU,arachide,2018,2018,266
+57208,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,BROCINOPEN,broccoletto di rapa in piena aria,2018,2018,10892
+57330,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,CARRGREENH,carota in serra,2018,2018,100700
+57353,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,GLOBICHOKE,carciofo in piena aria,2018,2018,1596250
+57382,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,MAIZE,mais,2018,2018,191340
+57435,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,CARRGREENH,carota in serra,2018,2018,16
+57439,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,RAPE,colza,2018,2018,110
+57443,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,GARLDSHALL,aglio e scalogno in piena aria,2018,2018,6610
+57469,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,LETTNGREEN,lattuga in serra,2018,2018,13428
+57535,ITF1,Abruzzo,HP_Q_EXT,produzione raccolta - quintali ,SORGH,sorgo,2018,2018,35250
+57541,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,APRIC,albicocca,2018,2018,106485
+57599,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,BEETREENHOU,bietola in serra,2018,2018,1217
+57639,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,PEAR,pera,2018,2018,186889
+57650,ITE2,Umbria,HP_Q_EXT,produzione raccolta - quintali ,STRAIEINO,fragola in piena aria,2018,2018,1700
+57788,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,GLOBICHOKE,carciofo in piena aria,2018,2018,28626
+57832,ITC3,Liguria,HP_Q_EXT,produzione raccolta - quintali ,BEAN,fagiolo ,2018,2018,900
+57847,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,ENDINOPEN,indivia (riccia e scarola) in piena aria,2018,2018,15129
+57871,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,SWEEILING,basilico in serra,2018,2018,500
+57915,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,ASPAINGREOPEN,asparago in piena aria,2018,2018,1522
+57919,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,ALMO,mandorla,2018,2018,200
+57929,ITD4,Friuli-Venezia Giulia,HP_Q_EXT,produzione raccolta - quintali ,BEETS,barbabietola da zucchero,2018,2018,137850
+57953,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,CHERR,ciliegia,2018,2018,2869
+57984,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,BEANREENHOU,fagiolino in serra,2018,2018,34807
+58021,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,GARLDSHALL,aglio e scalogno in piena aria,2018,2018,8318
+58070,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,CHAROPENFI,bietola da costa in piena aria,2018,2018,53600
+58091,ITD4,Friuli-Venezia Giulia,HP_Q_EXT,produzione raccolta - quintali ,BEETANDLEA,barbabietola da orto,2018,2018,964
+58093,ITF5,Basilicata,HP_Q_EXT,produzione raccolta - quintali ,BEANREENHOU,fagiolino in serra,2018,2018,270
+58112,ITG2,Sardegna,HP_Q_EXT,produzione raccolta - quintali ,BEETANDLEA,barbabietola da orto,2018,2018,23905
+58189,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,FRESNEYBEA,fagiolo e fagiolino in piena aria,2018,2018,380538
+58234,ITF1,Abruzzo,HP_Q_EXT,produzione raccolta - quintali ,PEAENFIEL,pisello in piena aria,2018,2018,39031
+58236,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,RADIINGREE,ravanello in serra,2018,2018,57053
+58309,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,CEREAOG,altri cereali,2018,2018,18270
+58324,ITD4,Friuli-Venezia Giulia,HP_Q_EXT,produzione raccolta - quintali ,FRESNEYBEA,fagiolo e fagiolino in piena aria,2018,2018,9190
+58335,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,CHERR,ciliegia,2018,2018,116570
+58399,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,BEAN,fagiolo ,2018,2018,6885
+58401,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,CEREAOG,altri cereali,2018,2018,120450
+58403,ITC3,Liguria,HP_Q_EXT,produzione raccolta - quintali ,BEETANDLEA,barbabietola da orto,2018,2018,250
+58413,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,STRAIEING,fragola in serra,2018,2018,388525
+58420,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,APPLE,mela,2018,2018,2914690
+58428,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,GLOBICHOKE,carciofo in piena aria,2018,2018,207300
+58446,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,CHICNOPEN,radicchio o cicoria in piena aria,2018,2018,6850
+58470,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,REDINGREE,bieta da orto in serra,2018,2018,4208
+58546,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,APRIC,albicocca,2018,2018,117064
+58564,ITG2,Sardegna,HP_Q_EXT,produzione raccolta - quintali ,CLEMENTINE,clementine,2018,2018,73155
+58570,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,POTA,patata comune ,2018,2018,27610
+58585,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,HAZEL,nocciola,2018,2018,364776
+58591,ITG2,Sardegna,HP_Q_EXT,produzione raccolta - quintali ,REDRINOP,peperone in piena aria,2018,2018,84050
+58601,ITD4,Friuli-Venezia Giulia,HP_Q_EXT,produzione raccolta - quintali ,REDRINOP,peperone in piena aria,2018,2018,3121
+58665,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,CUCUINGRE,cetriolo da mensa in serra,2018,2018,24050
+58728,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,EGGINOPE,melanzana in piena aria,2018,2018,11051
+58736,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,PEAR,pera,2018,2018,4811323
+58868,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,PEAPROT,pisello proteico ,2018,2018,2034
+58962,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,PARSNGROPEN,prezzemolo in piena aria,2018,2018,7280
+59122,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,BEETREENHOU,bietola in serra,2018,2018,522
+59156,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,LETTNOPEN,lattuga in piena aria,2018,2018,89620
+59181,ITF1,Abruzzo,HP_Q_EXT,produzione raccolta - quintali ,FRESNEYBEA,fagiolo e fagiolino in piena aria,2018,2018,49184
+59214,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,BEETREENHOU,bietola in serra,2018,2018,400
+59291,ITE2,Umbria,HP_Q_EXT,produzione raccolta - quintali ,ENDINOPEN,indivia (riccia e scarola) in piena aria,2018,2018,1420
+59314,ITC3,Liguria,HP_Q_EXT,produzione raccolta - quintali ,REDRINOP,peperone in piena aria,2018,2018,1260
+59316,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,PEAENFIEL,pisello in piena aria,2018,2018,343295
+59349,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,CHAROPENFI,bietola da costa in piena aria,2018,2018,8645
+59384,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,CUCUINGRE,cetriolo da mensa in serra,2018,2018,2272
+59485,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,BEETANDLEA,barbabietola da orto,2018,2018,5508
+59494,ITC3,Liguria,HP_Q_EXT,produzione raccolta - quintali ,CLEMENTINE,clementine,2018,2018,250
+59520,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,CHICNOPEN,radicchio o cicoria in piena aria,2018,2018,5503
+59615,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,FENNOPENF,finocchio in piena aria,2018,2018,593437
+59625,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,CARRGREENH,carota in serra,2018,2018,850
+59627,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,LETTNGREEN,lattuga in serra,2018,2018,490300
+59637,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,SORGH,sorgo,2018,2018,2069318
+59727,ITC3,Liguria,HP_Q_EXT,produzione raccolta - quintali ,CEREAOG,altri cereali,2018,2018,400
+59746,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,OTHEETABLESGR,altri ortaggi in serra,2018,2018,443
+59794,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,GARLDSHALL,aglio e scalogno in piena aria,2018,2018,15750
+59798,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,CLEMENTINE,clementine,2018,2018,1458400
+59803,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,STRAIEINO,fragola in piena aria,2018,2018,23158
+59849,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,APPLE,mela,2018,2018,36488
+59892,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,BEETS,barbabietola da zucchero,2018,2018,1256093
+59957,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,SPINNGREEN,spinacio in serra,2018,2018,4634
+59971,ITF5,Basilicata,HP_Q_EXT,produzione raccolta - quintali ,FENNOPENF,finocchio in piena aria,2018,2018,206945
+60021,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,CARRGREENH,carota in serra,2018,2018,2908
+60074,ITD4,Friuli-Venezia Giulia,HP_Q_EXT,produzione raccolta - quintali ,SUNFLO,girasole,2018,2018,245217
+60094,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,FRESADBEAN,fava fresca in piena aria,2018,2018,5984
+60109,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,ASPAINGREOPEN,asparago in piena aria,2018,2018,7807
+60122,ITC3,Liguria,HP_Q_EXT,produzione raccolta - quintali ,SWEEILING,basilico in serra,2018,2018,6295
+60135,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,CHERR,ciliegia,2018,2018,35905
+60158,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,APPLE,mela,2018,2018,88313
+60440,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,BROCINOPEN,broccoletto di rapa in piena aria,2018,2018,96525
+60536,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,GROU,arachide,2018,2018,73
+60579,ITG2,Sardegna,HP_Q_EXT,produzione raccolta - quintali ,APRIC,albicocca,2018,2018,12950
+60593,ITG2,Sardegna,HP_Q_EXT,produzione raccolta - quintali ,CELEGREENH,sedano in serra,2018,2018,15969
+60619,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,STRAIEINO,fragola in piena aria,2018,2018,400
+60644,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,CHERR,ciliegia,2018,2018,29217
+60699,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,MANDAR,mandarino,2018,2018,680
+60725,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,PEAPROT,pisello proteico ,2018,2018,7750
+60742,ITE2,Umbria,HP_Q_EXT,produzione raccolta - quintali ,HAZEL,nocciola,2018,2018,2988
+60752,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,EARLATOES,patata primaticcia ,2018,2018,520
+60765,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,REDRINOP,peperone in piena aria,2018,2018,529185
+60789,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,REDRINOP,peperone in piena aria,2018,2018,13280
+60802,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,WATENINGR,cocomero in serra,2018,2018,185
+60808,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,APPLE,mela,2018,2018,124964
+60832,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,ENDINOPEN,indivia (riccia e scarola) in piena aria,2018,2018,287772
+60834,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,SPINNGREEN,spinacio in serra,2018,2018,95650
+60848,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,POTA,patata comune ,2018,2018,182301
+60859,ITF3,Campania,HP_Q_EXT,produzione raccolta - quintali ,OTHEETABLESGR,altri ortaggi in serra,2018,2018,1205604
+60887,ITG2,Sardegna,HP_Q_EXT,produzione raccolta - quintali ,CHICNOPEN,radicchio o cicoria in piena aria,2018,2018,35248
+60889,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,VALEINGREE,valeriana in serra,2018,2018,1048
+60895,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,LETTNOPEN,lattuga in piena aria,2018,2018,120259
+60901,ITF5,Basilicata,HP_Q_EXT,produzione raccolta - quintali ,ENDINOPEN,indivia (riccia e scarola) in piena aria,2018,2018,90106
+60909,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,LEMON,limone,2018,2018,5040
+60921,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,EGGINOPE,melanzana in piena aria,2018,2018,9423
+60993,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,CHERR,ciliegia,2018,2018,24240
+61010,ITG2,Sardegna,HP_Q_EXT,produzione raccolta - quintali ,SWEEILING,basilico in serra,2018,2018,942
+61068,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,RAPE,colza,2018,2018,103415
+61112,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,ORANGE,arancia,2018,2018,9511450
+61120,ITF5,Basilicata,HP_Q_EXT,produzione raccolta - quintali ,RAPE,colza,2018,2018,5655
+61162,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,ASPAINGREOPEN,asparago in piena aria,2018,2018,37462
+61227,ITF1,Abruzzo,HP_Q_EXT,produzione raccolta - quintali ,REDRINOP,peperone in piena aria,2018,2018,113383
+61331,ITE2,Umbria,HP_Q_EXT,produzione raccolta - quintali ,BROAFIELD,fava da granella ,2018,2018,43800
+61335,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,BROCINOPEN,broccoletto di rapa in piena aria,2018,2018,100100
+61341,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,EGGINOPE,melanzana in piena aria,2018,2018,359890
+61363,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,BEAN,fagiolo ,2018,2018,4252
+61373,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,CUCUINGRE,cetriolo da mensa in serra,2018,2018,6682
+61420,ITC3,Liguria,HP_Q_EXT,produzione raccolta - quintali ,GARLDSHALL,aglio e scalogno in piena aria,2018,2018,900
+61441,ITG2,Sardegna,HP_Q_EXT,produzione raccolta - quintali ,MAIZE,mais,2018,2018,115653
+61454,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,LETTNOPEN,lattuga in piena aria,2018,2018,421375
+61484,ITC3,Liguria,HP_Q_EXT,produzione raccolta - quintali ,CELEGREENH,sedano in serra,2018,2018,90
+61524,ITF1,Abruzzo,HP_Q_EXT,produzione raccolta - quintali ,CEREAOG,altri cereali,2018,2018,7500
+61580,ITD4,Friuli-Venezia Giulia,HP_Q_EXT,produzione raccolta - quintali ,MAIZE,mais,2018,2018,5642370
+61584,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,FENNOPENF,finocchio in piena aria,2018,2018,45432
+61588,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,POTA,patata comune ,2018,2018,589400
+61643,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,CARRGREENH,carota in serra,2018,2018,300
+61708,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,LEMON,limone,2018,2018,874
+61723,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,BEANREENHOU,fagiolino in serra,2018,2018,4362
+61734,ITC3,Liguria,HP_Q_EXT,produzione raccolta - quintali ,CHICNOPEN,radicchio o cicoria in piena aria,2018,2018,611
+61789,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,ASPAINGRE,asparago in serra,2018,2018,381
+61942,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,CHERR,ciliegia,2018,2018,9951
+61944,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,RADIINGREE,ravanello in serra,2018,2018,8
+61982,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,BROCINOPEN,broccoletto di rapa in piena aria,2018,2018,16031
+61990,ITG2,Sardegna,HP_Q_EXT,produzione raccolta - quintali ,PEAPROT,pisello proteico ,2018,2018,2470
+62001,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,LETTNOPEN,lattuga in piena aria,2018,2018,15120
+62029,ITD4,Friuli-Venezia Giulia,HP_Q_EXT,produzione raccolta - quintali ,PEAPROT,pisello proteico ,2018,2018,22287
+62035,ITF5,Basilicata,HP_Q_EXT,produzione raccolta - quintali ,STRAIEING,fragola in serra,2018,2018,121650
+62046,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,CELEGREENH,sedano in serra,2018,2018,1984
+62076,ITF5,Basilicata,HP_Q_EXT,produzione raccolta - quintali ,ALMO,mandorla,2018,2018,4115
+62127,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,FRESADBEAN,fava fresca in piena aria,2018,2018,35
+62129,ITF2,Molise,HP_Q_EXT,produzione raccolta - quintali ,PEAENFIEL,pisello in piena aria,2018,2018,4500
+62133,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,APPLE,mela,2018,2018,228382
+62182,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,BEAN,fagiolo ,2018,2018,17343
+62206,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,BEETANDLEA,barbabietola da orto,2018,2018,88074
+62234,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,LETTNGREEN,lattuga in serra,2018,2018,19742
+62259,ITC3,Liguria,HP_Q_EXT,produzione raccolta - quintali ,MAIZE,mais,2018,2018,5550
+62281,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,SUNFLO,girasole,2018,2018,37165
+62325,ITF2,Molise,HP_Q_EXT,produzione raccolta - quintali ,SORGH,sorgo,2018,2018,10000
+62339,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,ASPAINGREOPEN,asparago in piena aria,2018,2018,450
+62381,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,POTA,patata comune ,2018,2018,1155739
+62445,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,SUNFLO,girasole,2018,2018,65815
+62447,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,PARSNGROPEN,prezzemolo in piena aria,2018,2018,320
+62512,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,SWEEATOES,batata o patata dolce ,2018,2018,13385
+62554,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,ORANGE,arancia,2018,2018,11680
+62606,ITF2,Molise,HP_Q_EXT,produzione raccolta - quintali ,FRESNEYBEA,fagiolo e fagiolino in piena aria,2018,2018,790
+62708,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,CHAROPENFI,bietola da costa in piena aria,2018,2018,10750
+62792,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,PARSNGROPEN,prezzemolo in piena aria,2018,2018,1710
+62816,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,EGGINOPE,melanzana in piena aria,2018,2018,110780
+62880,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,APPLE,mela,2018,2018,64000
+62918,ITF4,Puglia,HP_Q_EXT,produzione raccolta - quintali ,MAIZE,mais,2018,2018,63720
+62920,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,GLOBICHOKE,carciofo in piena aria,2018,2018,28440
+62949,ITC4,Lombardia,HP_Q_EXT,produzione raccolta - quintali ,BEETANDLEA,barbabietola da orto,2018,2018,1484
+62964,ITF2,Molise,HP_Q_EXT,produzione raccolta - quintali ,PEAR,pera,2018,2018,17500
+63021,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,MANDAR,mandarino,2018,2018,593620
+63023,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,LEMON,limone,2018,2018,3264010
+63028,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,POTA,patata comune ,2018,2018,367000
+63117,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,CEREAOG,altri cereali,2018,2018,74095
+63119,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,RAPE,colza,2018,2018,9310
+63154,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,MANDAR,mandarino,2018,2018,401280
+63166,ITE3,Marche,HP_Q_EXT,produzione raccolta - quintali ,BEANREENHOU,fagiolino in serra,2018,2018,146
+63204,ITF1,Abruzzo,HP_Q_EXT,produzione raccolta - quintali ,BEAN,fagiolo ,2018,2018,5239
+63232,ITF6,Calabria,HP_Q_EXT,produzione raccolta - quintali ,LEMON,limone,2018,2018,176306
+63292,ITE1,Toscana,HP_Q_EXT,produzione raccolta - quintali ,ORANGE,arancia,2018,2018,335
+63295,ITG1,Sicilia,HP_Q_EXT,produzione raccolta - quintali ,BROCINOPEN,broccoletto di rapa in piena aria,2018,2018,5400
+63316,ITC3,Liguria,HP_Q_EXT,produzione raccolta - quintali ,APRIC,albicocca,2018,2018,8250
+63437,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,FLAX,lino,2018,2018,156
+63469,ITD3,Veneto,HP_Q_EXT,produzione raccolta - quintali ,FENNOPENF,finocchio in piena aria,2018,2018,5350
+63506,ITE4,Lazio,HP_Q_EXT,produzione raccolta - quintali ,LETTNOPEN,lattuga in piena aria,2018,2018,153060
+63512,ITC1,Piemonte,HP_Q_EXT,produzione raccolta - quintali ,BROAFIELD,fava da granella ,2018,2018,16765
+63553,ITD5,Emilia-Romagna,HP_Q_EXT,produzione raccolta - quintali ,REDRINOP,peperone in piena aria,2018,2018,9550

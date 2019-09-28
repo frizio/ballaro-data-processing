@@ -1,0 +1,1572 @@
+,ITTER107,Territorio,Tipo di coltivazione,Value
+12,ITC1,Piemonte,radicchio in serra,1692
+30,ITC3,Liguria,radicchio in serra,600
+42,ITC4,Lombardia,radicchio in serra,19280
+78,ITD3,Veneto,radicchio in serra,15805
+114,ITD5,Emilia-Romagna,radicchio in serra,1870
+147,ITE1,Toscana,radicchio in serra,1011
+177,ITE2,Umbria,radicchio in serra,70
+189,ITE3,Marche,radicchio in serra,32
+207,ITE4,Lazio,radicchio in serra,9200
+234,ITF3,Campania,radicchio in serra,16900
+258,ITF6,Calabria,radicchio in serra,470
+276,ITG1,Sicilia,radicchio in serra,600
+288,ITG2,Sardegna,radicchio in serra,4000
+344,ITC1,Piemonte,sedano in piena aria,26490
+380,ITC4,Lombardia,sedano in piena aria,3300
+398,ITD3,Veneto,sedano in piena aria,10500
+431,ITD5,Emilia-Romagna,sedano in piena aria,111340
+467,ITE1,Toscana,sedano in piena aria,2830
+506,ITE3,Marche,sedano in piena aria,5169
+530,ITE4,Lazio,sedano in piena aria,4830
+560,ITF1,Abruzzo,sedano in piena aria,39400
+578,ITF3,Campania,sedano in piena aria,18500
+590,ITF4,Puglia,sedano in piena aria,523425
+626,ITF5,Basilicata,sedano in piena aria,59947
+644,ITF6,Calabria,sedano in piena aria,2120
+662,ITG1,Sicilia,sedano in piena aria,12885
+698,ITG2,Sardegna,sedano in piena aria,102420
+725,ITC1,Piemonte,cavolo cappuccio in piena aria,4648
+749,ITC3,Liguria,cavolo cappuccio in piena aria,3640
+773,ITD3,Veneto,cavolo cappuccio in piena aria,160000
+821,ITD4,Friuli-Venezia Giulia,cavolo cappuccio in piena aria,4574
+851,ITD5,Emilia-Romagna,cavolo cappuccio in piena aria,17310
+878,ITE1,Toscana,cavolo cappuccio in piena aria,17783
+929,ITE2,Umbria,cavolo cappuccio in piena aria,5375
+947,ITE3,Marche,cavolo cappuccio in piena aria,22085
+977,ITE4,Lazio,cavolo cappuccio in piena aria,43295
+1010,ITF1,Abruzzo,cavolo cappuccio in piena aria,34680
+1040,ITF2,Molise,cavolo cappuccio in piena aria,7500
+1058,ITF3,Campania,cavolo cappuccio in piena aria,54693
+1094,ITF4,Puglia,cavolo cappuccio in piena aria,249800
+1130,ITF5,Basilicata,cavolo cappuccio in piena aria,43407
+1148,ITF6,Calabria,cavolo cappuccio in piena aria,63912
+1178,ITG1,Sicilia,cavolo cappuccio in piena aria,30750
+1214,ITG2,Sardegna,cavolo cappuccio in piena aria,167980
+1253,ITC1,Piemonte,cavolo di bruxelles in piena aria,2090
+1271,ITC3,Liguria,cavolo di bruxelles in piena aria,11680
+1292,ITE1,Toscana,cavolo di bruxelles in piena aria,2425
+1322,ITE3,Marche,cavolo di bruxelles in piena aria,459
+1334,ITE4,Lazio,cavolo di bruxelles in piena aria,960
+1349,ITF2,Molise,cavolo di bruxelles in piena aria,2250
+1361,ITF3,Campania,cavolo di bruxelles in piena aria,8000
+1373,ITF4,Puglia,cavolo di bruxelles in piena aria,3800
+1385,ITF5,Basilicata,cavolo di bruxelles in piena aria,6250
+1397,ITF6,Calabria,cavolo di bruxelles in piena aria,12195
+1430,ITC1,Piemonte,cavolo verza in piena aria,86899
+1478,ITC3,Liguria,cavolo verza in piena aria,3060
+1496,ITC4,Lombardia,cavolo verza in piena aria,62834
+1550,ITD3,Veneto,cavolo verza in piena aria,15876
+1595,ITD4,Friuli-Venezia Giulia,cavolo verza in piena aria,1250
+1625,ITD5,Emilia-Romagna,cavolo verza in piena aria,15670
+1658,ITE1,Toscana,cavolo verza in piena aria,54560
+1715,ITE2,Umbria,cavolo verza in piena aria,8720
+1733,ITE3,Marche,cavolo verza in piena aria,93878
+1763,ITE4,Lazio,cavolo verza in piena aria,45090
+1802,ITF1,Abruzzo,cavolo verza in piena aria,131940
+1832,ITF2,Molise,cavolo verza in piena aria,7200
+1850,ITF3,Campania,cavolo verza in piena aria,69498
+1886,ITF4,Puglia,cavolo verza in piena aria,279510
+1922,ITF5,Basilicata,cavolo verza in piena aria,37241
+1940,ITF6,Calabria,cavolo verza in piena aria,65342
+1964,ITG1,Sicilia,cavolo verza in piena aria,20300
+1994,ITG2,Sardegna,cavolo verza in piena aria,7463
+2034,ITC1,Piemonte,peperone in serra,66875
+2076,ITC3,Liguria,peperone in serra,440
+2094,ITC4,Lombardia,peperone in serra,6040
+2142,ITD3,Veneto,peperone in serra,140530
+2184,ITD4,Friuli-Venezia Giulia,peperone in serra,310
+2196,ITD5,Emilia-Romagna,peperone in serra,5460
+2244,ITE1,Toscana,peperone in serra,1545
+2286,ITE2,Umbria,peperone in serra,7800
+2298,ITE3,Marche,peperone in serra,2583
+2328,ITE4,Lazio,peperone in serra,72900
+2358,ITF1,Abruzzo,peperone in serra,1088
+2382,ITF3,Campania,peperone in serra,221968
+2406,ITF4,Puglia,peperone in serra,17610
+2430,ITF5,Basilicata,peperone in serra,480
+2442,ITF6,Calabria,peperone in serra,14036
+2478,ITG1,Sicilia,peperone in serra,193270
+2532,ITG2,Sardegna,peperone in serra,10471
+2588,ITC1,Piemonte,cetriolo da mensa in piena aria,1750
+2600,ITC4,Lombardia,cetriolo da mensa in piena aria,2051
+2624,ITD3,Veneto,cetriolo da mensa in piena aria,1892
+2645,ITD4,Friuli-Venezia Giulia,cetriolo da mensa in piena aria,983
+2663,ITD5,Emilia-Romagna,cetriolo da mensa in piena aria,10640
+2690,ITE1,Toscana,cetriolo da mensa in piena aria,4033
+2735,ITE3,Marche,cetriolo da mensa in piena aria,2556
+2753,ITE4,Lazio,cetriolo da mensa in piena aria,10000
+2783,ITF1,Abruzzo,cetriolo da mensa in piena aria,3680
+2795,ITF3,Campania,cetriolo da mensa in piena aria,7000
+2807,ITF4,Puglia,cetriolo da mensa in piena aria,74250
+2831,ITF6,Calabria,cetriolo da mensa in piena aria,40160
+2855,ITG1,Sicilia,cetriolo da mensa in piena aria,19750
+2885,ITC4,Lombardia,cetriolo da sottaceti in piena aria,280
+2898,ITE1,Toscana,cetriolo da sottaceti in piena aria,415
+2918,ITF6,Calabria,cetriolo da sottaceti in piena aria,115
+2940,ITC1,Piemonte,popone o melone in serra,450
+2958,ITC4,Lombardia,popone o melone in serra,136788
+2988,ITD3,Veneto,popone o melone in serra,229385
+3027,ITD5,Emilia-Romagna,popone o melone in serra,56570
+3081,ITE1,Toscana,popone o melone in serra,9024
+3117,ITE2,Umbria,popone o melone in serra,6000
+3129,ITE3,Marche,popone o melone in serra,225
+3153,ITE4,Lazio,popone o melone in serra,125550
+3180,ITF1,Abruzzo,popone o melone in serra,1000
+3192,ITF3,Campania,popone o melone in serra,164092
+3216,ITF4,Puglia,popone o melone in serra,9750
+3240,ITF5,Basilicata,popone o melone in serra,73100
+3252,ITF6,Calabria,popone o melone in serra,6489
+3276,ITG1,Sicilia,popone o melone in serra,102565
+3324,ITG2,Sardegna,popone o melone in serra,23920
+3380,ITC1,Piemonte,popone o melone in piena aria,85508
+3404,ITC3,Liguria,popone o melone in piena aria,440
+3422,ITC4,Lombardia,popone o melone in piena aria,932510
+3464,ITD3,Veneto,popone o melone in piena aria,160010
+3506,ITD4,Friuli-Venezia Giulia,popone o melone in piena aria,3300
+3530,ITD5,Emilia-Romagna,popone o melone in piena aria,396346
+3596,ITE1,Toscana,popone o melone in piena aria,136038
+3650,ITE2,Umbria,popone o melone in piena aria,122400
+3668,ITE3,Marche,popone o melone in piena aria,36151
+3698,ITE4,Lazio,popone o melone in piena aria,250000
+3728,ITF1,Abruzzo,popone o melone in piena aria,157535
+3758,ITF2,Molise,popone o melone in piena aria,6000
+3770,ITF3,Campania,popone o melone in piena aria,261527
+3800,ITF4,Puglia,popone o melone in piena aria,523980
+3836,ITF5,Basilicata,popone o melone in piena aria,142223
+3854,ITF6,Calabria,popone o melone in piena aria,197370
+3884,ITG1,Sicilia,popone o melone in piena aria,1470650
+3938,ITG2,Sardegna,popone o melone in piena aria,252804
+3990,ITC1,Piemonte,zucchina in serra,35510
+4032,ITC3,Liguria,zucchina in serra,7220
+4062,ITC4,Lombardia,zucchina in serra,27248
+4104,ITD3,Veneto,zucchina in serra,98381
+4146,ITD4,Friuli-Venezia Giulia,zucchina in serra,7164
+4164,ITD5,Emilia-Romagna,zucchina in serra,28897
+4224,ITE1,Toscana,zucchina in serra,11733
+4284,ITE2,Umbria,zucchina in serra,2000
+4296,ITE3,Marche,zucchina in serra,464
+4326,ITE4,Lazio,zucchina in serra,1115200
+4356,ITF1,Abruzzo,zucchina in serra,6667
+4380,ITF3,Campania,zucchina in serra,120077
+4410,ITF4,Puglia,zucchina in serra,279865
+4440,ITF6,Calabria,zucchina in serra,56202
+4476,ITG1,Sicilia,zucchina in serra,339848
+4536,ITG2,Sardegna,zucchina in serra,12018
+4592,ITC1,Piemonte,zucchina in piena aria,241012
+4640,ITC3,Liguria,zucchina in piena aria,19900
+4664,ITC4,Lombardia,zucchina in piena aria,290950
+4730,ITD3,Veneto,zucchina in piena aria,273545
+4778,ITD4,Friuli-Venezia Giulia,zucchina in piena aria,8566
+4808,ITD5,Emilia-Romagna,zucchina in piena aria,514928
+4874,ITE1,Toscana,zucchina in piena aria,94888
+4940,ITE2,Umbria,zucchina in piena aria,14840
+4958,ITE3,Marche,zucchina in piena aria,22798
+4988,ITE4,Lazio,zucchina in piena aria,386600
+5030,ITF1,Abruzzo,zucchina in piena aria,83900
+5060,ITF2,Molise,zucchina in piena aria,2400
+5072,ITF3,Campania,zucchina in piena aria,175928
+5108,ITF4,Puglia,zucchina in piena aria,553500
+5144,ITF5,Basilicata,zucchina in piena aria,21656
+5162,ITF6,Calabria,zucchina in piena aria,318085
+5198,ITG1,Sicilia,zucchina in piena aria,382750
+5255,ITG2,Sardegna,zucchina in piena aria,45736
+5309,ITC1,Piemonte,cocomero in piena aria,33296
+5327,ITC4,Lombardia,cocomero in piena aria,739930
+5369,ITD3,Veneto,cocomero in piena aria,167060
+5411,ITD5,Emilia-Romagna,cocomero in piena aria,475560
+5465,ITE1,Toscana,cocomero in piena aria,64685
+5519,ITE2,Umbria,cocomero in piena aria,13000
+5531,ITE3,Marche,cocomero in piena aria,8634
+5561,ITE4,Lazio,cocomero in piena aria,930000
+5591,ITF1,Abruzzo,cocomero in piena aria,46800
+5609,ITF2,Molise,cocomero in piena aria,12500
+5619,ITF3,Campania,cocomero in piena aria,728488
+5639,ITF4,Puglia,cocomero in piena aria,701130
+5671,ITF5,Basilicata,cocomero in piena aria,87150
+5683,ITF6,Calabria,cocomero in piena aria,27800
+5705,ITG1,Sicilia,cocomero in piena aria,303500
+5737,ITG2,Sardegna,cocomero in piena aria,483551
+5770,ITC1,Piemonte,finocchio in serra,3306
+5802,ITC4,Lombardia,finocchio in serra,392
+5826,ITD3,Veneto,finocchio in serra,5150
+5841,ITE1,Toscana,finocchio in serra,268
+5865,ITE2,Umbria,finocchio in serra,50
+5877,ITE3,Marche,finocchio in serra,27
+5895,ITE4,Lazio,finocchio in serra,2950
+5916,ITF5,Basilicata,finocchio in serra,2750
+5928,ITF6,Calabria,finocchio in serra,2379
+5952,ITG1,Sicilia,finocchio in serra,99
+5964,ITG2,Sardegna,finocchio in serra,13594
+6015,ITC1,Piemonte,indivia in serra,1984
+6033,ITC3,Liguria,indivia in serra,600
+6045,ITC4,Lombardia,indivia in serra,12060
+6075,ITD3,Veneto,indivia in serra,9982
+6105,ITD5,Emilia-Romagna,indivia in serra,9640
+6138,ITE1,Toscana,indivia in serra,2049
+6174,ITE2,Umbria,indivia in serra,120
+6186,ITE3,Marche,indivia in serra,99
+6204,ITE4,Lazio,indivia in serra,12900
+6225,ITF3,Campania,indivia in serra,23697
+6249,ITF6,Calabria,indivia in serra,2085
+6279,ITG1,Sicilia,indivia in serra,1130
+6291,ITG2,Sardegna,indivia in serra,2470
+6342,ITC1,Piemonte,prezzemolo in serra,332
+6354,ITC4,Lombardia,prezzemolo in serra,2804
+6393,ITD3,Veneto,prezzemolo in serra,2101
+6420,ITD5,Emilia-Romagna,prezzemolo in serra,5580
+6456,ITE1,Toscana,prezzemolo in serra,1434
+6498,ITE3,Marche,prezzemolo in serra,73
+6522,ITE4,Lazio,prezzemolo in serra,550
+6549,ITF3,Campania,prezzemolo in serra,7695
+6567,ITF4,Puglia,prezzemolo in serra,1235
+6579,ITF6,Calabria,prezzemolo in serra,7
+6591,ITG1,Sicilia,prezzemolo in serra,80
+6617,ITC1,Piemonte,ravanello in piena aria,1662
+6635,ITC4,Lombardia,ravanello in piena aria,2715
+6659,ITD3,Veneto,ravanello in piena aria,282
+6674,ITD4,Friuli-Venezia Giulia,ravanello in piena aria,148
+6686,ITD5,Emilia-Romagna,ravanello in piena aria,696
+6710,ITE1,Toscana,ravanello in piena aria,5375
+6752,ITE4,Lazio,ravanello in piena aria,72720
+6776,ITF3,Campania,ravanello in piena aria,2400
+6788,ITF4,Puglia,ravanello in piena aria,32505
+6812,ITG1,Sicilia,ravanello in piena aria,2570
+6830,ITG2,Sardegna,ravanello in piena aria,14283
+6872,ITC1,Piemonte,spinacio in piena aria,31021
+6914,ITC3,Liguria,spinacio in piena aria,520
+6926,ITC4,Lombardia,spinacio in piena aria,29220
+6980,ITD3,Veneto,spinacio in piena aria,11878
+7025,ITD5,Emilia-Romagna,spinacio in piena aria,281684
+7117,ITE3,Marche,spinacio in piena aria,82696
+7149,ITF1,Abruzzo,spinacio in piena aria,76537
+7177,ITF2,Molise,spinacio in piena aria,23300
+7195,ITF3,Campania,spinacio in piena aria,54070
+7225,ITF4,Puglia,spinacio in piena aria,114150
+7261,ITF6,Calabria,spinacio in piena aria,4350
+7288,ITG1,Sicilia,spinacio in piena aria,12875
+7333,ITC3,Liguria,altri cavoli in piena aria,11665
+7357,ITC4,Lombardia,altri cavoli in piena aria,300
+7387,ITD4,Friuli-Venezia Giulia,altri cavoli in piena aria,1820
+7417,ITD5,Emilia-Romagna,altri cavoli in piena aria,3525
+7438,ITE1,Toscana,altri cavoli in piena aria,26597
+7498,ITE2,Umbria,altri cavoli in piena aria,990
+7510,ITE3,Marche,altri cavoli in piena aria,7819
+7540,ITE4,Lazio,altri cavoli in piena aria,203300
+7567,ITF1,Abruzzo,altri cavoli in piena aria,18100
+7585,ITF2,Molise,altri cavoli in piena aria,3900
+7603,ITF3,Campania,altri cavoli in piena aria,28812
+7627,ITF4,Puglia,altri cavoli in piena aria,408600
+7657,ITF5,Basilicata,altri cavoli in piena aria,44904
+7675,ITF6,Calabria,altri cavoli in piena aria,43477
+7705,ITG1,Sicilia,altri cavoli in piena aria,127190
+7759,ITG2,Sardegna,altri cavoli in piena aria,30648
+7798,ITC1,Piemonte,cavolfiore e cavolo broccolo in piena aria,60505
+7846,ITC3,Liguria,cavolfiore e cavolo broccolo in piena aria,3000
+7858,ITC4,Lombardia,cavolfiore e cavolo broccolo in piena aria,4690
+7912,ITD3,Veneto,cavolfiore e cavolo broccolo in piena aria,49450
+7954,ITD4,Friuli-Venezia Giulia,cavolfiore e cavolo broccolo in piena aria,3220
+7984,ITD5,Emilia-Romagna,cavolfiore e cavolo broccolo in piena aria,48170
+8023,ITE1,Toscana,cavolfiore e cavolo broccolo in piena aria,20115
+8077,ITE2,Umbria,cavolfiore e cavolo broccolo in piena aria,35990
+8095,ITE3,Marche,cavolfiore e cavolo broccolo in piena aria,107397
+8125,ITE4,Lazio,cavolfiore e cavolo broccolo in piena aria,181880
+8164,ITF1,Abruzzo,cavolfiore e cavolo broccolo in piena aria,643700
+8194,ITF2,Molise,cavolfiore e cavolo broccolo in piena aria,23625
+8212,ITF3,Campania,cavolfiore e cavolo broccolo in piena aria,699815
+8248,ITF4,Puglia,cavolfiore e cavolo broccolo in piena aria,796580
+8284,ITF5,Basilicata,cavolfiore e cavolo broccolo in piena aria,221416
+8302,ITF6,Calabria,cavolfiore e cavolo broccolo in piena aria,230081
+8338,ITG1,Sicilia,cavolfiore e cavolo broccolo in piena aria,399530
+8398,ITG2,Sardegna,cavolfiore e cavolo broccolo in piena aria,116660
+8440,ITC1,Piemonte,frumento tenero,3375407
+8494,ITC2,Valle d'Aosta / Vallée d'Aoste,frumento tenero,220
+8506,ITC3,Liguria,frumento tenero,4430
+8530,ITC4,Lombardia,frumento tenero,3205559
+8608,ITD3,Veneto,frumento tenero,6001182
+8656,ITD4,Friuli-Venezia Giulia,frumento tenero,594917
+8686,ITD5,Emilia-Romagna,frumento tenero,8560105
+8752,ITE1,Toscana,frumento tenero,1059055
+8818,ITE2,Umbria,frumento tenero,1433200
+8836,ITE3,Marche,frumento tenero,660476
+8866,ITE4,Lazio,frumento tenero,551100
+8908,ITF1,Abruzzo,frumento tenero,863020
+8938,ITF2,Molise,frumento tenero,134600
+8956,ITF3,Campania,frumento tenero,597062
+8986,ITF4,Puglia,frumento tenero,357250
+9016,ITF5,Basilicata,frumento tenero,183042
+9034,ITF6,Calabria,frumento tenero,288589
+9070,ITG1,Sicilia,frumento tenero,9700
+9088,ITG2,Sardegna,frumento tenero,2373
+9126,ITC1,Piemonte,segale,12203
+9168,ITC2,Valle d'Aosta / Vallée d'Aoste,segale,220
+9176,ITC4,Lombardia,segale,10369
+9234,ITD3,Veneto,segale,2510
+9260,ITD4,Friuli-Venezia Giulia,segale,2345
+9272,ITD5,Emilia-Romagna,segale,11508
+9300,ITE1,Toscana,segale,3034
+9334,ITE2,Umbria,segale,4500
+9344,ITE4,Lazio,segale,5520
+9364,ITF1,Abruzzo,segale,5900
+9375,ITF3,Campania,segale,2300
+9385,ITF5,Basilicata,segale,5418
+9403,ITF6,Calabria,segale,37908
+9433,ITG1,Sicilia,segale,250
+9457,ITC1,Piemonte,orzo,927695
+9508,ITC2,Valle d'Aosta / Vallée d'Aoste,orzo,30
+9520,ITC3,Liguria,orzo,1837
+9538,ITC4,Lombardia,orzo,1210093
+9616,ITD3,Veneto,orzo,986392
+9664,ITD4,Friuli-Venezia Giulia,orzo,292556
+9694,ITD5,Emilia-Romagna,orzo,1077925
+9758,ITE1,Toscana,orzo,611157
+9816,ITE2,Umbria,orzo,912000
+9830,ITE3,Marche,orzo,731731
+9888,ITF1,Abruzzo,orzo,665100
+9908,ITF2,Molise,orzo,68700
+9922,ITF3,Campania,orzo,464429
+9940,ITF4,Puglia,orzo,532795
+9958,ITF5,Basilicata,orzo,410805
+9964,ITF6,Calabria,orzo,200937
+9978,ITG1,Sicilia,orzo,133030
+9998,ITG2,Sardegna,orzo,309382
+10057,ITC3,Liguria,avena,20
+10097,ITD3,Veneto,avena,7799
+10173,ITF4,Puglia,avena,521435
+10205,ITF5,Basilicata,avena,332325
+10251,ITG1,Sicilia,avena,125400
+10289,ITG2,Sardegna,avena,182334
+10338,ITC4,Lombardia,pisello in serra,24
+10348,ITD3,Veneto,pisello in serra,6427
+10358,ITD5,Emilia-Romagna,pisello in serra,560
+10373,ITE1,Toscana,pisello in serra,955
+10389,ITE3,Marche,pisello in serra,67
+10416,ITF6,Calabria,pisello in serra,269
+10444,ITC1,Piemonte,cece ,290
+10456,ITC4,Lombardia,cece ,38283
+10491,ITD3,Veneto,cece ,8181
+10519,ITD5,Emilia-Romagna,cece ,117980
+10596,ITD3,Veneto,pisello da granella ,20499
+10638,ITD5,Emilia-Romagna,pisello da granella ,83555
+10672,ITE1,Toscana,pisello da granella ,3508
+10711,ITE3,Marche,pisello da granella ,8111
+10725,ITE4,Lazio,pisello da granella ,92
+10741,ITF1,Abruzzo,pisello da granella ,5800
+10749,ITF3,Campania,pisello da granella ,620
+10753,ITF4,Puglia,pisello da granella ,8560
+10791,ITC4,Lombardia,cipolla in piena aria,102270
+10832,ITD5,Emilia-Romagna,carota e pastinaca in piena aria,1087250
+10884,ITE3,Marche,carota e pastinaca in piena aria,2019
+10912,ITF1,Abruzzo,carota e pastinaca in piena aria,1200000
+10920,ITF4,Puglia,carota e pastinaca in piena aria,317850
+10930,ITE1,Toscana,cece ,74790
+11092,ITF5,Basilicata,rapa in piena aria,33573
+11133,ITE1,Toscana,cipolla in piena aria,57144
+11153,ITC3,Liguria,carota e pastinaca in piena aria,330
+11165,ITF3,Campania,rapa in piena aria,22000
+11191,ITF2,Molise,avena,38000
+11230,ITF6,Calabria,pomodoro in serra,97999
+11246,ITG1,Sicilia,cece ,25170
+11300,ITD3,Veneto,porro in piena aria,34980
+11394,ITE4,Lazio,cipolla in piena aria,20690
+11436,ITG1,Sicilia,cipolla in piena aria,304500
+11516,ITE3,Marche,porro in piena aria,14570
+11518,ITE4,Lazio,cece ,11078
+11587,ITE3,Marche,lenticchia ,10143
+11703,ITD4,Friuli-Venezia Giulia,carota e pastinaca in piena aria,500
+11733,ITG2,Sardegna,carota e pastinaca in piena aria,260051
+11758,ITC1,Piemonte,avena,15591
+11829,ITD3,Veneto,lenticchia ,70
+12241,ITG1,Sicilia,lenticchia ,2643
+12312,ITE2,Umbria,avena,51340
+12409,ITF4,Puglia,pomodoro in serra,251800
+12462,ITE4,Lazio,lenticchia ,1275
+12495,ITE3,Marche,rapa in piena aria,4742
+12564,ITE1,Toscana,lenticchia ,10516
+12606,ITC1,Piemonte,ravizzone,66
+12635,ITF3,Campania,cetriolo da sottaceti in piena aria,4000
+12793,ITD4,Friuli-Venezia Giulia,soia,2699828
+12795,ITC3,Liguria,pomodoro in serra,9240
+13024,ITF6,Calabria,lenticchia ,905
+13030,ITE1,Toscana,porro in piena aria,13286
+13039,ITC4,Lombardia,soia,1600259
+13157,ITF6,Calabria,cipolla in piena aria,359475
+13193,ITE4,Lazio,porro in piena aria,530
+13195,ITD5,Emilia-Romagna,soia,1412374
+13292,ITF6,Calabria,cece ,5304
+13364,ITD4,Friuli-Venezia Giulia,pomodoro in serra,2874
+13384,ITG2,Sardegna,pomodoro in serra,239916
+13386,ITF1,Abruzzo,soia,2672
+13422,ITD3,Veneto,pomodoro in serra,206620
+13447,ITG1,Sicilia,carota e pastinaca in piena aria,601300
+13638,ITF2,Molise,rapa in piena aria,3000
+13650,ITC4,Lombardia,avena,8559
+13761,ITF3,Campania,uva da vino,1956167
+13802,ITE1,Toscana,carota e pastinaca in piena aria,11016
+13870,ITE3,Marche,soia,15470
+14078,ITE2,Umbria,lenticchia ,11300
+14122,ITC1,Piemonte,pisello da granella ,4164
+14152,ITC1,Piemonte,rapa in piena aria,24822
+14201,ITF3,Campania,lenticchia ,452
+14294,ITD3,Veneto,soia,5188116
+14444,ITF5,Basilicata,cipolla in piena aria,2628
+14450,ITC1,Piemonte,porro in piena aria,17280
+14480,ITE4,Lazio,carota e pastinaca in piena aria,791100
+14497,ITE3,Marche,pomodoro in serra,6693
+14503,ITF3,Campania,cece ,5289
+14554,ITF5,Basilicata,cece ,14496
+14665,ITF3,Campania,cipolla in piena aria,332570
+14669,ITD4,Friuli-Venezia Giulia,avena,867
+14803,ITE1,Toscana,pomodoro in serra,27346
+14885,ITE4,Lazio,soia,925
+15129,ITG1,Sicilia,pomodoro in serra,1607380
+15186,ITF1,Abruzzo,avena,67500
+15202,ITF6,Calabria,carota e pastinaca in piena aria,3115
+15280,ITE2,Umbria,pisello da granella ,6000
+15347,ITE4,Lazio,pomodoro in serra,1203200
+15353,ITE1,Toscana,soia,15250
+15364,ITD5,Emilia-Romagna,avena,11306
+15504,ITF6,Calabria,soia,1080
+15547,ITF5,Basilicata,lenticchia ,125
+15697,ITE3,Marche,cece ,54009
+15733,ITD3,Veneto,cipolla in piena aria,295220
+15772,ITG1,Sicilia,pisello in serra,930
+15864,ITE3,Marche,cipolla in piena aria,8347
+16063,ITC4,Lombardia,pisello da granella ,42916
+16069,ITE1,Toscana,spinacio in piena aria,54240
+16119,ITF6,Calabria,avena,299290
+16163,ITF4,Puglia,rapa in piena aria,405710
+16332,ITE1,Toscana,avena,378563
+16441,ITE2,Umbria,soia,1500
+16446,ITG2,Sardegna,rapa in piena aria,600
+16452,ITG2,Sardegna,pisello da granella ,6326
+16492,ITC4,Lombardia,porro in piena aria,7842
+16518,ITF1,Abruzzo,lenticchia ,170
+16576,ITF3,Campania,carota e pastinaca in piena aria,39700
+16662,ITC1,Piemonte,pomodoro in serra,64052
+16723,ITF1,Abruzzo,porro in piena aria,6650
+16781,ITF2,Molise,lenticchia ,420
+16835,ITE4,Lazio,avena,45750
+16893,ITF3,Campania,soia,150
+17023,ITE2,Umbria,pomodoro in serra,4000
+17031,ITF2,Molise,cece ,45080
+17086,ITD3,Veneto,ravizzone,118
+17196,ITD5,Emilia-Romagna,porro in piena aria,1160
+17256,ITF2,Molise,cipolla in piena aria,20100
+17502,ITF3,Campania,pomodoro in serra,740743
+17554,ITF5,Basilicata,pomodoro in serra,16400
+17557,ITC1,Piemonte,lenticchia ,7
+17693,ITF4,Puglia,cetriolo da sottaceti in piena aria,26000
+17754,ITC1,Piemonte,cipolla in piena aria,582458
+17810,ITF5,Basilicata,carota e pastinaca in piena aria,45100
+17828,ITF3,Campania,pisello in serra,4093
+17874,ITD3,Veneto,carota e pastinaca in piena aria,289710
+17987,ITE4,Lazio,spinacio in piena aria,95780
+18108,ITE1,Toscana,ravizzone,539
+18288,ITE2,Umbria,cece ,20340
+18383,ITF1,Abruzzo,rapa in piena aria,1400
+18409,ITE2,Umbria,cipolla in piena aria,15200
+18417,ITC3,Liguria,finocchio in serra,28
+18433,ITC1,Piemonte,uva da vino,3666335
+18567,ITF6,Calabria,pisello da granella ,3826
+18654,ITC3,Liguria,cipolla in piena aria,680
+18666,ITF6,Calabria,rapa in piena aria,48954
+18755,ITC4,Lombardia,pomodoro in serra,53578
+18785,ITF3,Campania,avena,323657
+19147,ITF2,Molise,carota e pastinaca in piena aria,5500
+19166,ITF1,Abruzzo,pomodoro in serra,16500
+19227,ITG2,Sardegna,cipolla in piena aria,53550
+19263,ITD4,Friuli-Venezia Giulia,cipolla in piena aria,1577
+19271,ITE4,Lazio,rapa in piena aria,103500
+19361,ITG2,Sardegna,cece ,2210
+19386,ITD5,Emilia-Romagna,pomodoro in serra,111044
+19505,ITG1,Sicilia,rapa in piena aria,750
+19517,ITF4,Puglia,cipolla in piena aria,383735
+19716,ITF4,Puglia,cece ,29245
+19735,ITG2,Sardegna,lenticchia ,832
+19818,ITG1,Sicilia,pisello da granella ,1400
+19828,ITE1,Toscana,rapa in piena aria,5628
+19888,ITF1,Abruzzo,cipolla in piena aria,53930
+19898,ITC1,Piemonte,pisello in serra,1897
+19928,ITE4,Lazio,orzo,563950
+19944,ITE3,Marche,avena,23418
+19950,ITD5,Emilia-Romagna,lenticchia ,78
+19983,ITD4,Friuli-Venezia Giulia,porro in piena aria,1711
+20004,ITF1,Abruzzo,cece ,18645
+20055,ITC1,Piemonte,soia,452310
+20166,ITC4,Lombardia,uva da vino,2437200
+20217,ITF2,Molise,segale,420
+20291,ITF4,Puglia,porro in piena aria,3000
+20497,ITD5,Emilia-Romagna,cipolla in piena aria,1126455
+20611,ITC3,Liguria,porro in piena aria,460
+20655,ITC4,Lombardia,lenticchia ,871
+20687,ITF4,Puglia,lenticchia ,5635
+20874,ITC1,Piemonte,carota e pastinaca in piena aria,24211
+21080,ITC2,Valle d'Aosta / Vallée d'Aoste,uva da vino,26000
+21126,ITD3,Veneto,melograno,26132
+21141,ITD4,Friuli-Venezia Giulia,susina,2286
+21145,ITF3,Campania,kiwi,296640
+21155,ITG2,Sardegna,susina,20750
+21213,ITE1,Toscana,melograno,1427
+21320,ITD3,Veneto,uva da vino,16409350
+21324,ITD5,Emilia-Romagna,nettarina (pesca noce),1681901
+21338,ITE1,Toscana,uva da vino,3797680
+21345,ITD5,Emilia-Romagna,pesca,1035901
+21357,ITE3,Marche,olive per olio,169597
+21509,ITE3,Marche,uva da vino,1366628
+21555,ITF2,Molise,olive da tavola e da olio,573100
+21580,ITF3,Campania,melanzana in serra,199005
+21669,ITG1,Sicilia,melograno,36820
+21681,ITE2,Umbria,melanzana in serra,250
+21717,ITF1,Abruzzo,nettarina (pesca noce),90150
+21765,ITF2,Molise,uva da tavola,5600
+21792,ITF1,Abruzzo,pesca,266595
+21893,ITF4,Puglia,susina,61765
+21984,ITE3,Marche,melograno,250
+22030,ITF1,Abruzzo,olive da tavola,13156
+22032,ITE4,Lazio,melograno,10893
+22048,ITC3,Liguria,susina,1400
+22337,ITE4,Lazio,olive per olio,863450
+22343,ITF5,Basilicata,kiwi,75840
+22483,ITE4,Lazio,cotogno,200
+22495,ITF2,Molise,olive da tavola,2500
+22564,ITE2,Umbria,uva da tavola,1000
+22595,ITC1,Piemonte,olive da tavola e da olio,1327
+22635,ITC1,Piemonte,uva da tavola,12370
+22655,ITF6,Calabria,olive per olio,3893412
+22665,ITF4,Puglia,loti o kaki,625
+22717,ITC1,Piemonte,pesca,431985
+22727,ITF1,Abruzzo,susina,58585
+22788,ITD3,Veneto,cotogno,2256
+22795,ITE1,Toscana,cotogno,668
+22852,ITG1,Sicilia,olive per olio,1993438
+22880,ITE4,Lazio,uva da vino,1848320
+22887,ITE3,Marche,kiwi,7832
+22961,ITG1,Sicilia,cotogno,2080
+22996,ITF6,Calabria,melograno,4150
+23042,ITG1,Sicilia,uva da vino,6745000
+23067,ITC3,Liguria,loti o kaki,250
+23100,ITF6,Calabria,uva da vino,507861
+23150,ITC4,Lombardia,susina,9692
+23300,ITE1,Toscana,olive per olio,1192186
+23318,ITE2,Umbria,olive da tavola e da olio,374898
+23405,ITD4,Friuli-Venezia Giulia,loti o kaki,1925
+23486,ITD5,Emilia-Romagna,susina,669287
+23520,ITF2,Molise,nettarina (pesca noce),13500
+23601,ITC3,Liguria,olive da tavola e da olio,342500
+23672,ITF4,Puglia,uva da tavola,6020420
+23719,ITF6,Calabria,olive da tavola,57751
+23792,ITF3,Campania,melograno,500
+23928,ITD4,Friuli-Venezia Giulia,olive da tavola e da olio,14500
+23938,ITG2,Sardegna,olive da tavola e da olio,380100
+24007,ITD3,Veneto,loti o kaki,31671
+24163,ITC3,Liguria,uva da tavola,140
+24174,ITG1,Sicilia,susina,62680
+24247,ITF2,Molise,kiwi,4430
+24460,ITG2,Sardegna,uva da tavola,34290
+24466,ITE2,Umbria,olive per olio,374888
+24562,ITE1,Toscana,susina,53292
+24599,ITE2,Umbria,uva da vino,890070
+24634,ITE4,Lazio,susina,184280
+24660,ITF4,Puglia,olive da tavola e da olio,5725110
+24695,ITE3,Marche,loti o kaki,150
+24754,ITC3,Liguria,nettarina (pesca noce),260
+24764,ITG2,Sardegna,olive da tavola,76700
+24806,ITC3,Liguria,pesca,8640
+24862,ITD5,Emilia-Romagna,olive da tavola e da olio,72112
+24897,ITF6,Calabria,susina,21331
+24913,ITF5,Basilicata,uva da vino,155421
+25040,ITC3,Liguria,olive da tavola,113300
+25096,ITE1,Toscana,loti o kaki,2990
+25098,ITD5,Emilia-Romagna,uva da tavola,3430
+25108,ITD4,Friuli-Venezia Giulia,pesca,36169
+25124,ITG2,Sardegna,pesca,293080
+25206,ITF4,Puglia,nettarina (pesca noce),210480
+25340,ITC4,Lombardia,nettarina (pesca noce),13927
+25410,ITF1,Abruzzo,olive da tavola e da olio,1228556
+25554,ITF4,Puglia,olive da tavola,108550
+25684,ITF5,Basilicata,olive per olio,295573
+25686,ITD4,Friuli-Venezia Giulia,nettarina (pesca noce),3008
+25731,ITG2,Sardegna,nettarina (pesca noce),18888
+25753,ITF3,Campania,olive per olio,939203
+25871,ITC4,Lombardia,olive da tavola e da olio,49996
+25936,ITF1,Abruzzo,uva da tavola,151265
+25946,ITC4,Lombardia,pesca,49871
+26000,ITF4,Puglia,kiwi,23270
+26045,ITD5,Emilia-Romagna,cotogno,600
+26058,ITE1,Toscana,uva da tavola,7697
+26070,ITE3,Marche,olive da tavola,7560
+26214,ITE4,Lazio,olive da tavola e da olio,865700
+26303,ITE4,Lazio,uva da tavola,148690
+26315,ITF2,Molise,olive per olio,570600
+26398,ITC4,Lombardia,cotogno,800
+26422,ITF4,Puglia,pomodoro in piena aria,904795
+26464,ITF1,Abruzzo,olive per olio,1215400
+26495,ITD4,Friuli-Venezia Giulia,kiwi,154001
+26497,ITE3,Marche,pesca,89272
+26535,ITD3,Veneto,nettarina (pesca noce),146500
+26755,ITG1,Sicilia,olive da tavola e da olio,2306725
+26761,ITF6,Calabria,uva da tavola,50310
+26784,ITF2,Molise,uva da vino,670150
+26796,ITF5,Basilicata,olive da tavola,855
+26808,ITD3,Veneto,olive da tavola,138
+26832,ITF5,Basilicata,susina,83322
+26847,ITF3,Campania,susina,320227
+27019,ITF2,Molise,pomodoro da industria in piena aria,654800
+27140,ITG1,Sicilia,uva da tavola,3685200
+27154,ITE3,Marche,nettarina (pesca noce),50033
+27166,ITD3,Veneto,pesca,281248
+27243,ITE1,Toscana,olive da tavola e da olio,1194490
+27251,ITE1,Toscana,pesca,86807
+27362,ITE1,Toscana,nettarina (pesca noce),21917
+27509,ITE4,Lazio,nettarina (pesca noce),34870
+27511,ITD5,Emilia-Romagna,melanzana in serra,25060
+27580,ITE3,Marche,susina,36326
+27676,ITD5,Emilia-Romagna,kiwi,728670
+27680,ITE4,Lazio,pesca,182600
+27783,ITE4,Lazio,olive da tavola,2250
+27802,ITF6,Calabria,olive da tavola e da olio,3951163
+27804,ITF4,Puglia,melanzana in serra,27620
+27809,ITF6,Calabria,pesca,370833
+28048,ITG1,Sicilia,pesca,1071300
+28050,ITF1,Abruzzo,kiwi,36000
+28072,ITD3,Veneto,susina,55090
+28076,ITE4,Lazio,ravizzone,166
+28128,ITE1,Toscana,olive da tavola,2304
+28136,ITG1,Sicilia,nettarina (pesca noce),117750
+28199,ITF1,Abruzzo,melanzana in serra,2173
+28288,ITG1,Sicilia,olive da tavola,313287
+28367,ITF6,Calabria,nettarina (pesca noce),197364
+28582,ITC3,Liguria,uva da vino,110116
+28644,ITF3,Campania,uva da tavola,10937
+28646,ITE1,Toscana,kiwi,11940
+28689,ITF5,Basilicata,uva da tavola,123471
+28718,ITG2,Sardegna,olive per olio,303400
+28777,ITC1,Piemonte,nettarina (pesca noce),686277
+28832,ITF2,Molise,susina,37800
+28938,ITC4,Lombardia,loti o kaki,4850
+28945,ITG2,Sardegna,uva da vino,1106000
+28982,ITC4,Lombardia,pomodoro da industria in piena aria,4969766
+29018,ITF4,Puglia,pomodoro da industria in piena aria,15548140
+29041,ITE4,Lazio,kiwi,2234800
+29091,ITC1,Piemonte,olive da tavola,105
+29155,ITE2,Umbria,nettarina (pesca noce),2200
+29292,ITD5,Emilia-Romagna,loti o kaki,209595
+29311,ITE2,Umbria,olive da tavola,10
+29413,ITG2,Sardegna,melograno,1250
+29423,ITE1,Toscana,pomodoro in piena aria,134370
+29469,ITG1,Sicilia,kiwi,8830
+29605,ITF6,Calabria,cotogno,74
+29734,ITC3,Liguria,olive per olio,229200
+29742,ITF3,Campania,olive da tavola e da olio,946511
+29766,ITE2,Umbria,pesca,10660
+29772,ITF5,Basilicata,olive da tavola e da olio,296428
+29807,ITE3,Marche,melanzana in serra,301
+29819,ITD4,Friuli-Venezia Giulia,pomodoro da industria in piena aria,1118
+29898,ITD3,Veneto,uva da tavola,16260
+29943,ITF4,Puglia,melograno,37355
+29985,ITE4,Lazio,melanzana in serra,79050
+29992,ITD5,Emilia-Romagna,pomodoro da industria in piena aria,16707084
+30066,ITF4,Puglia,uva da vino,14200615
+30094,ITC4,Lombardia,melograno,810
+30111,ITE4,Lazio,carrubo,310
+30201,ITD4,Friuli-Venezia Giulia,uva da vino,2399629
+30231,ITE1,Toscana,melanzana in serra,1401
+30284,ITE3,Marche,olive da tavola e da olio,177157
+30347,ITD5,Emilia-Romagna,uva da vino,10127901
+30361,ITF5,Basilicata,nettarina (pesca noce),215097
+30455,ITF3,Campania,nettarina (pesca noce),468351
+30523,ITF1,Abruzzo,uva da vino,4514983
+30622,ITF6,Calabria,kiwi,385220
+30644,ITF3,Campania,olive da tavola,7308
+30717,ITE3,Marche,uva da tavola,1612
+30808,ITE2,Umbria,susina,900
+30910,ITF4,Puglia,olive per olio,5616560
+30998,ITF6,Calabria,melanzana in serra,20241
+31004,ITC1,Piemonte,susina,295072
+31043,ITD3,Veneto,olive da tavola e da olio,243843
+31080,ITF5,Basilicata,pesca,303163
+31090,ITD5,Emilia-Romagna,melograno,1314
+31094,ITF3,Campania,pesca,1709820
+31551,ITC1,Piemonte,pomodoro in piena aria,97143
+31595,ITC3,Liguria,pomodoro in piena aria,43450
+31619,ITC4,Lombardia,pomodoro in piena aria,37980
+31653,ITD3,Veneto,pomodoro in piena aria,16030
+31688,ITD4,Friuli-Venezia Giulia,pomodoro in piena aria,4262
+31710,ITD5,Emilia-Romagna,pomodoro in piena aria,132240
+31808,ITE2,Umbria,pomodoro in piena aria,8000
+31824,ITE3,Marche,pomodoro in piena aria,85085
+31852,ITE4,Lazio,pomodoro in piena aria,373000
+31884,ITF1,Abruzzo,pomodoro in piena aria,532860
+31912,ITF2,Molise,pomodoro in piena aria,5750
+31926,ITF3,Campania,pomodoro in piena aria,632824
+31980,ITF5,Basilicata,pomodoro in piena aria,362815
+31996,ITF6,Calabria,pomodoro in piena aria,432635
+32028,ITG1,Sicilia,pomodoro in piena aria,1319550
+32081,ITG2,Sardegna,pomodoro in piena aria,78000
+32130,ITC1,Piemonte,pomodoro da industria in piena aria,592542
+32182,ITD3,Veneto,pomodoro da industria in piena aria,885025
+32272,ITE1,Toscana,pomodoro da industria in piena aria,1160070
+32304,ITE2,Umbria,pomodoro da industria in piena aria,75600
+32318,ITE3,Marche,pomodoro da industria in piena aria,10740
+32340,ITE4,Lazio,pomodoro da industria in piena aria,1335500
+32360,ITF1,Abruzzo,pomodoro da industria in piena aria,540205
+32392,ITF3,Campania,pomodoro da industria in piena aria,2289714
+32442,ITF5,Basilicata,pomodoro da industria in piena aria,1177758
+32458,ITF6,Calabria,pomodoro da industria in piena aria,1137810
+32482,ITG1,Sicilia,pomodoro da industria in piena aria,717000
+32504,ITG2,Sardegna,pomodoro da industria in piena aria,315180
+32909,ITC1,Piemonte,olive per olio,1222
+32934,ITC4,Lombardia,olive per olio,49996
+32952,ITD3,Veneto,olive per olio,243705
+32966,ITD4,Friuli-Venezia Giulia,olive per olio,14500
+32976,ITD5,Emilia-Romagna,olive per olio,72112
+33010,ITF4,Puglia,cotogno,2695
+33132,ITF2,Molise,pesca,28500
+33188,ITF4,Puglia,pesca,677415
+33325,ITC1,Piemonte,kiwi,1003105
+33397,ITC2,Valle d'Aosta / Vallée d'Aoste,kiwi,200
+33413,ITC3,Liguria,kiwi,1390
+33445,ITC4,Lombardia,kiwi,119368
+33533,ITD3,Veneto,kiwi,573940
+33587,ITF3,Campania,loti o kaki,190046
+33597,ITF6,Calabria,loti o kaki,1200
+33605,ITG1,Sicilia,loti o kaki,32650
+33744,ITF4,Puglia,carrubo,5745
+33776,ITG1,Sicilia,carrubo,363455
+33814,ITC4,Lombardia,funghi di coltivazione in piena aria,9205
+33820,ITD3,Veneto,funghi di coltivazione in piena aria,345350
+33834,ITD5,Emilia-Romagna,funghi di coltivazione in piena aria,140316
+33848,ITE1,Toscana,funghi di coltivazione in piena aria,90
+33854,ITE3,Marche,funghi di coltivazione in piena aria,158
+33858,ITE4,Lazio,funghi di coltivazione in piena aria,73500
+33867,ITF1,Abruzzo,funghi di coltivazione in piena aria,3880
+33874,ITF3,Campania,funghi di coltivazione in piena aria,37780
+33886,ITF4,Puglia,funghi di coltivazione in piena aria,71655
+33896,ITF5,Basilicata,funghi di coltivazione in piena aria,1662
+33900,ITF6,Calabria,funghi di coltivazione in piena aria,3435
+33910,ITG1,Sicilia,funghi di coltivazione in piena aria,5710
+33922,ITG2,Sardegna,funghi di coltivazione in piena aria,13986
+33954,ITC1,Piemonte,frumento duro,85058
+34002,ITC4,Lombardia,frumento duro,903960
+34062,ITD3,Veneto,frumento duro,954790
+34104,ITD4,Friuli-Venezia Giulia,frumento duro,18746
+34128,ITD5,Emilia-Romagna,frumento duro,4126632
+34194,ITE1,Toscana,frumento duro,2098021
+34254,ITE2,Umbria,frumento duro,1086000
+34272,ITE3,Marche,frumento duro,4557301
+34302,ITE4,Lazio,frumento duro,1016300
+34344,ITF1,Abruzzo,frumento duro,1197740
+34374,ITF2,Molise,frumento duro,2070000
+34392,ITF3,Campania,frumento duro,1848952
+34428,ITF4,Puglia,frumento duro,9482500
+34464,ITF5,Basilicata,frumento duro,3276272
+34482,ITF6,Calabria,frumento duro,641184
+34518,ITG1,Sicilia,frumento duro,7506612
+34578,ITG2,Sardegna,frumento duro,575398
+34638,ITC1,Piemonte,melanzana in serra,7001
+34662,ITC3,Liguria,melanzana in serra,390
+34674,ITC4,Lombardia,melanzana in serra,6103
+34702,ITD3,Veneto,melanzana in serra,91960
+34732,ITD4,Friuli-Venezia Giulia,melanzana in serra,1631
+34782,ITG1,Sicilia,melanzana in serra,316392
+34802,ITG2,Sardegna,melanzana in serra,3958
+34878,ITF6,Calabria,fagiolo ,11082
+34891,ITF3,Campania,bietola da costa in piena aria,31100
+34943,ITD5,Emilia-Romagna,riso,418554
+34954,ITD5,Emilia-Romagna,spinacio in serra,200
+34964,ITF6,Calabria,altri cereali,99004
+35064,ITE2,Umbria,patata comune ,60000
+35122,ITF3,Campania,lattuga in serra,455882
+35143,ITE2,Umbria,melanzana in piena aria,1240
+35248,ITF4,Puglia,nocciola,190
+35284,ITC4,Lombardia,nocciola,509
+35297,ITG1,Sicilia,clementine,469030
+35299,ITE3,Marche,batata o patata dolce ,4165
+35322,ITE1,Toscana,peperone in piena aria,12544
+35351,ITD3,Veneto,pisello proteico ,2230
+35506,ITE3,Marche,girasole,833587
+35511,ITC4,Lombardia,bieta da orto in serra,98
+35556,ITC4,Lombardia,spinacio in serra,35300
+35564,ITC4,Lombardia,altri ortaggi in serra,267028
+35621,ITE3,Marche,sedano in serra,45
+35743,ITG1,Sicilia,peperone in piena aria,279420
+35755,ITC4,Lombardia,riso,6455725
+35807,ITC1,Piemonte,patata primaticcia ,922
+35900,ITG1,Sicilia,pisello in piena aria,41700
+35910,ITE4,Lazio,fagiolo ,1707
+35916,ITC1,Piemonte,asparago in piena aria,12420
+36065,ITG1,Sicilia,altri cereali,149280
+36090,ITF5,Basilicata,radicchio o cicoria in piena aria,37211
+36205,ITF2,Molise,finocchio in piena aria,270000
+36244,ITG2,Sardegna,asparago in serra,1047
+36305,ITC1,Piemonte,patata comune ,385070
+36326,ITF3,Campania,limone,249443
+36334,ITF5,Basilicata,carciofo in piena aria,52158
+36348,ITE2,Umbria,mela,20620
+36371,ITD5,Emilia-Romagna,indivia (riccia e scarola) in piena aria,83630
+36381,ITE1,Toscana,fagiolo ,6138
+36387,ITC2,Valle d'Aosta / Vallée d'Aoste,fragola in piena aria,350
+36422,ITF3,Campania,carciofo in piena aria,157567
+36528,ITE3,Marche,mais,367404
+36581,ITD3,Veneto,sedano in serra,13545
+36643,ITE3,Marche,peperone in piena aria,11851
+36668,ITF1,Abruzzo,fragola in piena aria,12400
+36681,ITE4,Lazio,clementine,3450
+36766,ITD4,Friuli-Venezia Giulia,nocciola,86
+36908,ITF3,Campania,aglio e scalogno in piena aria,85834
+36961,ITF1,Abruzzo,indivia (riccia e scarola) in piena aria,405430
+36977,ITE3,Marche,pisello proteico ,35813
+36983,ITF6,Calabria,pisello in piena aria,20232
+36996,ITF3,Campania,mandarino,71265
+37015,ITD5,Emilia-Romagna,canapa,104
+37042,ITC1,Piemonte,ravanello in serra,887
+37131,ITE2,Umbria,lattuga in piena aria,2760
+37217,ITF4,Puglia,fava da granella ,97480
+37261,ITF6,Calabria,fagiolo e fagiolino in piena aria,101286
+37263,ITF6,Calabria,sorgo,15969
+37303,ITC1,Piemonte,finocchio in piena aria,17154
+37342,ITD3,Veneto,batata o patata dolce ,39107
+37361,ITE2,Umbria,broccoletto di rapa in piena aria,525
+37385,ITE1,Toscana,barbabietola da orto,28930
+37391,ITC1,Piemonte,fagiolino in serra,751
+37527,ITG2,Sardegna,fava da granella ,62324
+37533,ITF5,Basilicata,albicocca,431363
+37537,ITE1,Toscana,clementine,400
+37558,ITC1,Piemonte,melanzana in piena aria,16690
+37580,ITD3,Veneto,mais,13685180
+37646,ITC4,Lombardia,asparago in serra,1800
+37674,ITE4,Lazio,altri cereali,13720
+37754,ITG1,Sicilia,fagiolo ,1810
+37799,ITD3,Veneto,girasole,118778
+37852,ITE4,Lazio,pisello in piena aria,2730
+37864,ITF5,Basilicata,cetriolo da mensa in serra,2247
+37934,ITD5,Emilia-Romagna,fragola in piena aria,69770
+37950,ITC1,Piemonte,prezzemolo in piena aria,198
+37956,ITF1,Abruzzo,riso,183
+37995,ITC3,Liguria,valeriana in serra,1350
+38001,ITF3,Campania,cetriolo da mensa in serra,25800
+38044,ITC1,Piemonte,fava fresca in piena aria,2230
+38061,ITF6,Calabria,pera,44139
+38065,ITE2,Umbria,ciliegia,1240
+38089,ITE4,Lazio,peperone in piena aria,126420
+38091,ITF2,Molise,mandorla,525
+38162,ITG1,Sicilia,fagiolo e fagiolino in piena aria,50570
+38287,ITE1,Toscana,altri cereali,184589
+38329,ITD5,Emilia-Romagna,altri ortaggi in serra,56506
+38408,ITF3,Campania,arancia,172804
+38419,ITF1,Abruzzo,fava da granella ,141387
+38486,ITF6,Calabria,sedano in serra,177
+38508,ITD5,Emilia-Romagna,asparago in serra,25
+38510,ITE4,Lazio,albicocca,9650
+38584,ITF5,Basilicata,melanzana in piena aria,71797
+38661,ITF3,Campania,melanzana in piena aria,577955
+38692,ITF5,Basilicata,lattuga in serra,718
+38716,ITE4,Lazio,girasole,74440
+38748,ITD3,Veneto,lattuga in serra,329470
+38754,ITF3,Campania,asparago in piena aria,1640
+38798,ITF3,Campania,patata comune ,1504582
+38869,ITF6,Calabria,girasole,1277
+38895,ITF5,Basilicata,patata comune ,19500
+38904,ITE4,Lazio,basilico in serra,2020
+38962,ITE3,Marche,aglio e scalogno in piena aria,1866
+39016,ITD3,Veneto,bietola da costa in piena aria,10080
+39053,ITG1,Sicilia,mais,13500
+39073,ITC1,Piemonte,lino,2360
+39075,ITC1,Piemonte,colza,21958
+39081,ITF6,Calabria,batata o patata dolce ,340
+39171,ITE1,Toscana,pisello proteico ,4911
+39207,ITF5,Basilicata,bietola da costa in piena aria,21755
+39289,ITD3,Veneto,bietola in serra,7812
+39313,ITE4,Lazio,sedano in serra,34840
+39348,ITE1,Toscana,batata o patata dolce ,1300
+39420,ITD3,Veneto,carciofo in piena aria,1728
+39442,ITF1,Abruzzo,nocciola,1050
+39465,ITC3,Liguria,fagiolo e fagiolino in piena aria,1030
+39483,ITE3,Marche,basilico in serra,17
+39487,ITE2,Umbria,colza,7440
+39497,ITE3,Marche,albicocca,21066
+39567,ITF4,Puglia,pera,59390
+39727,ITF2,Molise,canapa,1800
+39772,ITF5,Basilicata,limone,12100
+39796,ITE2,Umbria,mandorla,50
+39800,ITD3,Veneto,radicchio o cicoria in piena aria,1329930
+39818,ITF5,Basilicata,mandarino,59195
+39883,ITE1,Toscana,radicchio o cicoria in piena aria,24334
+39995,ITE3,Marche,cetriolo da mensa in serra,98
+40035,ITF6,Calabria,clementine,3426040
+40041,ITE4,Lazio,pisello proteico ,1080
+40078,ITC4,Lombardia,cocomero in serra,52075
+40080,ITE2,Umbria,fragola in serra,700
+40098,ITE4,Lazio,batata o patata dolce ,16500
+40135,ITF3,Campania,mela,690350
+40157,ITF4,Puglia,cocomero in serra,7780
+40166,ITD5,Emilia-Romagna,bieta da orto in serra,1260
+40191,ITG2,Sardegna,fagiolo e fagiolino in piena aria,9282
+40207,ITD3,Veneto,aglio e scalogno in piena aria,41635
+40242,ITE4,Lazio,mais,1282500
+40255,ITF5,Basilicata,mela,82098
+40329,ITE3,Marche,lattuga in serra,4637
+40338,ITC3,Liguria,pera,1100
+40349,ITD4,Friuli-Venezia Giulia,sorgo,34209
+40361,ITE3,Marche,bietola da costa in piena aria,17168
+40380,ITG2,Sardegna,sorgo,90
+40388,ITE2,Umbria,fava fresca in piena aria,616
+40406,ITC4,Lombardia,valeriana in serra,78000
+40427,ITF3,Campania,ciliegia,276603
+40442,ITG1,Sicilia,basilico in serra,240
+40452,ITC1,Piemonte,canapa,8410
+40462,ITE1,Toscana,sedano in serra,474
+40480,ITD5,Emilia-Romagna,fava da granella ,71277
+40524,ITF3,Campania,fava fresca in piena aria,56310
+40526,ITF5,Basilicata,ciliegia,10200
+40632,ITF2,Molise,fragola in piena aria,16800
+40698,ITF3,Campania,broccoletto di rapa in piena aria,494922
+40717,ITF2,Molise,nocciola,2550
+40723,ITF5,Basilicata,broccoletto di rapa in piena aria,76218
+40782,ITC4,Lombardia,fava da granella ,2593
+40812,ITF6,Calabria,peperone in piena aria,228180
+40919,ITF5,Basilicata,lattuga in piena aria,122870
+40951,ITF3,Campania,lattuga in piena aria,316243
+40957,ITF2,Molise,indivia (riccia e scarola) in piena aria,29200
+40992,ITD4,Friuli-Venezia Giulia,pera,33621
+41035,ITF2,Molise,altri ortaggi in serra,300
+41059,ITG2,Sardegna,pisello in piena aria,9930
+41061,ITF3,Campania,patata primaticcia ,661763
+41238,ITG2,Sardegna,pera,9367
+41260,ITD5,Emilia-Romagna,valeriana in serra,150
+41268,ITE3,Marche,radicchio o cicoria in piena aria,122204
+41311,ITD3,Veneto,albicocca,42525
+41344,ITE1,Toscana,mais,947867
+41429,ITE1,Toscana,girasole,398713
+41458,ITC1,Piemonte,fragola in serra,14715
+41473,ITD3,Veneto,cetriolo da mensa in serra,60340
+41524,ITG1,Sicilia,pisello proteico ,470
+41526,ITG2,Sardegna,cocomero in serra,15951
+41606,ITE3,Marche,carciofo in piena aria,4184
+41648,ITD3,Veneto,basilico in serra,58408
+41674,ITD5,Emilia-Romagna,nocciola,510
+41771,ITE2,Umbria,finocchio in piena aria,1810
+41829,ITE1,Toscana,basilico in serra,1977
+41852,ITG1,Sicilia,sedano in serra,855
+41937,ITF5,Basilicata,arancia,749265
+41942,ITE1,Toscana,albicocca,23297
+41969,ITC3,Liguria,pisello in piena aria,180
+41981,ITE3,Marche,bietola in serra,124
+42034,ITC1,Piemonte,bietola in serra,1480
+42048,ITF1,Abruzzo,broccoletto di rapa in piena aria,102320
+42123,ITC1,Piemonte,albicocca,96110
+42125,ITC4,Lombardia,melanzana in piena aria,5664
+42214,ITF2,Molise,ciliegia,4000
+42244,ITF1,Abruzzo,lattuga in piena aria,172460
+42254,ITG1,Sicilia,fava da granella ,92550
+42258,ITC4,Lombardia,asparago in piena aria,1190
+42301,ITF2,Molise,aglio e scalogno in piena aria,1620
+42399,ITF5,Basilicata,pisello in piena aria,2957
+42421,ITE2,Umbria,pisello proteico ,800
+42446,ITD4,Friuli-Venezia Giulia,colza,16534
+42452,ITF5,Basilicata,fagiolo e fagiolino in piena aria,15006
+42501,ITC1,Piemonte,radicchio o cicoria in piena aria,8010
+42511,ITF1,Abruzzo,mela,138162
+42553,ITC1,Piemonte,basilico in serra,1640
+42623,ITG2,Sardegna,colza,79
+42632,ITF5,Basilicata,sorgo,6942
+42733,ITF1,Abruzzo,fava fresca in piena aria,9187
+42741,ITF3,Campania,peperone in piena aria,224930
+42769,ITE1,Toscana,asparago in serra,69
+42826,ITF1,Abruzzo,ciliegia,15505
+42852,ITE4,Lazio,valeriana in serra,4100
+42904,ITF4,Puglia,colza,3100
+42969,ITC1,Piemonte,aglio e scalogno in piena aria,16609
+42975,ITF6,Calabria,asparago in serra,554
+43147,ITC2,Valle d'Aosta / Vallée d'Aoste,mela,64000
+43158,ITD5,Emilia-Romagna,ciliegia,114141
+43224,ITD5,Emilia-Romagna,asparago in piena aria,47012
+43226,ITE1,Toscana,bieta da orto in serra,1156
+43281,ITF1,Abruzzo,arancia,142
+43300,ITD5,Emilia-Romagna,patata comune ,2133592
+43433,ITF5,Basilicata,pera,68764
+43489,ITD3,Veneto,pera,724970
+43510,ITC4,Lombardia,fagiolino in serra,4699
+43527,ITD3,Veneto,cocomero in serra,27799
+43531,ITF4,Puglia,fagiolino in serra,4770
+43607,ITC1,Piemonte,pisello proteico ,18235
+43685,ITE4,Lazio,asparago in serra,9780
+43737,ITG1,Sicilia,nocciola,91720
+43741,ITC4,Lombardia,ravanello in serra,793
+43830,ITF3,Campania,altri cereali,10550
+43837,ITC1,Piemonte,mais,13684970
+43847,ITF5,Basilicata,fagiolo ,1970
+43888,ITF5,Basilicata,altri cereali,50108
+43963,ITE4,Lazio,bieta da orto in serra,132
+44050,ITG2,Sardegna,fagiolino in serra,717
+44071,ITE4,Lazio,nocciola,453300
+44084,ITG1,Sicilia,asparago in serra,6450
+44136,ITF3,Campania,fagiolo ,12933
+44138,ITG2,Sardegna,finocchio in piena aria,250316
+44169,ITF4,Puglia,fava fresca in piena aria,24480
+44186,ITD4,Friuli-Venezia Giulia,finocchio in piena aria,4044
+44201,ITC4,Lombardia,fava fresca in piena aria,14072
+44364,ITF6,Calabria,nocciola,7330
+44412,ITF1,Abruzzo,melanzana in piena aria,37242
+44426,ITC3,Liguria,fragola in serra,1240
+44428,ITC4,Lombardia,prezzemolo in piena aria,2440
+44431,ITE1,Toscana,fava da granella ,282135
+44433,ITE2,Umbria,girasole,192000
+44461,ITF6,Calabria,altri ortaggi in serra,6580
+44521,ITF4,Puglia,prezzemolo in piena aria,220530
+44535,ITF1,Abruzzo,asparago in piena aria,1125
+44601,ITD5,Emilia-Romagna,mela,2002655
+44632,ITF4,Puglia,patata primaticcia ,301110
+44641,ITF6,Calabria,spinacio in serra,200
+44718,ITD5,Emilia-Romagna,fava fresca in piena aria,2712
+44773,ITE3,Marche,pera,7900
+44781,ITF1,Abruzzo,patata comune ,1691854
+44858,ITF6,Calabria,bieta da orto in serra,25
+44864,ITF4,Puglia,lino,100
+44950,ITD5,Emilia-Romagna,melanzana in piena aria,34240
+44953,ITF3,Campania,barbabietola da orto,3000
+45003,ITD4,Friuli-Venezia Giulia,prezzemolo in piena aria,200
+45100,ITE1,Toscana,nocciola,3048
+45123,ITF6,Calabria,riso,32338
+45175,ITC4,Lombardia,finocchio in piena aria,880
+45205,ITF1,Abruzzo,patata primaticcia ,12679
+45233,ITE4,Lazio,fava da granella ,26160
+45259,ITD5,Emilia-Romagna,lattuga in piena aria,459010
+45312,ITF2,Molise,limone,180
+45321,ITE3,Marche,cocomero in serra,74
+45325,ITG2,Sardegna,fragola in serra,7545
+45357,ITG2,Sardegna,mandorla,42848
+45372,ITC2,Valle d'Aosta / Vallée d'Aoste,patata comune ,31000
+45416,ITE1,Toscana,valeriana in serra,885
+45463,ITF2,Molise,carciofo in piena aria,18000
+45526,ITF4,Puglia,finocchio in piena aria,1404170
+45545,ITF2,Molise,mela,46000
+45547,ITF3,Campania,clementine,48718
+45564,ITE2,Umbria,mais,1070000
+45627,ITE1,Toscana,cocomero in serra,1933
+45643,ITE2,Umbria,lattuga in serra,500
+45660,ITD5,Emilia-Romagna,lino,780
+45720,ITE2,Umbria,bietola da costa in piena aria,6200
+45747,ITF1,Abruzzo,prezzemolo in piena aria,760
+45780,ITC3,Liguria,altri ortaggi in serra,6000
+45793,ITD3,Veneto,barbabietola da zucchero,6095665
+45802,ITC3,Liguria,fragola in piena aria,100
+45920,ITE3,Marche,fagiolo ,409
+45922,ITE3,Marche,altri cereali,102399
+45960,ITD5,Emilia-Romagna,colza,75848
+45965,ITG1,Sicilia,pera,502720
+45969,ITD3,Veneto,pisello in piena aria,75175
+45979,ITF2,Molise,fava fresca in piena aria,10400
+46019,ITC3,Liguria,indivia (riccia e scarola) in piena aria,2220
+46072,ITD4,Friuli-Venezia Giulia,riso,810
+46077,ITF6,Calabria,fava da granella ,17293
+46085,ITF3,Campania,pisello proteico ,120
+46089,ITG2,Sardegna,riso,259334
+46112,ITF4,Puglia,fragola in piena aria,2690
+46159,ITC4,Lombardia,fragola in piena aria,3967
+46164,ITD3,Veneto,peperone in piena aria,9720
+46191,ITF2,Molise,lattuga in piena aria,27800
+46219,ITD3,Veneto,fagiolo e fagiolino in piena aria,57185
+46225,ITF2,Molise,broccoletto di rapa in piena aria,7000
+46241,ITF1,Abruzzo,fragola in serra,1600
+46324,ITF4,Puglia,altri ortaggi in serra,5600
+46326,ITF5,Basilicata,peperone in piena aria,106139
+46362,ITC4,Lombardia,indivia (riccia e scarola) in piena aria,69636
+46367,ITE4,Lazio,cocomero in serra,510380
+46369,ITF1,Abruzzo,mandorla,282
+46401,ITF4,Puglia,indivia (riccia e scarola) in piena aria,652580
+46416,ITF2,Molise,patata primaticcia ,17500
+46436,ITC1,Piemonte,carota in serra,870
+46526,ITC4,Lombardia,colza,117262
+46532,ITC1,Piemonte,ciliegia,21811
+46620,ITF3,Campania,bietola in serra,1900
+46704,ITE2,Umbria,radicchio o cicoria in piena aria,2095
+46721,ITF3,Campania,radicchio o cicoria in piena aria,56662
+46888,ITD4,Friuli-Venezia Giulia,indivia (riccia e scarola) in piena aria,153
+46908,ITF1,Abruzzo,finocchio in piena aria,646951
+46918,ITC1,Piemonte,broccoletto di rapa in piena aria,6366
+46922,ITG2,Sardegna,indivia (riccia e scarola) in piena aria,41434
+46959,ITE1,Toscana,fagiolo e fagiolino in piena aria,16585
+47035,ITE2,Umbria,carciofo in piena aria,230
+47164,ITE4,Lazio,fagiolo e fagiolino in piena aria,29350
+47170,ITC4,Lombardia,mandorla,26
+47274,ITC1,Piemonte,bietola da costa in piena aria,10628
+47355,ITE1,Toscana,pera,91951
+47424,ITD3,Veneto,fagiolo ,2739
+47482,ITE3,Marche,pisello in piena aria,159776
+47492,ITF2,Molise,arancia,360
+47542,ITC4,Lombardia,fragola in serra,10765
+47547,ITD4,Friuli-Venezia Giulia,canapa,620
+47602,ITD3,Veneto,altri cereali,16671
+47614,ITG2,Sardegna,nocciola,3697
+47626,ITF4,Puglia,fragola in serra,790
+47667,ITF3,Campania,sedano in serra,4100
+47700,ITE4,Lazio,sorgo,6850
+47733,ITF4,Puglia,mandorla,267500
+47741,ITC1,Piemonte,cetriolo da mensa in serra,3310
+47766,ITF2,Molise,melanzana in piena aria,6000
+47851,ITF2,Molise,asparago in piena aria,200
+47861,ITF2,Molise,patata comune ,29200
+47926,ITF5,Basilicata,girasole,560
+47949,ITD5,Emilia-Romagna,finocchio in piena aria,47560
+47989,ITD5,Emilia-Romagna,fagiolino in serra,624
+48008,ITD3,Veneto,barbabietola da orto,1599
+48029,ITG1,Sicilia,cocomero in serra,167600
+48045,ITF3,Campania,girasole,4100
+48063,ITE4,Lazio,pera,26330
+48098,ITD5,Emilia-Romagna,ravanello in serra,1320
+48127,ITE3,Marche,fagiolo e fagiolino in piena aria,84109
+48238,ITE3,Marche,sorgo,85092
+48381,ITF5,Basilicata,mais,38759
+48396,ITF3,Campania,albicocca,547970
+48398,ITD5,Emilia-Romagna,fragola in serra,16598
+48479,ITF3,Campania,mais,1025250
+48483,ITG2,Sardegna,fragola in piena aria,2270
+48488,ITD4,Friuli-Venezia Giulia,fragola in piena aria,1036
+48495,ITC3,Liguria,nocciola,1006
+48497,ITC4,Lombardia,lino,1360
+48531,ITC1,Piemonte,mela,1902182
+48583,ITD3,Veneto,sorgo,194500
+48611,ITF1,Abruzzo,fagiolino in serra,1972
+48664,ITE2,Umbria,albicocca,1700
+48727,ITF3,Campania,basilico in serra,9280
+48747,ITE1,Toscana,sorgo,129305
+48792,ITC1,Piemonte,lattuga in serra,20074
+48828,ITC4,Lombardia,canapa,7824
+48925,ITF4,Puglia,canapa,800
+48989,ITE1,Toscana,pisello in piena aria,6141
+48995,ITF1,Abruzzo,colza,100
+49004,ITE2,Umbria,cetriolo da mensa in serra,1400
+49044,ITF6,Calabria,cocomero in serra,3135
+49050,ITF5,Basilicata,clementine,245560
+49143,ITC1,Piemonte,lattuga in piena aria,46203
+49199,ITD5,Emilia-Romagna,prezzemolo in piena aria,23514
+49251,ITF2,Molise,altri cereali,1600
+49313,ITF6,Calabria,patata primaticcia ,70020
+49329,ITG2,Sardegna,mandarino,112697
+49334,ITG2,Sardegna,limone,44488
+49464,ITF6,Calabria,fava fresca in piena aria,36267
+49475,ITC3,Liguria,carota in serra,345
+49516,ITD5,Emilia-Romagna,radicchio o cicoria in piena aria,226126
+49571,ITD5,Emilia-Romagna,basilico in serra,564
+49595,ITD5,Emilia-Romagna,albicocca,627112
+49629,ITF4,Puglia,lattuga in serra,7830
+49645,ITF2,Molise,fagiolo ,1970
+49670,ITC2,Valle d'Aosta / Vallée d'Aoste,mais,1400
+49688,ITD3,Veneto,indivia (riccia e scarola) in piena aria,8387
+49705,ITC4,Lombardia,pisello proteico ,155379
+49709,ITD4,Friuli-Venezia Giulia,albicocca,1311
+49715,ITG1,Sicilia,mandorla,473455
+49744,ITF1,Abruzzo,mais,610296
+49746,ITF3,Campania,nocciola,386763
+49766,ITG1,Sicilia,fagiolino in serra,73585
+49847,ITG1,Sicilia,finocchio in piena aria,346600
+49861,ITF5,Basilicata,nocciola,1108
+49881,ITD3,Veneto,fragola in piena aria,14765
+49948,ITF3,Campania,bieta da orto in serra,1460
+49987,ITE4,Lazio,lino,900
+49989,ITE4,Lazio,colza,4920
+50010,ITD5,Emilia-Romagna,bietola in serra,3938
+50026,ITF4,Puglia,bietola da costa in piena aria,134830
+50055,ITE2,Umbria,sorgo,25510
+50057,ITG2,Sardegna,broccoletto di rapa in piena aria,2942
+50085,ITD3,Veneto,spinacio in serra,14578
+50087,ITD4,Friuli-Venezia Giulia,radicchio o cicoria in piena aria,4283
+50089,ITD4,Friuli-Venezia Giulia,aglio e scalogno in piena aria,483
+50106,ITC3,Liguria,lattuga in serra,6090
+50110,ITG1,Sicilia,fragola in serra,26536
+50117,ITG2,Sardegna,aglio e scalogno in piena aria,7725
+50125,ITC3,Liguria,mandarino,200
+50127,ITD4,Friuli-Venezia Giulia,basilico in serra,577
+50132,ITC3,Liguria,limone,2080
+50159,ITG1,Sicilia,fava fresca in piena aria,166617
+50161,ITC1,Piemonte,barbabietola da zucchero,325960
+50200,ITF1,Abruzzo,girasole,81881
+50218,ITE1,Toscana,fagiolino in serra,5530
+50231,ITE2,Umbria,pera,6260
+50268,ITE4,Lazio,patata primaticcia ,13930
+50284,ITE3,Marche,indivia (riccia e scarola) in piena aria,156684
+50289,ITC4,Lombardia,bietola in serra,4060
+50376,ITC4,Lombardia,radicchio o cicoria in piena aria,50966
+50398,ITE1,Toscana,ravanello in serra,482
+50559,ITC3,Liguria,bietola da costa in piena aria,12580
+50561,ITD3,Veneto,riso,198761
+50566,ITF4,Puglia,radicchio o cicoria in piena aria,282730
+50625,ITF1,Abruzzo,albicocca,37900
+50664,ITD5,Emilia-Romagna,pisello proteico ,45770
+50681,ITC1,Piemonte,fagiolo e fagiolino in piena aria,73341
+50829,ITD5,Emilia-Romagna,sedano in serra,3280
+50832,ITF4,Puglia,carciofo in piena aria,1242370
+50887,ITE3,Marche,canapa,2506
+50889,ITG2,Sardegna,ciliegia,14650
+50893,ITC3,Liguria,broccoletto di rapa in piena aria,3500
+50911,ITF6,Calabria,finocchio in piena aria,1191070
+50919,ITF6,Calabria,arancia,3066675
+50921,ITG1,Sicilia,prezzemolo in piena aria,390
+50941,ITF2,Molise,clementine,180
+50947,ITG1,Sicilia,cotone,40
+50958,ITG2,Sardegna,cetriolo da mensa in serra,7863
+50978,ITE1,Toscana,colza,25856
+51029,ITE1,Toscana,mandorla,656
+51047,ITD4,Friuli-Venezia Giulia,cetriolo da mensa in serra,17802
+51208,ITF6,Calabria,melanzana in piena aria,218765
+51242,ITF3,Campania,valeriana in serra,17790
+51287,ITD3,Veneto,fragola in serra,123610
+51320,ITC1,Piemonte,sorgo,120299
+51322,ITF6,Calabria,asparago in piena aria,2100
+51337,ITE1,Toscana,patata primaticcia ,9005
+51394,ITE1,Toscana,prezzemolo in piena aria,8020
+51402,ITC4,Lombardia,aglio e scalogno in piena aria,2743
+51425,ITF4,Puglia,aglio e scalogno in piena aria,23460
+51451,ITG2,Sardegna,bietola da costa in piena aria,8150
+51461,ITC3,Liguria,lattuga in piena aria,33062
+51466,ITD3,Veneto,mandorla,6
+51500,ITC1,Piemonte,pera,394790
+51512,ITE1,Toscana,fava fresca in piena aria,17415
+51522,ITE1,Toscana,fragola in serra,7165
+51524,ITE4,Lazio,ravanello in serra,117000
+51559,ITC1,Piemonte,pisello in piena aria,24602
+51587,ITC3,Liguria,ciliegia,1356
+51603,ITC3,Liguria,mela,4400
+51653,ITF3,Campania,fava da granella ,48102
+51702,ITC3,Liguria,carciofo in piena aria,9280
+51819,ITD5,Emilia-Romagna,mais,5879240
+51829,ITE4,Lazio,finocchio in piena aria,157400
+51892,ITE4,Lazio,fagiolino in serra,21940
+51907,ITF2,Molise,peperone in piena aria,4500
+51941,ITF4,Puglia,albicocca,180050
+51960,ITE3,Marche,spinacio in serra,120
+51974,ITE3,Marche,altri ortaggi in serra,215
+52002,ITC4,Lombardia,albicocca,7799
+52050,ITE1,Toscana,finocchio in piena aria,24021
+52058,ITC4,Lombardia,mais,17080029
+52097,ITF1,Abruzzo,pisello proteico ,3220
+52114,ITF3,Campania,asparago in serra,101500
+52199,ITG2,Sardegna,lattuga in piena aria,160812
+52201,ITE4,Lazio,fragola in serra,62700
+52316,ITE3,Marche,fragola in piena aria,6748
+52335,ITC4,Lombardia,basilico in serra,6836
+52356,ITF4,Puglia,basilico in serra,3515
+52363,ITE4,Lazio,mandorla,185
+52398,ITE1,Toscana,lino,10278
+52432,ITF4,Puglia,cetriolo da mensa in serra,23940
+52443,ITG2,Sardegna,mela,34206
+52449,ITF1,Abruzzo,sedano in serra,125
+52482,ITE3,Marche,mandorla,178
+52515,ITD5,Emilia-Romagna,girasole,296860
+52540,ITE4,Lazio,fava fresca in piena aria,25696
+52546,ITE4,Lazio,prezzemolo in piena aria,455
+52572,ITD3,Veneto,canapa,11770
+52596,ITG2,Sardegna,carciofo in piena aria,488520
+52637,ITG1,Sicilia,patata primaticcia ,1346350
+52677,ITF6,Calabria,fagiolino in serra,9260
+52722,ITG2,Sardegna,lattuga in serra,17390
+52764,ITF1,Abruzzo,radicchio o cicoria in piena aria,376480
+52800,ITE3,Marche,fragola in serra,299
+52863,ITE2,Umbria,peperone in piena aria,25150
+52937,ITC4,Lombardia,bietola da costa in piena aria,16915
+52950,ITF4,Puglia,melanzana in piena aria,662660
+53070,ITF6,Calabria,mandorla,7982
+53086,ITF6,Calabria,fragola in serra,72442
+53093,ITF4,Puglia,asparago in piena aria,124800
+53146,ITC4,Lombardia,lattuga in serra,116420
+53150,ITF3,Campania,pisello in piena aria,40535
+53205,ITC1,Piemonte,girasole,109798
+53273,ITC4,Lombardia,patata comune ,148861
+53277,ITE1,Toscana,spinacio in serra,1065
+53286,ITE1,Toscana,altri ortaggi in serra,1750
+53302,ITC3,Liguria,melanzana in piena aria,2820
+53316,ITG2,Sardegna,patata primaticcia ,346850
+53342,ITF4,Puglia,patata comune ,237840
+53366,ITF3,Campania,fagiolo e fagiolino in piena aria,449165
+53368,ITF3,Campania,sorgo,3175
+53379,ITD3,Veneto,nocciola,6069
+53420,ITC3,Liguria,asparago in piena aria,5700
+53433,ITF2,Molise,girasole,28280
+53442,ITE1,Toscana,indivia (riccia e scarola) in piena aria,9726
+53491,ITC1,Piemonte,altri cereali,33171
+53511,ITE2,Umbria,fagiolo e fagiolino in piena aria,5180
+53648,ITD3,Veneto,asparago in serra,4751
+53677,ITF1,Abruzzo,cetriolo da mensa in serra,1300
+53729,ITE1,Toscana,fragola in piena aria,10277
+53753,ITC1,Piemonte,sedano in serra,4801
+53780,ITD5,Emilia-Romagna,bietola da costa in piena aria,30146
+53858,ITC3,Liguria,patata comune ,36300
+53888,ITF2,Molise,mais,70000
+53915,ITC1,Piemonte,fagiolo ,37505
+53978,ITE3,Marche,asparago in serra,29
+54006,ITF3,Campania,pera,137345
+54016,ITD5,Emilia-Romagna,aglio e scalogno in piena aria,49645
+54038,ITC3,Liguria,fagiolino in serra,250
+54111,ITF2,Molise,albicocca,10800
+54195,ITE4,Lazio,indivia (riccia e scarola) in piena aria,51290
+54223,ITC3,Liguria,patata primaticcia ,39800
+54301,ITF4,Puglia,limone,35400
+54333,ITE1,Toscana,riso,21478
+54375,ITC1,Piemonte,barbabietola da orto,24856
+54392,ITD4,Friuli-Venezia Giulia,asparago in piena aria,6666
+54466,ITC4,Lombardia,carciofo in piena aria,320
+54474,ITG2,Sardegna,asparago in piena aria,15915
+54552,ITD4,Friuli-Venezia Giulia,ciliegia,1315
+54558,ITF3,Campania,cocomero in serra,200103
+54604,ITC4,Lombardia,mela,456677
+54662,ITF4,Puglia,mela,43090
+54708,ITD4,Friuli-Venezia Giulia,patata comune ,88941
+54747,ITG2,Sardegna,patata comune ,123200
+54755,ITC3,Liguria,prezzemolo in piena aria,1200
+54806,ITG1,Sicilia,indivia (riccia e scarola) in piena aria,85650
+54863,ITE4,Lazio,canapa,940
+54935,ITE2,Umbria,altri cereali,156995
+55009,ITG1,Sicilia,fragola in piena aria,29065
+55047,ITG2,Sardegna,arancia,633591
+55053,ITF4,Puglia,mandarino,34200
+55077,ITF4,Puglia,ciliegia,423625
+55084,ITC4,Lombardia,ciliegia,10179
+55151,ITF2,Molise,pisello proteico ,4000
+55179,ITF4,Puglia,broccoletto di rapa in piena aria,552147
+55191,ITD3,Veneto,fava da granella ,115
+55195,ITE3,Marche,bieta da orto in serra,90
+55208,ITE2,Umbria,fagiolo ,3000
+55233,ITD5,Emilia-Romagna,cetriolo da mensa in serra,37933
+55293,ITF6,Calabria,fragola in piena aria,24465
+55375,ITC4,Lombardia,lattuga in piena aria,184931
+55397,ITF4,Puglia,lattuga in piena aria,968970
+55401,ITC3,Liguria,fava fresca in piena aria,300
+55433,ITF1,Abruzzo,lattuga in serra,1632
+55441,ITD5,Emilia-Romagna,carciofo in piena aria,3045
+55506,ITE3,Marche,nocciola,290
+55512,ITF6,Calabria,indivia (riccia e scarola) in piena aria,22340
+55632,ITC4,Lombardia,carota in serra,114
+55656,ITG2,Sardegna,prezzemolo in piena aria,762
+55726,ITD4,Friuli-Venezia Giulia,lattuga in piena aria,2278
+55733,ITF1,Abruzzo,carciofo in piena aria,60116
+55766,ITF2,Molise,radicchio o cicoria in piena aria,27800
+55774,ITD5,Emilia-Romagna,lattuga in serra,26630
+55858,ITC3,Liguria,finocchio in piena aria,2400
+55866,ITC3,Liguria,arancia,1590
+55928,ITE1,Toscana,canapa,11536
+55930,ITE3,Marche,fava da granella ,108604
+55943,ITF1,Abruzzo,bietola da costa in piena aria,96605
+56036,ITD4,Friuli-Venezia Giulia,mela,407935
+56076,ITC4,Lombardia,cetriolo da mensa in serra,10876
+56113,ITD4,Friuli-Venezia Giulia,melanzana in piena aria,4720
+56141,ITE4,Lazio,altri ortaggi in serra,202500
+56170,ITG2,Sardegna,melanzana in piena aria,51001
+56194,ITC1,Piemonte,peperone in piena aria,61366
+56247,ITG2,Sardegna,fava fresca in piena aria,92978
+56265,ITG1,Sicilia,riso,1433
+56273,ITE4,Lazio,fragola in piena aria,52885
+56323,ITD3,Veneto,valeriana in serra,26947
+56337,ITE4,Lazio,spinacio in serra,940
+56375,ITF1,Abruzzo,aglio e scalogno in piena aria,35112
+56396,ITF4,Puglia,arancia,1074240
+56408,ITF6,Calabria,aglio e scalogno in piena aria,6653
+56415,ITD3,Veneto,melanzana in piena aria,18660
+56488,ITE4,Lazio,bietola in serra,780
+56523,ITF1,Abruzzo,pera,30350
+56533,ITD3,Veneto,asparago in piena aria,90455
+56670,ITF4,Puglia,pisello in piena aria,56830
+56711,ITF5,Basilicata,asparago in piena aria,3875
+56733,ITC4,Lombardia,pisello in piena aria,19826
+56784,ITC1,Piemonte,riso,7733797
+56903,ITE3,Marche,lattuga in piena aria,60166
+56914,ITF4,Puglia,fagiolo e fagiolino in piena aria,74265
+56946,ITG2,Sardegna,fagiolo ,3926
+56951,ITC4,Lombardia,fagiolo e fagiolino in piena aria,68300
+56959,ITC2,Valle d'Aosta / Vallée d'Aoste,pera,2300
+56975,ITE4,Lazio,radicchio o cicoria in piena aria,125230
+56981,ITD5,Emilia-Romagna,cocomero in serra,5540
+57001,ITD4,Friuli-Venezia Giulia,altri cereali,6191
+57020,ITC4,Lombardia,sorgo,197980
+57045,ITF4,Puglia,sorgo,3800
+57057,ITD3,Veneto,patata comune ,1274138
+57065,ITF2,Molise,fava da granella ,5665
+57081,ITG1,Sicilia,cetriolo da mensa in serra,105020
+57083,ITE1,Toscana,bietola da costa in piena aria,25698
+57122,ITE1,Toscana,lattuga in serra,7286
+57162,ITD5,Emilia-Romagna,barbabietola da zucchero,11599217
+57192,ITD3,Veneto,arachide,266
+57208,ITE3,Marche,broccoletto di rapa in piena aria,10892
+57330,ITE4,Lazio,carota in serra,100700
+57353,ITG1,Sicilia,carciofo in piena aria,1596250
+57382,ITF6,Calabria,mais,191340
+57435,ITE3,Marche,carota in serra,16
+57439,ITF3,Campania,colza,110
+57443,ITE4,Lazio,aglio e scalogno in piena aria,6610
+57469,ITG1,Sicilia,lattuga in serra,13428
+57535,ITF1,Abruzzo,sorgo,35250
+57541,ITF6,Calabria,albicocca,106485
+57599,ITE1,Toscana,bietola in serra,1217
+57639,ITC4,Lombardia,pera,186889
+57650,ITE2,Umbria,fragola in piena aria,1700
+57788,ITE1,Toscana,carciofo in piena aria,28626
+57832,ITC3,Liguria,fagiolo ,900
+57847,ITC1,Piemonte,indivia (riccia e scarola) in piena aria,15129
+57871,ITF6,Calabria,basilico in serra,500
+57915,ITE3,Marche,asparago in piena aria,1522
+57919,ITF3,Campania,mandorla,200
+57929,ITD4,Friuli-Venezia Giulia,barbabietola da zucchero,137850
+57953,ITE3,Marche,ciliegia,2869
+57984,ITF3,Campania,fagiolino in serra,34807
+58021,ITE1,Toscana,aglio e scalogno in piena aria,8318
+58070,ITE4,Lazio,bietola da costa in piena aria,53600
+58091,ITD4,Friuli-Venezia Giulia,barbabietola da orto,964
+58093,ITF5,Basilicata,fagiolino in serra,270
+58112,ITG2,Sardegna,barbabietola da orto,23905
+58189,ITD5,Emilia-Romagna,fagiolo e fagiolino in piena aria,380538
+58234,ITF1,Abruzzo,pisello in piena aria,39031
+58236,ITF3,Campania,ravanello in serra,57053
+58309,ITC4,Lombardia,altri cereali,18270
+58324,ITD4,Friuli-Venezia Giulia,fagiolo e fagiolino in piena aria,9190
+58335,ITD3,Veneto,ciliegia,116570
+58399,ITF4,Puglia,fagiolo ,6885
+58401,ITF4,Puglia,altri cereali,120450
+58403,ITC3,Liguria,barbabietola da orto,250
+58413,ITF3,Campania,fragola in serra,388525
+58420,ITD3,Veneto,mela,2914690
+58428,ITE4,Lazio,carciofo in piena aria,207300
+58446,ITG1,Sicilia,radicchio o cicoria in piena aria,6850
+58470,ITC1,Piemonte,bieta da orto in serra,4208
+58546,ITG1,Sicilia,albicocca,117064
+58564,ITG2,Sardegna,clementine,73155
+58570,ITE3,Marche,patata comune ,27610
+58585,ITC1,Piemonte,nocciola,364776
+58591,ITG2,Sardegna,peperone in piena aria,84050
+58601,ITD4,Friuli-Venezia Giulia,peperone in piena aria,3121
+58665,ITE4,Lazio,cetriolo da mensa in serra,24050
+58728,ITE3,Marche,melanzana in piena aria,11051
+58736,ITD5,Emilia-Romagna,pera,4811323
+58868,ITF6,Calabria,pisello proteico ,2034
+58962,ITF3,Campania,prezzemolo in piena aria,7280
+59122,ITG1,Sicilia,bietola in serra,522
+59156,ITD3,Veneto,lattuga in piena aria,89620
+59181,ITF1,Abruzzo,fagiolo e fagiolino in piena aria,49184
+59214,ITF6,Calabria,bietola in serra,400
+59291,ITE2,Umbria,indivia (riccia e scarola) in piena aria,1420
+59314,ITC3,Liguria,peperone in piena aria,1260
+59316,ITD5,Emilia-Romagna,pisello in piena aria,343295
+59349,ITG1,Sicilia,bietola da costa in piena aria,8645
+59384,ITE1,Toscana,cetriolo da mensa in serra,2272
+59485,ITF4,Puglia,barbabietola da orto,5508
+59494,ITC3,Liguria,clementine,250
+59520,ITF6,Calabria,radicchio o cicoria in piena aria,5503
+59615,ITF3,Campania,finocchio in piena aria,593437
+59625,ITE1,Toscana,carota in serra,850
+59627,ITE4,Lazio,lattuga in serra,490300
+59637,ITD5,Emilia-Romagna,sorgo,2069318
+59727,ITC3,Liguria,altri cereali,400
+59746,ITC1,Piemonte,altri ortaggi in serra,443
+59794,ITG1,Sicilia,aglio e scalogno in piena aria,15750
+59798,ITF4,Puglia,clementine,1458400
+59803,ITC1,Piemonte,fragola in piena aria,23158
+59849,ITE3,Marche,mela,36488
+59892,ITC4,Lombardia,barbabietola da zucchero,1256093
+59957,ITC1,Piemonte,spinacio in serra,4634
+59971,ITF5,Basilicata,finocchio in piena aria,206945
+60021,ITD3,Veneto,carota in serra,2908
+60074,ITD4,Friuli-Venezia Giulia,girasole,245217
+60094,ITE3,Marche,fava fresca in piena aria,5984
+60109,ITE1,Toscana,asparago in piena aria,7807
+60122,ITC3,Liguria,basilico in serra,6295
+60135,ITF6,Calabria,ciliegia,35905
+60158,ITF6,Calabria,mela,88313
+60440,ITF6,Calabria,broccoletto di rapa in piena aria,96525
+60536,ITE1,Toscana,arachide,73
+60579,ITG2,Sardegna,albicocca,12950
+60593,ITG2,Sardegna,sedano in serra,15969
+60619,ITF3,Campania,fragola in piena aria,400
+60644,ITG1,Sicilia,ciliegia,29217
+60699,ITE4,Lazio,mandarino,680
+60725,ITF4,Puglia,pisello proteico ,7750
+60742,ITE2,Umbria,nocciola,2988
+60752,ITE3,Marche,patata primaticcia ,520
+60765,ITF4,Puglia,peperone in piena aria,529185
+60789,ITC4,Lombardia,peperone in piena aria,13280
+60802,ITC1,Piemonte,cocomero in serra,185
+60808,ITG1,Sicilia,mela,124964
+60832,ITF3,Campania,indivia (riccia e scarola) in piena aria,287772
+60834,ITF3,Campania,spinacio in serra,95650
+60848,ITE1,Toscana,patata comune ,182301
+60859,ITF3,Campania,altri ortaggi in serra,1205604
+60887,ITG2,Sardegna,radicchio o cicoria in piena aria,35248
+60889,ITC1,Piemonte,valeriana in serra,1048
+60895,ITF6,Calabria,lattuga in piena aria,120259
+60901,ITF5,Basilicata,indivia (riccia e scarola) in piena aria,90106
+60909,ITE4,Lazio,limone,5040
+60921,ITE1,Toscana,melanzana in piena aria,9423
+60993,ITE4,Lazio,ciliegia,24240
+61010,ITG2,Sardegna,basilico in serra,942
+61068,ITD3,Veneto,colza,103415
+61112,ITG1,Sicilia,arancia,9511450
+61120,ITF5,Basilicata,colza,5655
+61162,ITE4,Lazio,asparago in piena aria,37462
+61227,ITF1,Abruzzo,peperone in piena aria,113383
+61331,ITE2,Umbria,fava da granella ,43800
+61335,ITE4,Lazio,broccoletto di rapa in piena aria,100100
+61341,ITG1,Sicilia,melanzana in piena aria,359890
+61363,ITD5,Emilia-Romagna,fagiolo ,4252
+61373,ITF6,Calabria,cetriolo da mensa in serra,6682
+61420,ITC3,Liguria,aglio e scalogno in piena aria,900
+61441,ITG2,Sardegna,mais,115653
+61454,ITG1,Sicilia,lattuga in piena aria,421375
+61484,ITC3,Liguria,sedano in serra,90
+61524,ITF1,Abruzzo,altri cereali,7500
+61580,ITD4,Friuli-Venezia Giulia,mais,5642370
+61584,ITE3,Marche,finocchio in piena aria,45432
+61588,ITE4,Lazio,patata comune ,589400
+61643,ITF6,Calabria,carota in serra,300
+61708,ITE1,Toscana,limone,874
+61723,ITD3,Veneto,fagiolino in serra,4362
+61734,ITC3,Liguria,radicchio o cicoria in piena aria,611
+61789,ITC1,Piemonte,asparago in serra,381
+61942,ITE1,Toscana,ciliegia,9951
+61944,ITE3,Marche,ravanello in serra,8
+61982,ITE1,Toscana,broccoletto di rapa in piena aria,16031
+61990,ITG2,Sardegna,pisello proteico ,2470
+62001,ITE1,Toscana,lattuga in piena aria,15120
+62029,ITD4,Friuli-Venezia Giulia,pisello proteico ,22287
+62035,ITF5,Basilicata,fragola in serra,121650
+62046,ITC4,Lombardia,sedano in serra,1984
+62076,ITF5,Basilicata,mandorla,4115
+62127,ITD3,Veneto,fava fresca in piena aria,35
+62129,ITF2,Molise,pisello in piena aria,4500
+62133,ITE1,Toscana,mela,228382
+62182,ITC4,Lombardia,fagiolo ,17343
+62206,ITD5,Emilia-Romagna,barbabietola da orto,88074
+62234,ITF6,Calabria,lattuga in serra,19742
+62259,ITC3,Liguria,mais,5550
+62281,ITF4,Puglia,girasole,37165
+62325,ITF2,Molise,sorgo,10000
+62339,ITG1,Sicilia,asparago in piena aria,450
+62381,ITF6,Calabria,patata comune ,1155739
+62445,ITC4,Lombardia,girasole,65815
+62447,ITD3,Veneto,prezzemolo in piena aria,320
+62512,ITF4,Puglia,batata o patata dolce ,13385
+62554,ITE4,Lazio,arancia,11680
+62606,ITF2,Molise,fagiolo e fagiolino in piena aria,790
+62708,ITF6,Calabria,bietola da costa in piena aria,10750
+62792,ITE3,Marche,prezzemolo in piena aria,1710
+62816,ITE4,Lazio,melanzana in piena aria,110780
+62880,ITE4,Lazio,mela,64000
+62918,ITF4,Puglia,mais,63720
+62920,ITF6,Calabria,carciofo in piena aria,28440
+62949,ITC4,Lombardia,barbabietola da orto,1484
+62964,ITF2,Molise,pera,17500
+63021,ITG1,Sicilia,mandarino,593620
+63023,ITG1,Sicilia,limone,3264010
+63028,ITG1,Sicilia,patata comune ,367000
+63117,ITD5,Emilia-Romagna,altri cereali,74095
+63119,ITE3,Marche,colza,9310
+63154,ITF6,Calabria,mandarino,401280
+63166,ITE3,Marche,fagiolino in serra,146
+63204,ITF1,Abruzzo,fagiolo ,5239
+63232,ITF6,Calabria,limone,176306
+63292,ITE1,Toscana,arancia,335
+63295,ITG1,Sicilia,broccoletto di rapa in piena aria,5400
+63316,ITC3,Liguria,albicocca,8250
+63437,ITD3,Veneto,lino,156
+63469,ITD3,Veneto,finocchio in piena aria,5350
+63506,ITE4,Lazio,lattuga in piena aria,153060
+63512,ITC1,Piemonte,fava da granella ,16765
+63553,ITD5,Emilia-Romagna,peperone in piena aria,9550

@@ -1,4 +1,4 @@
-Comune,Provincia,Regione,Nome,Identificatore in OpenStreetMap,Longitudine,Latitudine
+Comune,Provincia,Regione,Nome,Osmid,Longitudine,Latitudine
 Alpignano,TORINO,Piemonte,,3114648905,7.5235347,45.1003218999999
 Beinasco,TORINO,Piemonte,,1936488049,7.602024,45.0034378
 Borgaro Torinese,TORINO,Piemonte,,1908206766,7.6577284,45.1530592
@@ -353,7 +353,6 @@ Crema,CREMONA,Lombardia,Fish e Fruit,2429425252,9.6822815,45.3601567999999
 Crema,CREMONA,Lombardia,Fruit,2457940357,9.68586099999999,45.3642527
 Persico Dosimo,CREMONA,Lombardia,Guindani Arcangela,3952433584,10.0760631,45.1668785
 Spinadesco,CREMONA,Lombardia,,3802143581,9.9310721,45.1469607
-Ponti sul Mincio,MANTOVA,Lombardia,Centro ortofrutticolo La Fiducia,703284042,10.6870211,45.4229743
 Ponti sul Mincio,MANTOVA,Lombardia,Centro ortofrutticolo La Fiducia,703284042,10.6870211,45.4229743
 Volta Mantovana,MANTOVA,Lombardia,La Dispensa Contadina,2412100338,10.660022,45.3231414999999
 Appiano sulla Strada del Vino,BOLZANO,Trentino-Alto Adige,,1427764063,11.2611966,46.4720409999999

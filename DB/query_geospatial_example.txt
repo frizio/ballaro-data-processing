@@ -1,0 +1,15 @@
+______________________________________________________________________________________________________________________________
+$latitude
+$longitude
+$radius
+$EARTH_CIRCUMFERENCE_METERS = 40075 * 1000;
+$DEGREES2METERS = $EARTH_CIRCUMFERENCE_METERS / 360;
+
+Query:
+select *
+from Positions p
+where sqrt(pow(abs(p.latitude - $latitude), 2) + pow(abs(p.longitude - $longitude), 2)) < ($radius/$DEGREES2METERS) 
+
+------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------

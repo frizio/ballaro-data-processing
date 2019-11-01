@@ -1,3 +1,3 @@
 # Dati Ballaro Application
 
-## Cartella out/: dati processati da usare
+## Cartella out/: I dati processati automaticamente e manualmente importati nel database e usati dall'app.

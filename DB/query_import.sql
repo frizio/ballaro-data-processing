@@ -1,4 +1,4 @@
-CREATE TABLE mercati(comune CHAR(30), provincia CHAR(30), regione CHAR(30), nome CHAR(50), osmid BIGINT PRIMARY KEY, longitude REAL, latitude REAL);
+CREATE TABLE mercati(comune CHAR(30), provincia CHAR(30), regione CHAR(30), nome CHAR(50), osmid BIGINT PRIMARY KEY, longitude REAL, latitude REAL, giorno CHAR(20), descrizione VARCHAR(100));
 --- cat ~/CODE/Projects-personali/ballaro/ballaro-data-processing/out/Mappa-dei-negozi-di-frutta-e-verdura-in-Italia_postproc.csv | psql `heroku config:get DATABASE_URL` -c "COPY mercati FROM STDIN WITH (FORMAT CSV);"
 
 CREATE TABLE coltivazioni(id CHAR(5), provincia CHAR(30), tipo CHAR(50), quantita REAL);
